@@ -1,0 +1,4015 @@
+{
+ "[10.00] MiamiDome.replay": {
+  "dur": 14408,
+  "input_hash": "b512f5ba6fdfafb0",
+  "level": "Miami Dome",
+  "match_id": "bh_0d0d75731296e8bd",
+  "n_inputs": 2608,
+  "n_kos": 4,
+  "patch": "10.00",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "BARRAZA",
+    21
+   ],
+   [
+    1,
+    "Earpiece",
+    "CASSIDY",
+    4
+   ]
+  ],
+  "result": null
+ },
+ "[10.00] SmallEnigma.replay": {
+  "dur": 14004,
+  "input_hash": "fbfa19142002b9d7",
+  "level": "Small Enigma",
+  "match_id": "bh_f1b267bf282286f0",
+  "n_inputs": 1822,
+  "n_kos": 5,
+  "patch": "10.00",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "Kovex_Creed",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[10.00] SmallFortressof.replay": {
+  "dur": 8804,
+  "input_hash": "da0bb930656bf3b4",
+  "level": "Small Fortressof",
+  "match_id": "bh_e6db236b4184d2d5",
+  "n_inputs": 1248,
+  "n_kos": 4,
+  "patch": "10.00",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "Phantom",
+    "ARTEMIS",
+    37
+   ]
+  ],
+  "result": null
+ },
+ "[10.00] TwilightGrove.replay": {
+  "dur": 17890,
+  "input_hash": "2253d30ea911d58b",
+  "level": "Twilight Grove",
+  "match_id": "bh_96d712dc63889618",
+  "n_inputs": 2416,
+  "n_kos": 5,
+  "patch": "10.00",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    "PerroEnano10",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[10.01] DemonIsland (1).replay": {
+  "dur": 13259,
+  "input_hash": "8e8b3a0385922f44",
+  "level": "Demon Island",
+  "match_id": "bh_6805ba9c9f56b8d1",
+  "n_inputs": 1727,
+  "n_kos": 4,
+  "patch": "10.01",
+  "players": [
+   [
+    0,
+    "lalozp0978",
+    "SIR ROLAND",
+    11
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[10.01] SmallWorld'sEnd (2).replay": {
+  "dur": 12299,
+  "input_hash": "92cbeb0918bf3493",
+  "level": "Small World's End",
+  "match_id": "bh_46769302a5f378ae",
+  "n_inputs": 1849,
+  "n_kos": 4,
+  "patch": "10.01",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    null,
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[10.01] WesternAirTemple (2).replay": {
+  "dur": 10016,
+  "input_hash": "b0281930067e17f1",
+  "level": "Western Air Temple",
+  "match_id": "bh_9a2fb346dd17b285",
+  "n_inputs": 1547,
+  "n_kos": 4,
+  "patch": "10.01",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "BARRAZA",
+    21
+   ],
+   [
+    1,
+    "lormoney_7",
+    "VAL",
+    30
+   ]
+  ],
+  "result": null
+ },
+ "[10.01] WesternAirTemple (5).replay": {
+  "dur": 10574,
+  "input_hash": "a4ae85501257448d",
+  "level": "Western Air Temple",
+  "match_id": "bh_b1650e0fcc5b38b9",
+  "n_inputs": 1716,
+  "n_kos": 5,
+  "patch": "10.01",
+  "players": [
+   [
+    0,
+    "Adr1_PR",
+    "SCARLET",
+    12
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[10.02] DemonIsland.replay": {
+  "dur": 10933,
+  "input_hash": "367ee20f29e1f66c",
+  "level": "Demon Island",
+  "match_id": "bh_3334a1719566f1fb",
+  "n_inputs": 1757,
+  "n_kos": 5,
+  "patch": "10.02",
+  "players": [
+   [
+    0,
+    "XxnotkilluaxX",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[10.02] SmallWorld'sEnd.replay": {
+  "dur": 10734,
+  "input_hash": "e565ed4a822e44ab",
+  "level": "Small World's End",
+  "match_id": "bh_378f88673a4b7685",
+  "n_inputs": 1503,
+  "n_kos": 4,
+  "patch": "10.02",
+  "players": [
+   [
+    0,
+    "XxnotkilluaxX",
+    "SEVEN",
+    61
+   ],
+   [
+    1,
+    "xugo54",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[10.03] MiamiDome.replay": {
+  "dur": 8507,
+  "input_hash": "36fd136419744d0f",
+  "level": "Miami Dome",
+  "match_id": "bh_f2bf5b9a9af6dc52",
+  "n_inputs": 1326,
+  "n_kos": 0,
+  "patch": "10.03",
+  "players": [
+   [
+    0,
+    "Green-Cosmo00",
+    "MIRAGE",
+    33
+   ],
+   [
+    1,
+    "xugo54",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[10.06] Apocalypse.replay": {
+  "dur": 16335,
+  "input_hash": "51b5ea58c159aeaa",
+  "level": "Apocalypse",
+  "match_id": "bh_6d3c907ab0cf262f",
+  "n_inputs": 2670,
+  "n_kos": 5,
+  "patch": "10.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    "SlyDough",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[10.06] BikiniBottom.replay": {
+  "dur": 18194,
+  "input_hash": "45081884888810bc",
+  "level": "Bikini Bottom",
+  "match_id": "bh_fbbbc1094b926ec4",
+  "n_inputs": 2967,
+  "n_kos": 5,
+  "patch": "10.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "SlyDough",
+    "PRIYA",
+    67
+   ]
+  ],
+  "result": null
+ },
+ "[10.06] DemonIsland.replay": {
+  "dur": 9767,
+  "input_hash": "e552d906f811706f",
+  "level": "Demon Island",
+  "match_id": "bh_b4002b8c3b50bdcf",
+  "n_inputs": 1665,
+  "n_kos": 4,
+  "patch": "10.06",
+  "players": [
+   [
+    0,
+    "SlyDough",
+    "ISAIAH",
+    41
+   ],
+   [
+    1,
+    "xugo54",
+    "BARRAZA",
+    21
+   ]
+  ],
+  "result": null
+ },
+ "[10.06] ShadowscarLanding.replay": {
+  "dur": 15141,
+  "input_hash": "560ef355670fed73",
+  "level": "Shadowscar Landing",
+  "match_id": "bh_f5495fc900d6bd74",
+  "n_inputs": 2595,
+  "n_kos": 5,
+  "patch": "10.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "XULL",
+    40
+   ],
+   [
+    1,
+    "SlyDough",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[10.09] MishimaDojo.replay": {
+  "dur": 7321,
+  "input_hash": "a6bc3fe5a2a85d1f",
+  "level": "Mishima Dojo",
+  "match_id": "bh_bcb2f21ae056ad66",
+  "n_inputs": 1209,
+  "n_kos": 3,
+  "patch": "10.09",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "THATCH",
+    13
+   ],
+   [
+    1,
+    "Allahkoze",
+    "SENTINEL",
+    15
+   ]
+  ],
+  "result": null
+ },
+ "[10.09] MosEisley.replay": {
+  "dur": 14308,
+  "input_hash": "804a0850de8ce111",
+  "level": "Mos Eisley",
+  "match_id": "bh_74aa9a4e355bbe72",
+  "n_inputs": 2132,
+  "n_kos": 4,
+  "patch": "10.09",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "PETRA",
+    50
+   ],
+   [
+    1,
+    "MivaGina",
+    "FAIT",
+    48
+   ]
+  ],
+  "result": null
+ },
+ "[10.09] SmallBrawlhaven.replay": {
+  "dur": 1753,
+  "input_hash": "d18c47a4e9216404",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_9640896fd2359152",
+  "n_inputs": 27,
+  "n_kos": 3,
+  "patch": "10.09",
+  "players": [
+   [
+    0,
+    "Vegeto456",
+    "XULL",
+    40
+   ]
+  ],
+  "result": null
+ },
+ "[10.09] SmallWorld'sEnd.replay": {
+  "dur": 15088,
+  "input_hash": "c6dbf8ae7a4fcc03",
+  "level": "Small World's End",
+  "match_id": "bh_df4dcd88e7685100",
+  "n_inputs": 2228,
+  "n_kos": 5,
+  "patch": "10.09",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    "spyro",
+    "PRIYA",
+    67
+   ]
+  ],
+  "result": null
+ },
+ "[6.06] DemonIslandEXP (3).replay": {
+  "dur": 9193,
+  "input_hash": "a20775efde4728c3",
+  "level": "Demon Island EXP",
+  "match_id": "bh_f587c2da70c072b0",
+  "n_inputs": 1191,
+  "n_kos": 5,
+  "patch": "6.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "CrimzonMaestro",
+    "FAIT",
+    48
+   ]
+  ],
+  "result": null
+ },
+ "[6.06] MiamiDome.replay": {
+  "dur": 8855,
+  "input_hash": "8151ccbd7edeacf4",
+  "level": "Miami Dome",
+  "match_id": "bh_1b7265256d907143",
+  "n_inputs": 1406,
+  "n_kos": 0,
+  "patch": "6.06",
+  "players": [
+   [
+    0,
+    "beast",
+    "ASURI",
+    20
+   ],
+   [
+    1,
+    "xugo54",
+    "ZARIEL",
+    45
+   ]
+  ],
+  "result": null
+ },
+ "[6.06] SmallFortressof (11).replay": {
+  "dur": 11122,
+  "input_hash": "6df3ff557adb87fa",
+  "level": "Small Fortressof",
+  "match_id": "bh_aed866b46deed298",
+  "n_inputs": 1573,
+  "n_kos": 0,
+  "patch": "6.06",
+  "players": [
+   [
+    0,
+    "Been Juicy",
+    "DUSK",
+    47
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[6.06] SpiritRealm (2).replay": {
+  "dur": 4618,
+  "input_hash": "b35aa0b3f3eab83c",
+  "level": "Spirit Realm",
+  "match_id": "bh_9bf8bbd0a7413d4d",
+  "n_inputs": 721,
+  "n_kos": 0,
+  "patch": "6.06",
+  "players": [
+   [
+    0,
+    "jaylen_501",
+    "PETRA",
+    50
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[6.07] Apocalypse (7).replay": {
+  "dur": 10933,
+  "input_hash": "2fc986b596b220ef",
+  "level": "Apocalypse",
+  "match_id": "bh_306634215a5753c3",
+  "n_inputs": 2002,
+  "n_kos": 0,
+  "patch": "6.07",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "kcsnyder4",
+    "ARTEMIS",
+    37
+   ]
+  ],
+  "result": null
+ },
+ "[6.07] DemonIsland (1).replay": {
+  "dur": 12441,
+  "input_hash": "b017883b72bb7ace",
+  "level": "Demon Island",
+  "match_id": "bh_de2d5497150edb57",
+  "n_inputs": 2177,
+  "n_kos": 5,
+  "patch": "6.07",
+  "players": [
+   [
+    0,
+    "Rect1fy-_",
+    "JAEYUN",
+    54
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[6.07] DemonIslandEXP (3).replay": {
+  "dur": 13459,
+  "input_hash": "3836bba43850f7a5",
+  "level": "Demon Island EXP",
+  "match_id": "bh_d55ffdbc72425ad9",
+  "n_inputs": 2131,
+  "n_kos": 5,
+  "patch": "6.07",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "ASoggyTaco_",
+    "ARTEMIS",
+    37
+   ]
+  ],
+  "result": null
+ },
+ "[6.07] SpiritRealmEXP (15).replay": {
+  "dur": 7596,
+  "input_hash": "15c0457edc576e01",
+  "level": "Spirit Realm EXP",
+  "match_id": "bh_6f8e20dace955e8e",
+  "n_inputs": 1168,
+  "n_kos": 4,
+  "patch": "6.07",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "EMBER",
+    18
+   ],
+   [
+    1,
+    "Dangles",
+    "FAIT",
+    48
+   ]
+  ],
+  "result": null
+ },
+ "[6.08] CrystalTempleEXP (4).replay": {
+  "dur": 13280,
+  "input_hash": "8b1e3be9376e2a3a",
+  "level": "Crystal Temple EXP",
+  "match_id": "bh_071e4893b133d3aa",
+  "n_inputs": 2118,
+  "n_kos": 5,
+  "patch": "6.08",
+  "players": [
+   [
+    0,
+    "Fireboy326-",
+    "HATTORI",
+    10
+   ],
+   [
+    1,
+    "xugo54",
+    "RENO",
+    57
+   ]
+  ],
+  "result": null
+ },
+ "[6.08] SmallBrawlhaven (17).replay": {
+  "dur": 13936,
+  "input_hash": "610dd5872a0679ac",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_7720c2e801c1553d",
+  "n_inputs": 1870,
+  "n_kos": 0,
+  "patch": "6.08",
+  "players": [
+   [
+    0,
+    "GLITCHONTHIS_l_",
+    "SCARLET",
+    12
+   ],
+   [
+    1,
+    "xugo54",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[6.08] SmallMammothEXP (14).replay": {
+  "dur": 8722,
+  "input_hash": "6f4b117f723ab44e",
+  "level": "Small Mammoth EXP",
+  "match_id": "bh_9c6833a8bf24f54d",
+  "n_inputs": 1294,
+  "n_kos": 0,
+  "patch": "6.08",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "EMBER",
+    18
+   ],
+   [
+    1,
+    "Champion",
+    "ORION",
+    5
+   ]
+  ],
+  "result": null
+ },
+ "[6.08] SmallThundergard (11).replay": {
+  "dur": 8197,
+  "input_hash": "e934368b92573d01",
+  "level": "Small Thundergard",
+  "match_id": "bh_fc45df5b2c528dc4",
+  "n_inputs": 1355,
+  "n_kos": 4,
+  "patch": "6.08",
+  "players": [
+   [
+    0,
+    "Fifa237101",
+    "KOJI",
+    24
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[6.09] CrystalTempleEXP (3).replay": {
+  "dur": 10672,
+  "input_hash": "372b318df9e310b2",
+  "level": "Crystal Temple EXP",
+  "match_id": "bh_502aa8a4eec4c3e7",
+  "n_inputs": 1503,
+  "n_kos": 0,
+  "patch": "6.09",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "SeYmEn?",
+    "RAYMAN",
+    46
+   ]
+  ],
+  "result": null
+ },
+ "[6.09] SmallFangwildEXP (1).replay": {
+  "dur": 9219,
+  "input_hash": "281ee4988bead025",
+  "level": "Small Fangwild EXP",
+  "match_id": "bh_c12f0283816794cb",
+  "n_inputs": 1212,
+  "n_kos": 0,
+  "patch": "6.09",
+  "players": [
+   [
+    0,
+    "cosmic_nature2",
+    "RAGNIR",
+    31
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[6.09] SmallFortressof.replay": {
+  "dur": 8732,
+  "input_hash": "80e53441f4e237dd",
+  "level": "Small Fortressof",
+  "match_id": "bh_4ff738210e704d0c",
+  "n_inputs": 1178,
+  "n_kos": 0,
+  "patch": "6.09",
+  "players": [
+   [
+    0,
+    "Aoi ken",
+    "ISAIAH",
+    41
+   ],
+   [
+    1,
+    "xugo54",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[6.09] SmallMammothEXP (9).replay": {
+  "dur": 12696,
+  "input_hash": "388739a465b18bad",
+  "level": "Small Mammoth EXP",
+  "match_id": "bh_2e9a602ba75314d4",
+  "n_inputs": 1724,
+  "n_kos": 0,
+  "patch": "6.09",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "Mick",
+    "ULGRIM",
+    22
+   ]
+  ],
+  "result": null
+ },
+ "[6.10] CrystalTempleEXP (2).replay": {
+  "dur": 12584,
+  "input_hash": "423c4ab632bf858d",
+  "level": "Crystal Temple EXP",
+  "match_id": "bh_73ad85f2481a77f2",
+  "n_inputs": 1580,
+  "n_kos": 0,
+  "patch": "6.10",
+  "players": [
+   [
+    0,
+    "x label",
+    "KOJI",
+    24
+   ],
+   [
+    1,
+    "xugo54",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[6.10] MiamiDome (3).replay": {
+  "dur": 12753,
+  "input_hash": "af3542bad400d07d",
+  "level": "Miami Dome",
+  "match_id": "bh_6796c63c01d5389d",
+  "n_inputs": 1744,
+  "n_kos": 0,
+  "patch": "6.10",
+  "players": [
+   [
+    0,
+    "LeKrak",
+    "MORDEX",
+    35
+   ],
+   [
+    1,
+    "xugo54",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[6.10] SmallFortressof (1).replay": {
+  "dur": 6214,
+  "input_hash": "0124820d117e1349",
+  "level": "Small Fortressof",
+  "match_id": "bh_2b0fbd0e619207ab",
+  "n_inputs": 726,
+  "n_kos": 0,
+  "patch": "6.10",
+  "players": [
+   [
+    0,
+    "Monki77",
+    "RAGNIR",
+    31
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[6.10] SpiritRealm.replay": {
+  "dur": 8940,
+  "input_hash": "8dcaa9e5ca6d6d8d",
+  "level": "Spirit Realm",
+  "match_id": "bh_b32947ed80c93c5a",
+  "n_inputs": 1115,
+  "n_kos": 0,
+  "patch": "6.10",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "XULL",
+    40
+   ],
+   [
+    1,
+    "Bori BoredXD",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[6.11] DemonIsland (10).replay": {
+  "dur": 9671,
+  "input_hash": "f628ffa5f2f1c6bd",
+  "level": "Demon Island",
+  "match_id": "bh_e57bc03097940e56",
+  "n_inputs": 1495,
+  "n_kos": 3,
+  "patch": "6.11",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KOJI",
+    24
+   ],
+   [
+    1,
+    "miss keisha 123",
+    "JHALA",
+    26
+   ]
+  ],
+  "result": null
+ },
+ "[6.11] SmallBrawlhaven (6).replay": {
+  "dur": 11670,
+  "input_hash": "d8adc47a41ae43d6",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_74ef95f915798a37",
+  "n_inputs": 2219,
+  "n_kos": 0,
+  "patch": "6.11",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "XxTaybuddaxX",
+    "ARTEMIS",
+    37
+   ]
+  ],
+  "result": null
+ },
+ "[6.11] SmallTurtles'.replay": {
+  "dur": 9102,
+  "input_hash": "be3c6093c33adebd",
+  "level": "Small Turtles' Lair",
+  "match_id": "bh_4c37790053919ebf",
+  "n_inputs": 1691,
+  "n_kos": 0,
+  "patch": "6.11",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "THATCH",
+    13
+   ],
+   [
+    1,
+    "Usableshark48",
+    "EZIO",
+    60
+   ]
+  ],
+  "result": null
+ },
+ "[6.11] TempleRuins.replay": {
+  "dur": 17558,
+  "input_hash": "9e222adde0a9cb01",
+  "level": "Temple Ruins",
+  "match_id": "bh_6aee6fd35dd17f9a",
+  "n_inputs": 2503,
+  "n_kos": 0,
+  "patch": "6.11",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "THATCH",
+    13
+   ],
+   [
+    1,
+    "xugo54",
+    "AZOTH",
+    23
+   ]
+  ],
+  "result": null
+ },
+ "[7.00] SmallFabledCity (1).replay": {
+  "dur": 7130,
+  "input_hash": "5cac96fbe6ca7574",
+  "level": "Small Fabled City",
+  "match_id": "bh_08771255f1110c3f",
+  "n_inputs": 1165,
+  "n_kos": 0,
+  "patch": "7.00",
+  "players": [
+   [
+    0,
+    "peter.almanzar",
+    "WU SHANG",
+    29
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.00] SmallFangwild (2).replay": {
+  "dur": 9361,
+  "input_hash": "a0dd9f4675c44efe",
+  "level": "Small Fangwild",
+  "match_id": "bh_eddb7bebe54b1dad",
+  "n_inputs": 3012,
+  "n_kos": 0,
+  "patch": "7.00",
+  "players": [
+   [
+    0,
+    "miss keisha 123",
+    "ASURI",
+    20
+   ],
+   [
+    1,
+    "xugo54",
+    "BARRAZA",
+    21
+   ],
+   [
+    2,
+    "NotJuelz",
+    "HATTORI",
+    10
+   ],
+   [
+    3,
+    "Swag614",
+    "WU SHANG",
+    29
+   ]
+  ],
+  "result": null
+ },
+ "[7.00] SmallKingsPass.replay": {
+  "dur": 7164,
+  "input_hash": "8f6dbe73ac33d960",
+  "level": "Small Kings Pass",
+  "match_id": "bh_71adf56aedbd3509",
+  "n_inputs": 1219,
+  "n_kos": 0,
+  "patch": "7.00",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "THATCH",
+    13
+   ],
+   [
+    1,
+    "yoloroxer",
+    "ULGRIM",
+    22
+   ]
+  ],
+  "result": null
+ },
+ "[7.00] SuzakuCastle (3).replay": {
+  "dur": 13504,
+  "input_hash": "69b857bc80369ae7",
+  "level": "Suzaku Castle",
+  "match_id": "bh_fa4d1542a177afec",
+  "n_inputs": 2412,
+  "n_kos": 0,
+  "patch": "7.00",
+  "players": [
+   [
+    0,
+    "peter.almanzar",
+    "ISAIAH",
+    41
+   ],
+   [
+    1,
+    "xugo54",
+    "THATCH",
+    13
+   ]
+  ],
+  "result": null
+ },
+ "[7.01] SmallBrawlhaven (13).replay": {
+  "dur": 11589,
+  "input_hash": "36bf76125040d8ba",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_4c417facfbba2e3f",
+  "n_inputs": 1603,
+  "n_kos": 0,
+  "patch": "7.01",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "ARCADIA",
+    59
+   ],
+   [
+    1,
+    "kuaevi",
+    "YUMIKO",
+    36
+   ]
+  ],
+  "result": null
+ },
+ "[7.01] SmallFortressof (1).replay": {
+  "dur": 8214,
+  "input_hash": "9bd790799c76e823",
+  "level": "Small Fortressof",
+  "match_id": "bh_a2bfd1bf5fde069b",
+  "n_inputs": 1111,
+  "n_kos": 0,
+  "patch": "7.01",
+  "players": [
+   [
+    0,
+    "Y A M A N J I",
+    "CASPIAN",
+    38
+   ],
+   [
+    1,
+    "xugo54",
+    "THATCH",
+    13
+   ]
+  ],
+  "result": null
+ },
+ "[7.01] SmallGalvanPrime (1).replay": {
+  "dur": 7065,
+  "input_hash": "dcbfd11990980c45",
+  "level": "Small Galvan Prime",
+  "match_id": "bh_1c9e9c2e416cd744",
+  "n_inputs": 1128,
+  "n_kos": 3,
+  "patch": "7.01",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    null,
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[7.01] SpiritRealm (1).replay": {
+  "dur": 5402,
+  "input_hash": "2c0d2bd507a42568",
+  "level": "Spirit Realm",
+  "match_id": "bh_2d9e696b30a1b473",
+  "n_inputs": 719,
+  "n_kos": 0,
+  "patch": "7.01",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "THATCH",
+    13
+   ],
+   [
+    1,
+    "Kingbwow",
+    "ORION",
+    5
+   ]
+  ],
+  "result": null
+ },
+ "[7.02] Apocalypse (1).replay": {
+  "dur": 10671,
+  "input_hash": "dff429b4f08c8c8b",
+  "level": "Apocalypse",
+  "match_id": "bh_cbb6adfb896c73e5",
+  "n_inputs": 1502,
+  "n_kos": 5,
+  "patch": "7.02",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "BARRAZA",
+    21
+   ],
+   [
+    1,
+    "Practice acc",
+    "MORDEX",
+    35
+   ]
+  ],
+  "result": null
+ },
+ "[7.02] Apocalypse.replay": {
+  "dur": 13181,
+  "input_hash": "651eb4c79a384dfa",
+  "level": "Apocalypse",
+  "match_id": "bh_89db8fcfc523f9e1",
+  "n_inputs": 1988,
+  "n_kos": 0,
+  "patch": "7.02",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "GhostSweeter",
+    "TEZCA",
+    63
+   ]
+  ],
+  "result": null
+ },
+ "[7.02] CrystalTempleEXP (3).replay": {
+  "dur": 10790,
+  "input_hash": "c529bbfb813f3752",
+  "level": "Crystal Temple EXP",
+  "match_id": "bh_78007d109db5e307",
+  "n_inputs": 1699,
+  "n_kos": 0,
+  "patch": "7.02",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "TEZCA",
+    63
+   ],
+   [
+    1,
+    "JxstBoogie",
+    "ULGRIM",
+    22
+   ]
+  ],
+  "result": null
+ },
+ "[7.02] SpiritRealm.replay": {
+  "dur": 1504,
+  "input_hash": "f96182b8a15153d0",
+  "level": "Spirit Realm",
+  "match_id": "bh_ad32577140e715b2",
+  "n_inputs": 188,
+  "n_kos": 0,
+  "patch": "7.02",
+  "players": [
+   [
+    0,
+    "W Rizz",
+    "WU SHANG",
+    29
+   ],
+   [
+    1,
+    "xugo54",
+    "TEZCA",
+    63
+   ]
+  ],
+  "result": null
+ },
+ "[7.03] PlainsofPassage.replay": {
+  "dur": 9434,
+  "input_hash": "0e382c9729ba59e2",
+  "level": "Plainsof Passage",
+  "match_id": "bh_4fdb24176e9e937a",
+  "n_inputs": 1656,
+  "n_kos": 5,
+  "patch": "7.03",
+  "players": [
+   [
+    0,
+    "AGodzKryptonite",
+    "LUCIEN",
+    9
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.03] SmallBrawlhaven.replay": {
+  "dur": 10928,
+  "input_hash": "0ce4ef78ab4a674a",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_80dc80a571b627f5",
+  "n_inputs": 2003,
+  "n_kos": 5,
+  "patch": "7.03",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "ONYX",
+    53
+   ],
+   [
+    1,
+    "Supremewhis1355",
+    "NIX",
+    34
+   ]
+  ],
+  "result": null
+ },
+ "[7.03] SmallGalvanPrime (1).replay": {
+  "dur": 13281,
+  "input_hash": "ef7da861612d97fa",
+  "level": "Small Galvan Prime",
+  "match_id": "bh_ac8130e545343d40",
+  "n_inputs": 1852,
+  "n_kos": 5,
+  "patch": "7.03",
+  "players": [
+   [
+    0,
+    "Brawler",
+    "MORDEX",
+    35
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.03] WesternAirTemple (2).replay": {
+  "dur": 10068,
+  "input_hash": "7c42272e47389fbe",
+  "level": "Western Air Temple",
+  "match_id": "bh_cc2357d2d7d417ee",
+  "n_inputs": 1547,
+  "n_kos": 5,
+  "patch": "7.03",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "CreekBrothers",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.04] DemonIsland.replay": {
+  "dur": 9823,
+  "input_hash": "a554b962f06e0e53",
+  "level": "Demon Island",
+  "match_id": "bh_e4f3da91935c2dfe",
+  "n_inputs": 1518,
+  "n_kos": 5,
+  "patch": "7.04",
+  "players": [
+   [
+    0,
+    "MeAndMySon4188",
+    "EMBER",
+    18
+   ],
+   [
+    1,
+    "xugo54",
+    "THATCH",
+    13
+   ]
+  ],
+  "result": null
+ },
+ "[7.04] PlainsofPassage.replay": {
+  "dur": 12626,
+  "input_hash": "089c529ae83b707f",
+  "level": "Plainsof Passage",
+  "match_id": "bh_3b65778d8f726c7c",
+  "n_inputs": 2063,
+  "n_kos": 4,
+  "patch": "7.04",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "SAiKOU",
+    "ASURI",
+    20
+   ]
+  ],
+  "result": null
+ },
+ "[7.04] SmallFangwildEXP.replay": {
+  "dur": 6536,
+  "input_hash": "fbbbff4dea39de21",
+  "level": "Small Fangwild EXP",
+  "match_id": "bh_ead79a9736427ef2",
+  "n_inputs": 794,
+  "n_kos": 4,
+  "patch": "7.04",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "iAmIXA-",
+    "NIX",
+    34
+   ]
+  ],
+  "result": null
+ },
+ "[7.04] SpiritRealm.replay": {
+  "dur": 6225,
+  "input_hash": "2d5de16161af2a0d",
+  "level": "Spirit Realm",
+  "match_id": "bh_0f673cfa8e807a33",
+  "n_inputs": 960,
+  "n_kos": 4,
+  "patch": "7.04",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "THATCH",
+    13
+   ],
+   [
+    1,
+    "Subnorman4535",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.05] CrystalTempleEXP (1).replay": {
+  "dur": 9950,
+  "input_hash": "bcc72dc971310582",
+  "level": "Crystal Temple EXP",
+  "match_id": "bh_a9ff65672d98218b",
+  "n_inputs": 1555,
+  "n_kos": 5,
+  "patch": "7.05",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "BARRAZA",
+    21
+   ],
+   [
+    1,
+    "FiRE BOLT YT",
+    "RAGNIR",
+    31
+   ]
+  ],
+  "result": null
+ },
+ "[7.05] InvertedDracula's.replay": {
+  "dur": 6901,
+  "input_hash": "536259b0db0d7255",
+  "level": "Inverted Dracula's",
+  "match_id": "bh_0d6c8d04b5bf8d66",
+  "n_inputs": 814,
+  "n_kos": 4,
+  "patch": "7.05",
+  "players": [
+   [
+    0,
+    ".seek",
+    "BRYNN",
+    19
+   ],
+   [
+    1,
+    "xugo54",
+    "DUSK",
+    47
+   ]
+  ],
+  "result": null
+ },
+ "[7.05] SmallFangwildEXP (5).replay": {
+  "dur": 12572,
+  "input_hash": "3e204cb7bf98b9db",
+  "level": "Small Fangwild EXP",
+  "match_id": "bh_435ba53497e9dff7",
+  "n_inputs": 1914,
+  "n_kos": 5,
+  "patch": "7.05",
+  "players": [
+   [
+    0,
+    "flameXdude",
+    "WU SHANG",
+    29
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.05] SmallGreatHall (1).replay": {
+  "dur": 10644,
+  "input_hash": "8c3cc386669b30ac",
+  "level": "Small Great Hall",
+  "match_id": "bh_d5782482500a57ca",
+  "n_inputs": 1613,
+  "n_kos": 4,
+  "patch": "7.05",
+  "players": [
+   [
+    0,
+    "Dougy76649",
+    "MORDEX",
+    35
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.06] CrystalTemple.replay": {
+  "dur": 13148,
+  "input_hash": "7181dbbd0e81c8ad",
+  "level": "Crystal Temple",
+  "match_id": "bh_e2a2aaa86036658e",
+  "n_inputs": 2285,
+  "n_kos": 4,
+  "patch": "7.06",
+  "players": [
+   [
+    0,
+    "Jqixc",
+    "THEA",
+    62
+   ],
+   [
+    1,
+    "xugo54",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[7.06] DemonIsland (4).replay": {
+  "dur": 13558,
+  "input_hash": "a5fe215d1d5d3c06",
+  "level": "Demon Island",
+  "match_id": "bh_f1286d6833b72633",
+  "n_inputs": 2279,
+  "n_kos": 5,
+  "patch": "7.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "NickNinjaGaiden",
+    "ORION",
+    5
+   ]
+  ],
+  "result": null
+ },
+ "[7.06] MiamiDome (4).replay": {
+  "dur": 10025,
+  "input_hash": "a37a48166a8a56f4",
+  "level": "Miami Dome",
+  "match_id": "bh_b282939833e91399",
+  "n_inputs": 1432,
+  "n_kos": 4,
+  "patch": "7.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "Murky",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[7.06] SmallFangwildEXP (1).replay": {
+  "dur": 11978,
+  "input_hash": "2621e4ec3d235c7b",
+  "level": "Small Fangwild EXP",
+  "match_id": "bh_72acf5a8c29b984f",
+  "n_inputs": 1664,
+  "n_kos": 5,
+  "patch": "7.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "Charmido",
+    "KOJI",
+    24
+   ]
+  ],
+  "result": null
+ },
+ "[7.07] Apocalypse.replay": {
+  "dur": 11611,
+  "input_hash": "786c0d336ab5c90b",
+  "level": "Apocalypse",
+  "match_id": "bh_53d633bcba1b1dee",
+  "n_inputs": 1669,
+  "n_kos": 5,
+  "patch": "7.07",
+  "players": [
+   [
+    0,
+    "qvkct",
+    "SCARLET",
+    12
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.07] ShipwreckFalls.replay": {
+  "dur": 11579,
+  "input_hash": "dc169a6e56a55ced",
+  "level": "Shipwreck Falls",
+  "match_id": "bh_d3c89758f15c2d5c",
+  "n_inputs": 1869,
+  "n_kos": 4,
+  "patch": "7.07",
+  "players": [
+   [
+    0,
+    "Covid Vaccine",
+    "CASSIDY",
+    4
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.07] SmallFangwildEXP.replay": {
+  "dur": 5851,
+  "input_hash": "43a19dfd02d91cec",
+  "level": "Small Fangwild EXP",
+  "match_id": "bh_589ee3d59388ed68",
+  "n_inputs": 879,
+  "n_kos": 3,
+  "patch": "7.07",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    null,
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[7.07] SmallMammothEXP.replay": {
+  "dur": 15779,
+  "input_hash": "48733b42b0623ddb",
+  "level": "Small Mammoth EXP",
+  "match_id": "bh_5b3faf6bc57b17ab",
+  "n_inputs": 2530,
+  "n_kos": 5,
+  "patch": "7.07",
+  "players": [
+   [
+    0,
+    "Javaun",
+    "WU SHANG",
+    29
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.08] Apocalypse.replay": {
+  "dur": 11364,
+  "input_hash": "4364b0bea9386423",
+  "level": "Apocalypse",
+  "match_id": "bh_0e63121a754b0846",
+  "n_inputs": 1728,
+  "n_kos": 5,
+  "patch": "7.08",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "Mozard07",
+    "MORDEX",
+    35
+   ]
+  ],
+  "result": null
+ },
+ "[7.08] ShipwreckFalls (1).replay": {
+  "dur": 11523,
+  "input_hash": "7ceaa645d8deb380",
+  "level": "Shipwreck Falls",
+  "match_id": "bh_56890d699df6b222",
+  "n_inputs": 1629,
+  "n_kos": 5,
+  "patch": "7.08",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "ribbit",
+    "ZARIEL",
+    45
+   ]
+  ],
+  "result": null
+ },
+ "[7.08] SmallFortressof.replay": {
+  "dur": 10500,
+  "input_hash": "2cc8b7bf462385bb",
+  "level": "Small Fortressof",
+  "match_id": "bh_cc300ccd33444883",
+  "n_inputs": 2046,
+  "n_kos": 4,
+  "patch": "7.08",
+  "players": [
+   [
+    0,
+    "FazeAlphaTokyo",
+    "JAEYUN",
+    54
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.08] WesternAirTemple (2).replay": {
+  "dur": 8303,
+  "input_hash": "220a3f4c53028bce",
+  "level": "Western Air Temple",
+  "match_id": "bh_8788cb4c0d2f059e",
+  "n_inputs": 1316,
+  "n_kos": 4,
+  "patch": "7.08",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "AaronPromations",
+    "LIN FEI",
+    44
+   ]
+  ],
+  "result": null
+ },
+ "[7.09] SmallBrawlhaven (11).replay": {
+  "dur": 11364,
+  "input_hash": "379798c7455e8b5f",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_6f2a84278257f06c",
+  "n_inputs": 1881,
+  "n_kos": 5,
+  "patch": "7.09",
+  "players": [
+   [
+    0,
+    "Bas",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "xugo54",
+    "THATCH",
+    13
+   ]
+  ],
+  "result": null
+ },
+ "[7.09] SmallFangwildEXP (3).replay": {
+  "dur": 10560,
+  "input_hash": "514ac61487d45c0e",
+  "level": "Small Fangwild EXP",
+  "match_id": "bh_36b3b95430b7515a",
+  "n_inputs": 1800,
+  "n_kos": 4,
+  "patch": "7.09",
+  "players": [
+   [
+    0,
+    "TiM963x",
+    "YUMIKO",
+    36
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.09] SmallMammothEXP (1).replay": {
+  "dur": 15230,
+  "input_hash": "bac8dec7ef57ad4a",
+  "level": "Small Mammoth EXP",
+  "match_id": "bh_7cab32538d6cb33b",
+  "n_inputs": 2617,
+  "n_kos": 5,
+  "patch": "7.09",
+  "players": [
+   [
+    0,
+    "ShakerBrush9688",
+    "ASURI",
+    20
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.09] TwilightGroveEXP (2).replay": {
+  "dur": 9776,
+  "input_hash": "b0b6c2e9ac613a97",
+  "level": "Twilight Grove EXP",
+  "match_id": "bh_d3cdc88904b751e4",
+  "n_inputs": 1255,
+  "n_kos": 4,
+  "patch": "7.09",
+  "players": [
+   [
+    0,
+    "Lindsey",
+    "MUNIN",
+    58
+   ],
+   [
+    1,
+    "xugo54",
+    "CASPIAN",
+    38
+   ]
+  ],
+  "result": null
+ },
+ "[7.10] Apocalypse.replay": {
+  "dur": 14052,
+  "input_hash": "4407ec44ea3e8912",
+  "level": "Apocalypse",
+  "match_id": "bh_6006317c14fb723f",
+  "n_inputs": 2530,
+  "n_kos": 5,
+  "patch": "7.10",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "Run Thy Fade",
+    "ULGRIM",
+    22
+   ]
+  ],
+  "result": null
+ },
+ "[7.10] PlainsofPassage.replay": {
+  "dur": 10860,
+  "input_hash": "fb6598901520af2a",
+  "level": "Plainsof Passage",
+  "match_id": "bh_1d75326f717f0fa2",
+  "n_inputs": 1312,
+  "n_kos": 4,
+  "patch": "7.10",
+  "players": [
+   [
+    0,
+    "trash lunatic",
+    "RAYMAN",
+    46
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.10] SmallBrawlhaven.replay": {
+  "dur": 9984,
+  "input_hash": "4ba729386eacbe3d",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_0003953ba5bd56f2",
+  "n_inputs": 1522,
+  "n_kos": 5,
+  "patch": "7.10",
+  "players": [
+   [
+    0,
+    "yum yum pineapple",
+    "PETRA",
+    50
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[7.10] SpiritRealm.replay": {
+  "dur": 10222,
+  "input_hash": "d7efe73a13aba211",
+  "level": "Spirit Realm",
+  "match_id": "bh_c716cd4ee6acff2e",
+  "n_inputs": 1898,
+  "n_kos": 4,
+  "patch": "7.10",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "EPicYEEm8",
+    "SIR ROLAND",
+    11
+   ]
+  ],
+  "result": null
+ },
+ "[8.00] CrystalTemple (1).replay": {
+  "dur": 15250,
+  "input_hash": "4c1062e2fbafbcfd",
+  "level": "Crystal Temple",
+  "match_id": "bh_6beb02ec61283746",
+  "n_inputs": 2542,
+  "n_kos": 5,
+  "patch": "8.00",
+  "players": [
+   [
+    0,
+    "Eiron",
+    "THEA",
+    62
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[8.00] MiamiDome (7).replay": {
+  "dur": 6706,
+  "input_hash": "3370f0cd7e4d6276",
+  "level": "Miami Dome",
+  "match_id": "bh_4ae661990dde0e88",
+  "n_inputs": 980,
+  "n_kos": 4,
+  "patch": "8.00",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "MORDEX",
+    35
+   ],
+   [
+    1,
+    "StefaNy",
+    "CASSIDY",
+    4
+   ]
+  ],
+  "result": null
+ },
+ "[8.00] SmallBrawlhaven (21).replay": {
+  "dur": 9228,
+  "input_hash": "634cf2f305b844b5",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_c3b2f7e701cfd05d",
+  "n_inputs": 1272,
+  "n_kos": 5,
+  "patch": "8.00",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "Sam",
+    "JAEYUN",
+    54
+   ]
+  ],
+  "result": null
+ },
+ "[8.00] SmallFangwild (3).replay": {
+  "dur": 12975,
+  "input_hash": "8eaa97a35bdc84b0",
+  "level": "Small Fangwild",
+  "match_id": "bh_8452ed39d438d6bc",
+  "n_inputs": 2168,
+  "n_kos": 4,
+  "patch": "8.00",
+  "players": [
+   [
+    0,
+    "DrSafti",
+    "LOKI",
+    27
+   ],
+   [
+    1,
+    "xugo54",
+    "LOKI",
+    27
+   ]
+  ],
+  "result": null
+ },
+ "[8.01] SmallBrawlhaven (1).replay": {
+  "dur": 10401,
+  "input_hash": "f7a7528bfaf04228",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_79813901b870a01f",
+  "n_inputs": 1571,
+  "n_kos": 4,
+  "patch": "8.01",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "MeMor",
+    "NIX",
+    34
+   ]
+  ],
+  "result": null
+ },
+ "[8.01] SmallBrawlhaven (27).replay": {
+  "dur": 10352,
+  "input_hash": "ff8f51020fe00607",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_2032a3d0f09be1bc",
+  "n_inputs": 1613,
+  "n_kos": 5,
+  "patch": "8.01",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "imabot544",
+    "ASURI",
+    20
+   ]
+  ],
+  "result": null
+ },
+ "[8.01] SmallKingsPass (4).replay": {
+  "dur": 13902,
+  "input_hash": "2180bc0a2cf8c6e6",
+  "level": "Small Kings Pass",
+  "match_id": "bh_3939880cbaddc0e7",
+  "n_inputs": 2251,
+  "n_kos": 5,
+  "patch": "8.01",
+  "players": [
+   [
+    0,
+    "Spicy Limbicy",
+    "THEA",
+    62
+   ],
+   [
+    1,
+    "xugo54",
+    "JHALA",
+    26
+   ]
+  ],
+  "result": null
+ },
+ "[8.01] WesternAirTemple (15).replay": {
+  "dur": 11604,
+  "input_hash": "89e2479cb0b9fdb8",
+  "level": "Western Air Temple",
+  "match_id": "bh_aeab36a3f4f20582",
+  "n_inputs": 1642,
+  "n_kos": 5,
+  "patch": "8.01",
+  "players": [
+   [
+    0,
+    "xxUnscramble_235",
+    "XULL",
+    40
+   ],
+   [
+    1,
+    "xugo54",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[8.02] SmallBlackguard (5).replay": {
+  "dur": 16218,
+  "input_hash": "88f5e9f19eeec3ae",
+  "level": "Small Blackguard",
+  "match_id": "bh_0d7e806c71b97efd",
+  "n_inputs": 2826,
+  "n_kos": 5,
+  "patch": "8.02",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "Kidney Stones Victim",
+    "TEZCA",
+    63
+   ]
+  ],
+  "result": null
+ },
+ "[8.02] SmallEnigma (6).replay": {
+  "dur": 15560,
+  "input_hash": "b45baf6599a2b378",
+  "level": "Small Enigma",
+  "match_id": "bh_5d3ff64683d00a82",
+  "n_inputs": 2977,
+  "n_kos": 5,
+  "patch": "8.02",
+  "players": [
+   [
+    0,
+    "Jebby",
+    "MAKO",
+    55
+   ],
+   [
+    1,
+    "xugo54",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[8.02] SmallGalvanPrime (1).replay": {
+  "dur": 11293,
+  "input_hash": "cc1fc2415b13a4c9",
+  "level": "Small Galvan Prime",
+  "match_id": "bh_7b67a4ece1b264da",
+  "n_inputs": 1749,
+  "n_kos": 5,
+  "patch": "8.02",
+  "players": [
+   [
+    0,
+    "Maskedz",
+    "AZOTH",
+    23
+   ],
+   [
+    1,
+    "xugo54",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[8.02] TwilightGroveEXP (7).replay": {
+  "dur": 14706,
+  "input_hash": "91603ec8aaf0cf2c",
+  "level": "Twilight Grove EXP",
+  "match_id": "bh_82b94ae83c21a473",
+  "n_inputs": 2746,
+  "n_kos": 4,
+  "patch": "8.02",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "Sixxkzs",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[8.03] BikiniBottom (8).replay": {
+  "dur": 15669,
+  "input_hash": "bfef1414532d1531",
+  "level": "Bikini Bottom",
+  "match_id": "bh_7395a25aa1d5bac2",
+  "n_inputs": 3116,
+  "n_kos": 5,
+  "patch": "8.03",
+  "players": [
+   [
+    0,
+    "Thefirstvon",
+    "AZOTH",
+    23
+   ],
+   [
+    1,
+    "xugo54",
+    "EMBER",
+    18
+   ]
+  ],
+  "result": null
+ },
+ "[8.03] SmallWorld'sEnd.replay": {
+  "dur": 10897,
+  "input_hash": "6dff8ab424134e00",
+  "level": "Small World's End",
+  "match_id": "bh_779dbbd6e345668f",
+  "n_inputs": 1722,
+  "n_kos": 5,
+  "patch": "8.03",
+  "players": [
+   [
+    0,
+    "bigmikeyboi",
+    "SCARLET",
+    12
+   ],
+   [
+    1,
+    "xugo54",
+    "ASURI",
+    20
+   ]
+  ],
+  "result": null
+ },
+ "[8.03] SpiritRealm (1).replay": {
+  "dur": 10620,
+  "input_hash": "a6ad8fa697a5482c",
+  "level": "Spirit Realm",
+  "match_id": "bh_2cc2f98fd0c62828",
+  "n_inputs": 1755,
+  "n_kos": 0,
+  "patch": "8.03",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    null,
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[8.03] SpiritRealm (2).replay": {
+  "dur": 9911,
+  "input_hash": "0d81778a587b4c96",
+  "level": "Spirit Realm",
+  "match_id": "bh_de7273b6d3202ee0",
+  "n_inputs": 1453,
+  "n_kos": 3,
+  "patch": "8.03",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "iTrey",
+    "LOKI",
+    27
+   ]
+  ],
+  "result": null
+ },
+ "[8.05] DemonIsland.replay": {
+  "dur": 8599,
+  "input_hash": "2d9547691ae3541b",
+  "level": "Demon Island",
+  "match_id": "bh_64ac6cc346642ede",
+  "n_inputs": 1656,
+  "n_kos": 3,
+  "patch": "8.05",
+  "players": [
+   [
+    0,
+    "BootyTootler",
+    "NIX",
+    34
+   ],
+   [
+    1,
+    "xugo54",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[8.05] MiamiDome.replay": {
+  "dur": 11427,
+  "input_hash": "4022496fe7616f88",
+  "level": "Miami Dome",
+  "match_id": "bh_4a4e3207ca0c46a3",
+  "n_inputs": 1783,
+  "n_kos": 5,
+  "patch": "8.05",
+  "players": [
+   [
+    0,
+    "SoulLess o",
+    "NIX",
+    34
+   ],
+   [
+    1,
+    "xugo54",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[8.05] SmallTerminus.replay": {
+  "dur": 9319,
+  "input_hash": "4e3717510405432b",
+  "level": "Small Terminus",
+  "match_id": "bh_a6b6e617525b12a0",
+  "n_inputs": 1606,
+  "n_kos": 4,
+  "patch": "8.05",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "sAy N0 To DrUgs",
+    "HATTORI",
+    10
+   ]
+  ],
+  "result": null
+ },
+ "[8.05] SmallWorld'sEnd.replay": {
+  "dur": 8544,
+  "input_hash": "441e3d45e60f8b99",
+  "level": "Small World's End",
+  "match_id": "bh_641f5734e0257e70",
+  "n_inputs": 1212,
+  "n_kos": 3,
+  "patch": "8.05",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "BEAT",
+    "AZOTH",
+    23
+   ]
+  ],
+  "result": null
+ },
+ "[8.06] SmallTurtles'EXP.replay": {
+  "dur": 14088,
+  "input_hash": "a08dfe4ad72c3ca9",
+  "level": "Small Turtles'EXP",
+  "match_id": "bh_79e66aed5d7fa462",
+  "n_inputs": 2607,
+  "n_kos": 5,
+  "patch": "8.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "TPS_Drift",
+    "NIX",
+    34
+   ]
+  ],
+  "result": null
+ },
+ "[8.06] SmallWorld'sEnd.replay": {
+  "dur": 11656,
+  "input_hash": "68819327dbbd655d",
+  "level": "Small World's End",
+  "match_id": "bh_db5998d7fe53475d",
+  "n_inputs": 2030,
+  "n_kos": 5,
+  "patch": "8.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "riippk-",
+    "KOJI",
+    24
+   ]
+  ],
+  "result": null
+ },
+ "[8.07] DemonIsland.replay": {
+  "dur": 10868,
+  "input_hash": "47b2649d86adb497",
+  "level": "Demon Island",
+  "match_id": "bh_2854724118669463",
+  "n_inputs": 2036,
+  "n_kos": 5,
+  "patch": "8.07",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "THATCH",
+    13
+   ],
+   [
+    1,
+    "smokedope2016 enthusiast",
+    "EMBER",
+    18
+   ]
+  ],
+  "result": null
+ },
+ "[8.07] PlainsofPassage.replay": {
+  "dur": 3228,
+  "input_hash": "dcd9845c51bba90f",
+  "level": "Plainsof Passage",
+  "match_id": "bh_eabb416c664338bf",
+  "n_inputs": 546,
+  "n_kos": 1,
+  "patch": "8.07",
+  "players": [
+   [
+    0,
+    "Telley",
+    "CASPIAN",
+    38
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[8.07] SmallBrawlhaven (1).replay": {
+  "dur": 6062,
+  "input_hash": "76bb3bf53a910300",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_94e3b7cbf20f3880",
+  "n_inputs": 1011,
+  "n_kos": 4,
+  "patch": "8.07",
+  "players": [
+   [
+    0,
+    "kuaevi",
+    "VAL",
+    30
+   ],
+   [
+    1,
+    "xugo54",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[8.07] SmallBrawlhaven.replay": {
+  "dur": 11591,
+  "input_hash": "2bd8b1776910b864",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_922e594b42729579",
+  "n_inputs": 1854,
+  "n_kos": 5,
+  "patch": "8.07",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "Altsinc",
+    "MORDEX",
+    35
+   ]
+  ],
+  "result": null
+ },
+ "[8.08] BikiniBottom (1).replay": {
+  "dur": 0,
+  "input_hash": "97d170e1550eee4a",
+  "level": "Bikini Bottom",
+  "match_id": "bh_8bd0fbc0424afdd3",
+  "n_inputs": 0,
+  "n_kos": 0,
+  "patch": "8.08",
+  "players": [],
+  "result": null
+ },
+ "[8.08] BikiniBottom.replay": {
+  "dur": 5658,
+  "input_hash": "3d69096c35e153e3",
+  "level": "Bikini Bottom",
+  "match_id": "bh_58ea555c7f270e8f",
+  "n_inputs": 796,
+  "n_kos": 3,
+  "patch": "8.08",
+  "players": [
+   [
+    0,
+    "LUCIEN",
+    "LUCIEN",
+    9
+   ],
+   [
+    1,
+    "KAYA",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[8.08] MishimaDojo.replay": {
+  "dur": 10747,
+  "input_hash": "3a788501dbf62599",
+  "level": "Mishima Dojo",
+  "match_id": "bh_4bc96505ae7464f2",
+  "n_inputs": 1617,
+  "n_kos": 4,
+  "patch": "8.08",
+  "players": [
+   [
+    0,
+    "BRYNN",
+    "BRYNN",
+    19
+   ],
+   [
+    1,
+    "DIANA",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[8.08] SmallBrawlhaven (2).replay": {
+  "dur": 14025,
+  "input_hash": "288aa894a38eec4e",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_3009f834ed6c5faa",
+  "n_inputs": 1815,
+  "n_kos": 5,
+  "patch": "8.08",
+  "players": [
+   [
+    0,
+    "RENO",
+    "RENO",
+    57
+   ],
+   [
+    1,
+    "NIX",
+    "NIX",
+    34
+   ]
+  ],
+  "result": null
+ },
+ "[8.10] SmallThundergard.replay": {
+  "dur": 6771,
+  "input_hash": "b649fc579ce15c0c",
+  "level": "Small Thundergard",
+  "match_id": "bh_2b1b22021ed41c6e",
+  "n_inputs": 945,
+  "n_kos": 1,
+  "patch": "8.10",
+  "players": [
+   [
+    0,
+    "Bxbyylol",
+    "ARTEMIS",
+    37
+   ],
+   [
+    1,
+    "xugo54",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[8.10] SmallTurtles'EXP.replay": {
+  "dur": 12670,
+  "input_hash": "f39cb2c1687d6fac",
+  "level": "Small Turtles'EXP",
+  "match_id": "bh_05cffffa64cff56d",
+  "n_inputs": 2274,
+  "n_kos": 4,
+  "patch": "8.10",
+  "players": [
+   [
+    0,
+    "mauimalii",
+    "LIN FEI",
+    44
+   ],
+   [
+    1,
+    "xugo54",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[8.10] SuzakuCastle.replay": {
+  "dur": 12933,
+  "input_hash": "96d014daefd8c1dd",
+  "level": "Suzaku Castle",
+  "match_id": "bh_d45ac5154545d4f2",
+  "n_inputs": 2379,
+  "n_kos": 5,
+  "patch": "8.10",
+  "players": [
+   [
+    0,
+    "mauimalii",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[8.10] TwilightGrove (1).replay": {
+  "dur": 16455,
+  "input_hash": "5447eff89b52b5c0",
+  "level": "Twilight Grove",
+  "match_id": "bh_f41933790d498ca1",
+  "n_inputs": 4028,
+  "n_kos": 11,
+  "patch": "8.10",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "RAGNIR",
+    31
+   ],
+   [
+    1,
+    "xugo54\u20222",
+    "RAYMAN",
+    46
+   ],
+   [
+    2,
+    "xugo54\u20223",
+    "NIX",
+    34
+   ],
+   [
+    3,
+    "xugo54",
+    "FAIT",
+    48
+   ]
+  ],
+  "result": null
+ },
+ "[8.11] DemonIsland (2).replay": {
+  "dur": 15251,
+  "input_hash": "9dd4cdc8dc3b98b6",
+  "level": "Demon Island",
+  "match_id": "bh_632cdb7212b4ffb1",
+  "n_inputs": 2368,
+  "n_kos": 5,
+  "patch": "8.11",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "THATCH",
+    13
+   ],
+   [
+    1,
+    "bruhmagupta",
+    "HATTORI",
+    10
+   ]
+  ],
+  "result": null
+ },
+ "[8.11] SmallBrawlhaven (1).replay": {
+  "dur": 11558,
+  "input_hash": "407e17babd3148bd",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_fe9ce2e145489392",
+  "n_inputs": 1746,
+  "n_kos": 5,
+  "patch": "8.11",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "BARRAZA",
+    21
+   ],
+   [
+    1,
+    "bruhmagupta",
+    "IMUGI",
+    65
+   ]
+  ],
+  "result": null
+ },
+ "[8.11] SmallBrawlhaven.replay": {
+  "dur": 13843,
+  "input_hash": "b1b798e08de4de95",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_22b5667c043b1cd7",
+  "n_inputs": 2178,
+  "n_kos": 5,
+  "patch": "8.11",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "bruhmagupta",
+    "IMUGI",
+    65
+   ]
+  ],
+  "result": null
+ },
+ "[8.11] SmallGalvanPrime.replay": {
+  "dur": 15131,
+  "input_hash": "66a16af60be41af8",
+  "level": "Small Galvan Prime",
+  "match_id": "bh_61ff6f3a5e666fad",
+  "n_inputs": 2175,
+  "n_kos": 5,
+  "patch": "8.11",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "bruhmagupta",
+    "LORD VRAXX",
+    6
+   ]
+  ],
+  "result": null
+ },
+ "[8.13] MishimaDojo.replay": {
+  "dur": 8472,
+  "input_hash": "308accfc32c3cd63",
+  "level": "Mishima Dojo",
+  "match_id": "bh_47210e152bce1d2e",
+  "n_inputs": 1143,
+  "n_kos": 4,
+  "patch": "8.13",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "z2smoov",
+    "EMBER",
+    18
+   ]
+  ],
+  "result": null
+ },
+ "[8.13] PlainsofPassage.replay": {
+  "dur": 7766,
+  "input_hash": "6d85d1fac1416897",
+  "level": "Plains of Passage",
+  "match_id": "bh_dd47abf76e943a20",
+  "n_inputs": 1523,
+  "n_kos": 4,
+  "patch": "8.13",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "abpdee",
+    "CASSIDY",
+    4
+   ]
+  ],
+  "result": null
+ },
+ "[8.13] SmallGreatHall.replay": {
+  "dur": 7347,
+  "input_hash": "875f0bc15e16b694",
+  "level": "Small Great Hall",
+  "match_id": "bh_049a41f48afec20f",
+  "n_inputs": 1215,
+  "n_kos": 4,
+  "patch": "8.13",
+  "players": [
+   [
+    0,
+    "RCD420",
+    "LUCIEN",
+    9
+   ],
+   [
+    1,
+    "xugo54",
+    "KAYA",
+    42
+   ]
+  ],
+  "result": null
+ },
+ "[8.13] SmallWorld'sEnd.replay": {
+  "dur": 9530,
+  "input_hash": "d3513fc69468fe18",
+  "level": "Small World's End",
+  "match_id": "bh_3672177e83cc1db0",
+  "n_inputs": 1159,
+  "n_kos": 4,
+  "patch": "8.13",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "KAYA",
+    42
+   ],
+   [
+    1,
+    "z2smoov",
+    "RAGNIR",
+    31
+   ]
+  ],
+  "result": null
+ },
+ "[8.15] Apocalypse.replay": {
+  "dur": 15315,
+  "input_hash": "8aabe6934fb05aa4",
+  "level": "Apocalypse",
+  "match_id": "bh_60aac6db871e56f8",
+  "n_inputs": 2525,
+  "n_kos": 5,
+  "patch": "8.15",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "Lilkelly0_0",
+    "HATTORI",
+    10
+   ]
+  ],
+  "result": null
+ },
+ "[8.15] SmallFortressof.replay": {
+  "dur": 7643,
+  "input_hash": "931b50affa08bfed",
+  "level": "Small Fortressof",
+  "match_id": "bh_0a74902744ac90ae",
+  "n_inputs": 1141,
+  "n_kos": 4,
+  "patch": "8.15",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "JustaCivilian",
+    "TEZCA",
+    63
+   ]
+  ],
+  "result": null
+ },
+ "[8.15] SmallGalvanPrime.replay": {
+  "dur": 6751,
+  "input_hash": "116d534effd50797",
+  "level": "Small Galvan Prime",
+  "match_id": "bh_70756a4287d8897a",
+  "n_inputs": 985,
+  "n_kos": 3,
+  "patch": "8.15",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "M0nk3yMafia",
+    "NIX",
+    34
+   ]
+  ],
+  "result": null
+ },
+ "[8.15] WesternAirTemple.replay": {
+  "dur": 10461,
+  "input_hash": "a6c002e0c3aa3b65",
+  "level": "Western Air Temple",
+  "match_id": "bh_6f14f1caeb24c9dc",
+  "n_inputs": 1471,
+  "n_kos": 5,
+  "patch": "8.15",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "MajesticNarhwal",
+    "FAIT",
+    48
+   ]
+  ],
+  "result": null
+ },
+ "[9.00] CrumblingChasm.replay": {
+  "dur": 15043,
+  "input_hash": "d2bb6e9bf833798c",
+  "level": "Crumbling Chasm",
+  "match_id": "bh_5740bb00f90ae83e",
+  "n_inputs": 2560,
+  "n_kos": 5,
+  "patch": "9.00",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "LobunnoWolf",
+    "YUMIKO",
+    36
+   ]
+  ],
+  "result": null
+ },
+ "[9.00] SmallGreatHall.replay": {
+  "dur": 11988,
+  "input_hash": "b3c24c3e24d94737",
+  "level": "Small Great Hall",
+  "match_id": "bh_aa1150679ed3d4bc",
+  "n_inputs": 1726,
+  "n_kos": 5,
+  "patch": "9.00",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "Faads",
+    "ORION",
+    5
+   ]
+  ],
+  "result": null
+ },
+ "[9.00] SmallTerminus.replay": {
+  "dur": 8395,
+  "input_hash": "2b7277ff54c9b3cc",
+  "level": "Small Terminus",
+  "match_id": "bh_78333738ea99624a",
+  "n_inputs": 1141,
+  "n_kos": 4,
+  "patch": "9.00",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "nene-rentado23",
+    "ZARIEL",
+    45
+   ]
+  ],
+  "result": null
+ },
+ "[9.01] Apocalypse (1).replay": {
+  "dur": 8428,
+  "input_hash": "ef21370ae5fe00cc",
+  "level": "Apocalypse",
+  "match_id": "bh_142e1bc53762f5c6",
+  "n_inputs": 1334,
+  "n_kos": 4,
+  "patch": "9.01",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    "Alyeck ",
+    "ORION",
+    5
+   ]
+  ],
+  "result": null
+ },
+ "[9.01] MishimaDojo (1).replay": {
+  "dur": 12187,
+  "input_hash": "a05d17f7ed7b59d0",
+  "level": "Mishima Dojo",
+  "match_id": "bh_7d6e4d32a9927ca6",
+  "n_inputs": 1964,
+  "n_kos": 5,
+  "patch": "9.01",
+  "players": [
+   [
+    0,
+    "MalP",
+    null,
+    null
+   ],
+   [
+    1,
+    "xugo54",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.01] MishimaDojo.replay": {
+  "dur": 6338,
+  "input_hash": "69378e132466d8fa",
+  "level": "Mishima Dojo",
+  "match_id": "bh_307a758e995e3006",
+  "n_inputs": 842,
+  "n_kos": 3,
+  "patch": "9.01",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "HATTORI",
+    10
+   ],
+   [
+    1,
+    "destroyerofbread",
+    "SCARLET",
+    12
+   ]
+  ],
+  "result": null
+ },
+ "[9.01] SmallEnigma.replay": {
+  "dur": 13582,
+  "input_hash": "bced1d3b405530c1",
+  "level": "Small Enigma",
+  "match_id": "bh_400066a34ac60b1f",
+  "n_inputs": 2114,
+  "n_kos": 4,
+  "patch": "9.01",
+  "players": [
+   [
+    0,
+    "extreme_flag9",
+    null,
+    null
+   ],
+   [
+    1,
+    "xugo54",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.03] Apocalypse.replay": {
+  "dur": 11270,
+  "input_hash": "06b74f2616f7174b",
+  "level": "Apocalypse",
+  "match_id": "bh_2c69ee3f4b51fb15",
+  "n_inputs": 1547,
+  "n_kos": 5,
+  "patch": "9.03",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    "ionshi8fr",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.03] SmallBrawlhaven.replay": {
+  "dur": 10881,
+  "input_hash": "8eef81f9275132d1",
+  "level": "Small Brawlhaven",
+  "match_id": "bh_377234d235e25182",
+  "n_inputs": 1739,
+  "n_kos": 5,
+  "patch": "9.03",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "UsedPIayer",
+    "ARCADIA",
+    59
+   ]
+  ],
+  "result": null
+ },
+ "[9.03] SmallFangwild.replay": {
+  "dur": 9685,
+  "input_hash": "822c13ff648be0b3",
+  "level": "Small Fangwild",
+  "match_id": "bh_b9edfcb1be6277a6",
+  "n_inputs": 1392,
+  "n_kos": 4,
+  "patch": "9.03",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "TrippleWood",
+    "TEROS",
+    16
+   ]
+  ],
+  "result": null
+ },
+ "[9.03] SmallTurtles'.replay": {
+  "dur": 10871,
+  "input_hash": "440a264d7c14f9a7",
+  "level": "Small Turtles'",
+  "match_id": "bh_a6323c8a45259332",
+  "n_inputs": 1666,
+  "n_kos": 5,
+  "patch": "9.03",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "AnTiSo_CiALkiD",
+    "CASPIAN",
+    38
+   ]
+  ],
+  "result": null
+ },
+ "[9.04] MishimaDojo.replay": {
+  "dur": 10737,
+  "input_hash": "a8998030721e371d",
+  "level": "Mishima Dojo",
+  "match_id": "bh_774e9a97c1fdbfa6",
+  "n_inputs": 1298,
+  "n_kos": 5,
+  "patch": "9.04",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "Shiro_Qc",
+    "AZOTH",
+    23
+   ]
+  ],
+  "result": null
+ },
+ "[9.04] ShorwindFishing.replay": {
+  "dur": 7238,
+  "input_hash": "407930ec64ca2b1d",
+  "level": "Shorwind Fishing",
+  "match_id": "bh_49be653054092aa3",
+  "n_inputs": 1111,
+  "n_kos": 4,
+  "patch": "9.04",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    null,
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.04] SmallGalvanPrime.replay": {
+  "dur": 11641,
+  "input_hash": "3b7cbd567be55ec2",
+  "level": "Small Galvan Prime",
+  "match_id": "bh_56cca91d3f35e8fb",
+  "n_inputs": 1687,
+  "n_kos": 5,
+  "patch": "9.04",
+  "players": [
+   [
+    0,
+    "leapinglamp7",
+    "TEROS",
+    16
+   ],
+   [
+    1,
+    "xugo54",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.04] SmallWorld'sEnd.replay": {
+  "dur": 11016,
+  "input_hash": "42c58ed8b623c2fc",
+  "level": "Small World's End",
+  "match_id": "bh_306a91be4f09c033",
+  "n_inputs": 1780,
+  "n_kos": 5,
+  "patch": "9.04",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    null,
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.05] ShorwindFishing.replay": {
+  "dur": 11379,
+  "input_hash": "f73c94989e4e3c29",
+  "level": "Shorwind Fishing",
+  "match_id": "bh_d30b16e5445a5076",
+  "n_inputs": 1630,
+  "n_kos": 5,
+  "patch": "9.05",
+  "players": [
+   [
+    0,
+    "YkmZombie",
+    "JIRO",
+    43
+   ],
+   [
+    1,
+    "xugo54",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.05] SmallEnigma.replay": {
+  "dur": 7308,
+  "input_hash": "af88f23644f2901c",
+  "level": "Small Enigma",
+  "match_id": "bh_ebe846155f659c90",
+  "n_inputs": 985,
+  "n_kos": 3,
+  "patch": "9.05",
+  "players": [
+   [
+    0,
+    "dani",
+    "ASURI",
+    20
+   ],
+   [
+    1,
+    "xugo54",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.06] SmallBlackguard.replay": {
+  "dur": 10277,
+  "input_hash": "3d54f97986d83a9b",
+  "level": "Small Blackguard",
+  "match_id": "bh_4151101780b5ddb9",
+  "n_inputs": 1371,
+  "n_kos": 4,
+  "patch": "9.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    "psoil",
+    "KOR",
+    28
+   ]
+  ],
+  "result": null
+ },
+ "[9.06] SmallGalvanPrime (1).replay": {
+  "dur": 6392,
+  "input_hash": "75fceae1af2dc933",
+  "level": "Small Galvan Prime",
+  "match_id": "bh_418233a7cae4a440",
+  "n_inputs": 793,
+  "n_kos": 3,
+  "patch": "9.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "psoil",
+    "KOR",
+    28
+   ]
+  ],
+  "result": null
+ },
+ "[9.06] SmallGalvanPrime.replay": {
+  "dur": 12767,
+  "input_hash": "cfa8ed53c8a2b604",
+  "level": "Small Galvan Prime",
+  "match_id": "bh_dc225dfbc2c90433",
+  "n_inputs": 2394,
+  "n_kos": 4,
+  "patch": "9.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    "Sasukelight9000",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.06] SmallWorld'sEnd.replay": {
+  "dur": 9813,
+  "input_hash": "e674b14931ec9433",
+  "level": "Small World's End",
+  "match_id": "bh_8ff18ea5ccb202cc",
+  "n_inputs": 1175,
+  "n_kos": 5,
+  "patch": "9.06",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "psoil",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.08] ShorwindFishing.replay": {
+  "dur": 17709,
+  "input_hash": "05d758ead0bea87c",
+  "level": "Shorwind Fishing",
+  "match_id": "bh_c2db30b2122ec259",
+  "n_inputs": 3158,
+  "n_kos": 5,
+  "patch": "9.08",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "LIN FEI",
+    44
+   ],
+   [
+    1,
+    null,
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.08] SmallTheed.replay": {
+  "dur": 2831,
+  "input_hash": "5d27ccab53c6be21",
+  "level": "Small Theed",
+  "match_id": "bh_9d54a10d36223c91",
+  "n_inputs": 108,
+  "n_kos": 3,
+  "patch": "9.08",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    "Shiro_huh",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.08] SmallTurtles'.replay": {
+  "dur": 10486,
+  "input_hash": "b73d681048694467",
+  "level": "Small Turtles'",
+  "match_id": "bh_7f91c02dd8e8523d",
+  "n_inputs": 1495,
+  "n_kos": 5,
+  "patch": "9.08",
+  "players": [
+   [
+    0,
+    "Ratio",
+    "MORDEX",
+    35
+   ],
+   [
+    1,
+    "xugo54",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.09] Lich'sTomb.replay": {
+  "dur": 8255,
+  "input_hash": "e940d2e4f93ba04c",
+  "level": "Lich's Tomb",
+  "match_id": "bh_faa05ffe441d4992",
+  "n_inputs": 1222,
+  "n_kos": 3,
+  "patch": "9.09",
+  "players": [
+   [
+    0,
+    "RevokeArc615",
+    "ASURI",
+    20
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[9.09] MiamiDome.replay": {
+  "dur": 8858,
+  "input_hash": "58464cfcc18c3fee",
+  "level": "Miami Dome",
+  "match_id": "bh_8caa4dc5fdc5e831",
+  "n_inputs": 1684,
+  "n_kos": 4,
+  "patch": "9.09",
+  "players": [
+   [
+    0,
+    "Soluss",
+    "ARCADIA",
+    59
+   ],
+   [
+    1,
+    "xugo54",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ },
+ "[9.11] MishimaDojo.replay": {
+  "dur": 12119,
+  "input_hash": "e3e972b02a6f3792",
+  "level": "Mishima Dojo",
+  "match_id": "bh_3369c4bef7a74dcf",
+  "n_inputs": 2062,
+  "n_kos": 5,
+  "patch": "9.11",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    "younggking25",
+    "KOJI",
+    24
+   ]
+  ],
+  "result": null
+ },
+ "[9.11] SmallWorld'sEnd.replay": {
+  "dur": 12686,
+  "input_hash": "439cf62b28d6c644",
+  "level": "Small World's End",
+  "match_id": "bh_c0c69ecbe7fb8f60",
+  "n_inputs": 1948,
+  "n_kos": 5,
+  "patch": "9.11",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "younggking25",
+    "KOJI",
+    24
+   ]
+  ],
+  "result": null
+ },
+ "[9.11] SpiritRealm.replay": {
+  "dur": 15290,
+  "input_hash": "d7ff12b8da3b3650",
+  "level": "Spirit Realm",
+  "match_id": "bh_b7987840a8c6bf99",
+  "n_inputs": 2759,
+  "n_kos": 4,
+  "patch": "9.11",
+  "players": [
+   [
+    0,
+    "xugo54",
+    "DIANA",
+    25
+   ],
+   [
+    1,
+    "piou piou",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.11] TwilightGrove.replay": {
+  "dur": 15295,
+  "input_hash": "cce3dc4a00f42548",
+  "level": "Twilight Grove",
+  "match_id": "bh_d85275b43dc7bd26",
+  "n_inputs": 2438,
+  "n_kos": 5,
+  "patch": "9.11",
+  "players": [
+   [
+    0,
+    "Micahthemin",
+    "FAIT",
+    48
+   ],
+   [
+    1,
+    "xugo54",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.12] MiamiDome.replay": {
+  "dur": 13204,
+  "input_hash": "33bed11b45954cec",
+  "level": "Miami Dome",
+  "match_id": "bh_50320285a74ee229",
+  "n_inputs": 2201,
+  "n_kos": 5,
+  "patch": "9.12",
+  "players": [
+   [
+    0,
+    "vald9",
+    "MORDEX",
+    35
+   ],
+   [
+    1,
+    "xugo54",
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.12] SuzakuCastle (1).replay": {
+  "dur": 9919,
+  "input_hash": "70b8a563b211c599",
+  "level": "Suzaku Castle",
+  "match_id": "bh_835df7016e9da506",
+  "n_inputs": 1248,
+  "n_kos": 4,
+  "patch": "9.12",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    "Gort",
+    "WU SHANG",
+    29
+   ]
+  ],
+  "result": null
+ },
+ "[9.12] SuzakuCastle.replay": {
+  "dur": 11394,
+  "input_hash": "ae29c747e85d2f86",
+  "level": "Suzaku Castle",
+  "match_id": "bh_689e1f04fbcaf9e1",
+  "n_inputs": 1685,
+  "n_kos": 5,
+  "patch": "9.12",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    null,
+    null,
+    null
+   ]
+  ],
+  "result": null
+ },
+ "[9.12] WesternAirTemple.replay": {
+  "dur": 11972,
+  "input_hash": "15ff9f083c2fbb13",
+  "level": "Western Air Temple",
+  "match_id": "bh_6ce896fc0d6f0ff2",
+  "n_inputs": 2024,
+  "n_kos": 5,
+  "patch": "9.12",
+  "players": [
+   [
+    0,
+    "xugo54",
+    null,
+    null
+   ],
+   [
+    1,
+    "Na0",
+    "DIANA",
+    25
+   ]
+  ],
+  "result": null
+ }
+}

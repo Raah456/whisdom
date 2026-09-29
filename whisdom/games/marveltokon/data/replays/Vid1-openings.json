@@ -1,0 +1,29 @@
+[
+ {
+  "segment": 1,
+  "free": "R",
+  "stuck": "L",
+  "end": 122.3,
+  "start": 121.63,
+  "first_seen": 121.6,
+  "frames": 40
+ },
+ {
+  "segment": 1,
+  "free": "R",
+  "stuck": "L",
+  "end": 120.3,
+  "start": 120.05,
+  "first_seen": 120.2,
+  "frames": 15
+ },
+ {
+  "segment": 2,
+  "free": "R",
+  "stuck": "L",
+  "end": 187.4,
+  "start": 187.17,
+  "first_seen": 187.3,
+  "frames": 14
+ }
+]

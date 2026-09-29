@@ -1,0 +1,451 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://fightingwhisdom.com/schemas/match/1.1.json",
+  "title": "Match Analysis Document",
+  "description": "Contract between the local analysis agent and any consumer (local report today, HTTP API later). Language-neutral by design. Time is ALWAYS integer frames; milliseconds are a display concern.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "analyzer_version",
+    "match",
+    "players",
+    "observations",
+    "analysis",
+    "provenance"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.1",
+      "description": "Bump on any breaking change."
+    },
+    "analyzer_version": {
+      "type": "string",
+      "description": "Version of the code that produced this. Required so stale analyses are identifiable."
+    },
+    "match": {
+      "type": "object",
+      "required": [
+        "id",
+        "game",
+        "fps",
+        "duration_frames"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Stable content hash of the source replay. Same file always yields the same id."
+        },
+        "source_file": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "game": {
+          "type": "string",
+          "examples": [
+            "brawlhalla"
+          ]
+        },
+        "patch": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Game patch. Required for comparability - frame data changes per patch."
+        },
+        "fps": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Stored explicitly; never assume 60."
+        },
+        "duration_frames": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "playlist": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "online": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "level_id": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "level_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "has_video": {
+          "type": "boolean",
+          "default": false
+        },
+        "video_offset_frames": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Frame of the video at which match frame 0 occurs. Null when no video is paired."
+        },
+        "outcome": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "description": "Per-slot win/loss. Keys are slot numbers as strings.",
+          "additionalProperties": {
+            "enum": [
+              "win",
+              "loss",
+              "draw"
+            ]
+          }
+        },
+        "outcome_source": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "'deaths' = derived from KO data (verified). 'result_field' = decoded from the stored result value (winner has the HIGHER value, validated 228/228).",
+          "enum": [
+            "deaths",
+            "result_field",
+            null
+          ]
+        },
+        "death_counts": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "description": "Deaths per slot where derivable.",
+          "additionalProperties": {
+            "type": "integer"
+          }
+        },
+        "video_path": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "recording paired with this match"
+        }
+      }
+    },
+    "players": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "slot"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "slot": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Stable within a match. All references use this, never the name."
+          },
+          "entity_id": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "description": "Game-internal id; not stable across matches."
+          },
+          "display_name": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "An ALIAS, never an identity. Players rename."
+          },
+          "identity_id": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Reserved for account linking. Deliberately unused in v1."
+          },
+          "team": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "is_bot": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "character": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "properties": {
+              "id": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "name": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "description": "Character/legend/fighter \u2014 the game adapter supplies the display noun."
+          }
+        }
+      }
+    },
+    "observations": {
+      "type": "object",
+      "description": "What happened. Raw, unopinionated, never re-derived.",
+      "required": [
+        "inputs"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "inputs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "slot",
+              "frame",
+              "action"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "slot": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "frame": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "action": {
+                "type": "string",
+                "description": "Free-form; the game adapter defines the vocabulary."
+              }
+            }
+          }
+        },
+        "kos": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "slot",
+              "frame"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "slot": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "frame": {
+                "type": "integer",
+                "minimum": 0
+              }
+            }
+          }
+        },
+        "damage": {
+          "type": "array",
+          "description": "Damage estimates read from a recording's HUD and aligned to this match. 0..1 monotonic, not an exact percentage. Present only when a video has been paired via `whisdom damage`.",
+          "items": {
+            "type": "object",
+            "required": [
+              "slot",
+              "seconds",
+              "estimate"
+            ],
+            "properties": {
+              "slot": {
+                "type": "integer"
+              },
+              "seconds": {
+                "type": "number",
+                "description": "match time, video offset already removed"
+              },
+              "estimate": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              }
+            },
+            "additionalProperties": false
+          }
+        }
+      }
+    },
+    "analysis": {
+      "type": "object",
+      "description": "What we think about it. Fully recomputable from observations.",
+      "required": [
+        "moments"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "moments": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "frame",
+              "kind",
+              "severity"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^m_[0-9a-f]+$",
+                "description": "Stable id. User feedback attaches to this."
+              },
+              "slot": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "frame": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "kind": {
+                "type": "string",
+                "examples": [
+                  "ko",
+                  "wasted_input",
+                  "burst",
+                  "idle"
+                ]
+              },
+              "severity": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 5
+              },
+              "title": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "detail": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "evidence": {
+                "type": [
+                  "object",
+                  "null"
+                ],
+                "description": "Supporting data. Shape varies by kind."
+              },
+              "feedback": {
+                "type": [
+                  "object",
+                  "null"
+                ],
+                "description": "User verdict on this moment. Null until reviewed.",
+                "properties": {
+                  "verdict": {
+                    "enum": [
+                      "agree",
+                      "disagree",
+                      "unsure",
+                      null
+                    ]
+                  },
+                  "note": {
+                    "type": [
+                      "string",
+                      "null"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "metrics": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "description": "Per-slot habit metrics. Keys are slot numbers as strings."
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "description": "How this document was produced and how much to trust each part.",
+      "required": [
+        "parser"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "parser": {
+          "type": "string"
+        },
+        "frame_data_patch": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "confidence": {
+          "type": "object",
+          "description": "Per-section trust so consumers can degrade gracefully.",
+          "additionalProperties": {
+            "enum": [
+              "high",
+              "partial",
+              "low",
+              "missing"
+            ]
+          }
+        },
+        "warnings": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

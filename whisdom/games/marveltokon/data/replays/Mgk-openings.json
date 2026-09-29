@@ -1,0 +1,38 @@
+[
+ {
+  "segment": 0,
+  "free": "R",
+  "stuck": "L",
+  "end": 19.8,
+  "start": 19.28,
+  "first_seen": 19.4,
+  "frames": 31
+ },
+ {
+  "segment": 0,
+  "free": "R",
+  "stuck": "L",
+  "end": 21.3,
+  "start": 20.83,
+  "first_seen": 21.0,
+  "frames": 28
+ },
+ {
+  "segment": 0,
+  "free": "R",
+  "stuck": "L",
+  "end": 22.8,
+  "start": 22.37,
+  "first_seen": 22.6,
+  "frames": 26
+ },
+ {
+  "segment": 0,
+  "free": "R",
+  "stuck": "L",
+  "end": 18.3,
+  "start": 17.95,
+  "first_seen": 18.2,
+  "frames": 21
+ }
+]

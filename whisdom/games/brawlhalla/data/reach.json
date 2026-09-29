@@ -1,0 +1,86 @@
+{
+ "Sword": {
+  "side_air": 267,
+  "neutral_air": 170,
+  "down_air_depth": 169,
+  "recovery_height": 139
+ },
+ "Katar": {
+  "side_air": 260,
+  "neutral_air": 155,
+  "down_air_depth": 95,
+  "recovery_height": 142
+ },
+ "Spear": {
+  "side_air": 347,
+  "neutral_air": 185,
+  "down_air_depth": 242,
+  "recovery_height": 111
+ },
+ "Hammer": {
+  "side_air": 289,
+  "neutral_air": 160,
+  "down_air_depth": 204,
+  "recovery_height": 270
+ },
+ "Axe": {
+  "side_air": 312,
+  "neutral_air": 250,
+  "down_air_depth": 172,
+  "recovery_height": 259
+ },
+ "Bow": {
+  "side_air": 228,
+  "neutral_air": 127,
+  "down_air_depth": 245,
+  "recovery_height": 184
+ },
+ "Cannon": {
+  "side_air": 199,
+  "neutral_air": 113,
+  "down_air_depth": 140,
+  "recovery_height": 247
+ },
+ "Scythe": {
+  "side_air": 250,
+  "neutral_air": 278,
+  "down_air_depth": 194,
+  "recovery_height": null
+ },
+ "Fists": {
+  "side_air": 152,
+  "neutral_air": 101,
+  "down_air_depth": 110,
+  "recovery_height": 179
+ },
+ "Boots": {
+  "side_air": 163,
+  "neutral_air": 151,
+  "down_air_depth": 137,
+  "recovery_height": 139
+ },
+ "Lance": {
+  "side_air": 325,
+  "neutral_air": 241,
+  "down_air_depth": 146,
+  "recovery_height": null
+ },
+ "Orb": {
+  "side_air": 253,
+  "neutral_air": 164,
+  "down_air_depth": null,
+  "recovery_height": 124
+ },
+ "Greatsword": {
+  "side_air": 258,
+  "neutral_air": 196,
+  "down_air_depth": 165,
+  "recovery_height": 55
+ },
+ "Chakram": {
+  "side_air": 198,
+  "neutral_air": 172,
+  "down_air_depth": 206,
+  "recovery_height": 160
+ }
+}

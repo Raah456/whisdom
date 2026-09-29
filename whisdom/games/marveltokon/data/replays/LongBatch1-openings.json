@@ -1,0 +1,542 @@
+[
+ {
+  "segment": 13,
+  "free": "L",
+  "stuck": "R",
+  "end": 2231.8,
+  "start": 2230.05,
+  "first_seen": 2230.2,
+  "frames": 105
+ },
+ {
+  "segment": 14,
+  "free": "L",
+  "stuck": "R",
+  "end": 2277.5,
+  "start": 2275.76,
+  "first_seen": 2275.0,
+  "frames": 104
+ },
+ {
+  "segment": 8,
+  "free": "R",
+  "stuck": "L",
+  "end": 1827.7,
+  "start": 1826.35,
+  "first_seen": 1825.5,
+  "frames": 81
+ },
+ {
+  "segment": 15,
+  "free": "L",
+  "stuck": "R",
+  "end": 2338.8,
+  "start": 2337.68,
+  "first_seen": 2338.8,
+  "frames": 67
+ },
+ {
+  "segment": 25,
+  "free": "L",
+  "stuck": "R",
+  "end": 3122.1,
+  "start": 3121.02,
+  "first_seen": 3104.7,
+  "frames": 65
+ },
+ {
+  "segment": 18,
+  "free": "R",
+  "stuck": "L",
+  "end": 2644.5,
+  "start": 2643.43,
+  "first_seen": 2643.3,
+  "frames": 64
+ },
+ {
+  "segment": 20,
+  "free": "R",
+  "stuck": "L",
+  "end": 2800.2,
+  "start": 2799.3,
+  "first_seen": 2799.4,
+  "frames": 54
+ },
+ {
+  "segment": 13,
+  "free": "L",
+  "stuck": "R",
+  "end": 2184.2,
+  "start": 2183.35,
+  "first_seen": 2183.2,
+  "frames": 51
+ },
+ {
+  "segment": 13,
+  "free": "L",
+  "stuck": "R",
+  "end": 2230.0,
+  "start": 2229.18,
+  "first_seen": 2228.6,
+  "frames": 49
+ },
+ {
+  "segment": 5,
+  "free": "R",
+  "stuck": "L",
+  "end": 1604.5,
+  "start": 1603.72,
+  "first_seen": 1603.0,
+  "frames": 47
+ },
+ {
+  "segment": 1,
+  "free": "R",
+  "stuck": "L",
+  "end": 1381.8,
+  "start": 1381.05,
+  "first_seen": 1381.2,
+  "frames": 45
+ },
+ {
+  "segment": 1,
+  "free": "R",
+  "stuck": "L",
+  "end": 1408.1,
+  "start": 1407.35,
+  "first_seen": 1407.4,
+  "frames": 45
+ },
+ {
+  "segment": 13,
+  "free": "L",
+  "stuck": "R",
+  "end": 2206.1,
+  "start": 2205.35,
+  "first_seen": 2205.4,
+  "frames": 45
+ },
+ {
+  "segment": 11,
+  "free": "R",
+  "stuck": "L",
+  "end": 2016.2,
+  "start": 2015.47,
+  "first_seen": 2015.4,
+  "frames": 44
+ },
+ {
+  "segment": 13,
+  "free": "L",
+  "stuck": "R",
+  "end": 2227.9,
+  "start": 2227.17,
+  "first_seen": 2227.1,
+  "frames": 44
+ },
+ {
+  "segment": 13,
+  "free": "L",
+  "stuck": "R",
+  "end": 2228.4,
+  "start": 2227.67,
+  "first_seen": 2228.2,
+  "frames": 44
+ },
+ {
+  "segment": 20,
+  "free": "R",
+  "stuck": "L",
+  "end": 2797.3,
+  "start": 2796.6,
+  "first_seen": 2796.3,
+  "frames": 42
+ },
+ {
+  "segment": 7,
+  "free": "L",
+  "stuck": "R",
+  "end": 1798.7,
+  "start": 1798.05,
+  "first_seen": 1798.2,
+  "frames": 39
+ },
+ {
+  "segment": 10,
+  "free": "R",
+  "stuck": "L",
+  "end": 1946.9,
+  "start": 1946.25,
+  "first_seen": 1946.3,
+  "frames": 39
+ },
+ {
+  "segment": 2,
+  "free": "L",
+  "stuck": "R",
+  "end": 1450.0,
+  "start": 1449.37,
+  "first_seen": 1449.5,
+  "frames": 38
+ },
+ {
+  "segment": 12,
+  "free": "R",
+  "stuck": "L",
+  "end": 2052.5,
+  "start": 2051.88,
+  "first_seen": 2051.2,
+  "frames": 37
+ },
+ {
+  "segment": 12,
+  "free": "R",
+  "stuck": "L",
+  "end": 2056.7,
+  "start": 2056.08,
+  "first_seen": 2055.3,
+  "frames": 37
+ },
+ {
+  "segment": 12,
+  "free": "L",
+  "stuck": "R",
+  "end": 2046.4,
+  "start": 2045.8,
+  "first_seen": 2045.9,
+  "frames": 36
+ },
+ {
+  "segment": 7,
+  "free": "R",
+  "stuck": "L",
+  "end": 1789.7,
+  "start": 1789.15,
+  "first_seen": 1788.7,
+  "frames": 33
+ },
+ {
+  "segment": 7,
+  "free": "L",
+  "stuck": "R",
+  "end": 1761.2,
+  "start": 1760.65,
+  "first_seen": 1760.5,
+  "frames": 33
+ },
+ {
+  "segment": 10,
+  "free": "R",
+  "stuck": "L",
+  "end": 1962.6,
+  "start": 1962.05,
+  "first_seen": 1960.8,
+  "frames": 33
+ },
+ {
+  "segment": 13,
+  "free": "L",
+  "stuck": "R",
+  "end": 2232.5,
+  "start": 2231.95,
+  "first_seen": 2232.0,
+  "frames": 33
+ },
+ {
+  "segment": 13,
+  "free": "L",
+  "stuck": "R",
+  "end": 2233.1,
+  "start": 2232.55,
+  "first_seen": 2232.7,
+  "frames": 33
+ },
+ {
+  "segment": 13,
+  "free": "L",
+  "stuck": "R",
+  "end": 2188.5,
+  "start": 2187.97,
+  "first_seen": 2187.4,
+  "frames": 32
+ },
+ {
+  "segment": 14,
+  "free": "R",
+  "stuck": "L",
+  "end": 2287.3,
+  "start": 2286.77,
+  "first_seen": 2286.6,
+  "frames": 32
+ },
+ {
+  "segment": 4,
+  "free": "L",
+  "stuck": "R",
+  "end": 1548.7,
+  "start": 1548.18,
+  "first_seen": 1547.9,
+  "frames": 31
+ },
+ {
+  "segment": 6,
+  "free": "L",
+  "stuck": "R",
+  "end": 1724.4,
+  "start": 1723.88,
+  "first_seen": 1723.8,
+  "frames": 31
+ },
+ {
+  "segment": 25,
+  "free": "R",
+  "stuck": "L",
+  "end": 3093.6,
+  "start": 3093.08,
+  "first_seen": 3092.7,
+  "frames": 31
+ },
+ {
+  "segment": 25,
+  "free": "L",
+  "stuck": "R",
+  "end": 3082.8,
+  "start": 3082.28,
+  "first_seen": 3081.8,
+  "frames": 31
+ },
+ {
+  "segment": 12,
+  "free": "R",
+  "stuck": "L",
+  "end": 2080.2,
+  "start": 2079.7,
+  "first_seen": 2079.5,
+  "frames": 30
+ },
+ {
+  "segment": 12,
+  "free": "R",
+  "stuck": "L",
+  "end": 2087.4,
+  "start": 2086.9,
+  "first_seen": 2086.0,
+  "frames": 30
+ },
+ {
+  "segment": 15,
+  "free": "L",
+  "stuck": "R",
+  "end": 2337.8,
+  "start": 2337.3,
+  "first_seen": 2337.4,
+  "frames": 30
+ },
+ {
+  "segment": 24,
+  "free": "L",
+  "stuck": "R",
+  "end": 3019.8,
+  "start": 3019.3,
+  "first_seen": 3019.4,
+  "frames": 30
+ },
+ {
+  "segment": 4,
+  "free": "R",
+  "stuck": "L",
+  "end": 1567.9,
+  "start": 1567.42,
+  "first_seen": 1567.5,
+  "frames": 29
+ },
+ {
+  "segment": 11,
+  "free": "L",
+  "stuck": "R",
+  "end": 2022.7,
+  "start": 2022.22,
+  "first_seen": 2022.4,
+  "frames": 29
+ },
+ {
+  "segment": 17,
+  "free": "R",
+  "stuck": "L",
+  "end": 2600.6,
+  "start": 2600.13,
+  "first_seen": 2600.1,
+  "frames": 28
+ },
+ {
+  "segment": 23,
+  "free": "L",
+  "stuck": "R",
+  "end": 2982.6,
+  "start": 2982.15,
+  "first_seen": 2981.9,
+  "frames": 27
+ },
+ {
+  "segment": 14,
+  "free": "L",
+  "stuck": "R",
+  "end": 2273.4,
+  "start": 2272.98,
+  "first_seen": 2270.4,
+  "frames": 25
+ },
+ {
+  "segment": 14,
+  "free": "L",
+  "stuck": "R",
+  "end": 2282.1,
+  "start": 2281.68,
+  "first_seen": 2281.5,
+  "frames": 25
+ },
+ {
+  "segment": 0,
+  "free": "R",
+  "stuck": "L",
+  "end": 290.3,
+  "start": 289.92,
+  "first_seen": 289.5,
+  "frames": 23
+ },
+ {
+  "segment": 13,
+  "free": "L",
+  "stuck": "R",
+  "end": 2234.2,
+  "start": 2233.82,
+  "first_seen": 2233.3,
+  "frames": 23
+ },
+ {
+  "segment": 23,
+  "free": "L",
+  "stuck": "R",
+  "end": 2979.2,
+  "start": 2978.82,
+  "first_seen": 2978.8,
+  "frames": 23
+ },
+ {
+  "segment": 14,
+  "free": "L",
+  "stuck": "R",
+  "end": 2298.9,
+  "start": 2298.53,
+  "first_seen": 2298.7,
+  "frames": 22
+ },
+ {
+  "segment": 25,
+  "free": "R",
+  "stuck": "L",
+  "end": 3095.8,
+  "start": 3095.45,
+  "first_seen": 3095.5,
+  "frames": 21
+ },
+ {
+  "segment": 2,
+  "free": "L",
+  "stuck": "R",
+  "end": 1449.3,
+  "start": 1448.97,
+  "first_seen": 1448.7,
+  "frames": 20
+ },
+ {
+  "segment": 15,
+  "free": "L",
+  "stuck": "R",
+  "end": 2345.5,
+  "start": 2345.17,
+  "first_seen": 2345.2,
+  "frames": 20
+ },
+ {
+  "segment": 7,
+  "free": "L",
+  "stuck": "R",
+  "end": 1800.1,
+  "start": 1799.8,
+  "first_seen": 1799.5,
+  "frames": 18
+ },
+ {
+  "segment": 22,
+  "free": "R",
+  "stuck": "L",
+  "end": 2946.5,
+  "start": 2946.23,
+  "first_seen": 2946.3,
+  "frames": 16
+ },
+ {
+  "segment": 14,
+  "free": "L",
+  "stuck": "R",
+  "end": 2269.9,
+  "start": 2269.65,
+  "first_seen": 2267.9,
+  "frames": 15
+ },
+ {
+  "segment": 1,
+  "free": "R",
+  "stuck": "L",
+  "end": 1383.8,
+  "start": 1383.57,
+  "first_seen": 1383.5,
+  "frames": 14
+ },
+ {
+  "segment": 13,
+  "free": "L",
+  "stuck": "R",
+  "end": 2183.0,
+  "start": 2182.77,
+  "first_seen": 2182.6,
+  "frames": 14
+ },
+ {
+  "segment": 15,
+  "free": "R",
+  "stuck": "L",
+  "end": 2334.0,
+  "start": 2333.77,
+  "first_seen": 2333.9,
+  "frames": 14
+ },
+ {
+  "segment": 10,
+  "free": "R",
+  "stuck": "L",
+  "end": 1962.9,
+  "start": 1962.68,
+  "first_seen": 1962.8,
+  "frames": 13
+ },
+ {
+  "segment": 13,
+  "free": "R",
+  "stuck": "L",
+  "end": 2199.1,
+  "start": 2198.88,
+  "first_seen": 2198.8,
+  "frames": 13
+ },
+ {
+  "segment": 12,
+  "free": "R",
+  "stuck": "L",
+  "end": 2051.0,
+  "start": 2050.8,
+  "first_seen": 2050.6,
+  "frames": 12
+ }
+]

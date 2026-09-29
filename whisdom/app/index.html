@@ -1,0 +1,244 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Whisdom</title>
+<style>
+:root{
+  --bg:#0f1012; --panel:#17181b; --card:#1d1f23; --line:#2a2d33;
+  --tx:#e8e9ec; --dim:#9aa0aa; --faint:#6b7280;
+  --accent:#5b9bd5; --good:#6fcf8b; --bad:#e8756b; --warn:#e0b45c;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);
+  font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+a{color:var(--accent);text-decoration:none}
+header{display:flex;align-items:baseline;gap:14px;padding:18px 24px;
+  border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:5}
+h1{font-size:17px;font-weight:600;margin:0;letter-spacing:.2px}
+.tag{font-size:12px;color:var(--faint)}
+main{display:grid;grid-template-columns:340px 1fr;min-height:calc(100vh - 59px)}
+#side{border-right:1px solid var(--line);padding:16px;overflow-y:auto;max-height:calc(100vh - 59px)}
+#detail{padding:22px 26px;overflow-y:auto;max-height:calc(100vh - 59px)}
+input,select{background:var(--panel);color:var(--tx);border:1px solid var(--line);
+  border-radius:7px;padding:7px 9px;font-size:13px;width:100%}
+label{font-size:11px;color:var(--faint);text-transform:uppercase;letter-spacing:.6px;
+  display:block;margin:12px 0 4px}
+.stats{display:flex;gap:8px;margin-bottom:6px}
+.stat{flex:1;background:var(--panel);border-radius:8px;padding:9px 10px}
+.stat b{display:block;font-size:17px;font-weight:600}
+.stat span{font-size:11px;color:var(--faint)}
+.row{padding:10px 11px;border-radius:8px;cursor:pointer;border:1px solid transparent;
+  margin-bottom:5px;background:var(--panel)}
+.row:hover{border-color:var(--line)}
+.row.on{border-color:var(--accent);background:var(--card)}
+.row .who{font-size:13.5px;margin-bottom:2px}
+.row .meta{font-size:11.5px;color:var(--faint);display:flex;gap:8px;flex-wrap:wrap}
+.dot{display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--good);
+  vertical-align:1px;margin-right:4px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:11px;
+  padding:15px 17px;margin-bottom:14px}
+h2{font-size:15px;font-weight:600;margin:0 0 10px}
+h3{font-size:12px;font-weight:600;color:var(--faint);margin:22px 0 9px;
+  text-transform:uppercase;letter-spacing:.7px}
+.kv{display:flex;gap:18px;flex-wrap:wrap;font-size:13.5px;color:var(--dim)}
+.kv b{color:var(--tx);font-weight:500}
+.empty{color:var(--dim);text-align:center;padding:64px 24px}
+.empty i{display:block;font-size:34px;margin-bottom:10px;opacity:.4;font-style:normal}
+.note{background:#191c22;border-left:3px solid #3b5170;padding:11px 13px;
+  color:#98a4b8;font-size:12.5px;margin:14px 0;line-height:1.6}
+.warnbox{background:#221d17;border-left:3px solid #6b5327;color:#c7ab77}
+video{width:100%;border-radius:8px;background:#000;margin-top:4px}
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+td,th{padding:6px 9px;border-bottom:1px solid var(--line);text-align:left}
+th{color:var(--faint);font-weight:500;font-size:11.5px;text-transform:uppercase;letter-spacing:.5px}
+.bar{height:5px;background:#24272c;border-radius:3px;overflow:hidden;min-width:70px}
+.bar i{display:block;height:100%;background:var(--accent)}
+.pill{font-size:11px;padding:2px 7px;border-radius:99px;background:#23262b;color:var(--dim)}
+.good{color:var(--good)} .bad{color:var(--bad)} .warn{color:var(--warn)}
+.why{color:var(--dim);font-size:12.5px;font-style:italic;margin-top:7px}
+canvas{width:100%;height:86px;display:block}
+button{background:var(--panel);color:var(--tx);border:1px solid var(--line);
+  border-radius:7px;padding:6px 11px;font-size:13px;cursor:pointer}
+button:hover{border-color:var(--accent)}
+code{background:#101215;padding:2px 6px;border-radius:4px;font-size:12.5px;color:#b8c4d4}
+</style>
+
+<header>
+  <h1>Whisdom</h1>
+  <span class="tag" id="hdr">local · nothing leaves this machine</span>
+</header>
+
+<main>
+  <div id="side">
+    <div class="stats" id="stats"></div>
+    <label>Search</label><input id="q" placeholder="stage or file">
+    <label>Player</label><select id="player"><option value="">anyone</option></select>
+    <label>Recording</label>
+    <select id="video">
+      <option value="any">any</option>
+      <option value="1">paired with video</option>
+      <option value="0">replay only</option>
+    </select>
+    <label>Patch</label><select id="patch"><option value="">all</option></select>
+    <h3 id="count"></h3>
+    <div id="list"></div>
+  </div>
+  <div id="detail">
+    <div class="empty"><i>&#9654;</i>Pick a match on the left.</div>
+  </div>
+</main>
+
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => (s==null?'':String(s)).replace(/[&<>"]/g, c =>
+  ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const mmss = s => Math.floor(s/60)+':'+String(Math.round(s%60)).padStart(2,'0');
+let current = null;
+
+async function boot(){
+  const f = await (await fetch('/api/facets')).json();
+  $('#stats').innerHTML =
+    `<div class="stat"><b>${f.total}</b><span>matches</span></div>
+     <div class="stat"><b>${f.with_video}</b><span>with video</span></div>
+     <div class="stat"><b>${f.with_kos}</b><span>with KOs</span></div>`;
+  $('#player').innerHTML = '<option value="">anyone</option>' +
+    f.players.map(p=>`<option value="${esc(p.name)}">${esc(p.name)} (${p.n})</option>`).join('');
+  $('#patch').innerHTML = '<option value="">all</option>' +
+    f.patches.map(p=>`<option value="${esc(p)}">${esc(p)}</option>`).join('');
+  load();
+}
+
+async function load(){
+  const p = new URLSearchParams({
+    q:$('#q').value, player:$('#player').value,
+    video:$('#video').value, patch:$('#patch').value, limit:200});
+  const rows = await (await fetch('/api/matches?'+p)).json();
+  $('#count').textContent = rows.length + (rows.length===200?'+ shown':' shown');
+  $('#list').innerHTML = rows.map(r=>`
+    <div class="row" data-id="${r.match_id}">
+      <div class="who">${esc(r.who||'unknown')}</div>
+      <div class="meta">
+        <span>${r.has_video?'<i class="dot"></i>video':''}</span>
+        <span>${esc(r.level_name||'')}</span>
+        <span>${esc(r.patch||'')}</span>
+        <span>${mmss(r.duration||0)}</span>
+      </div>
+    </div>`).join('') || '<div class="empty">Nothing matches those filters.</div>';
+  document.querySelectorAll('.row').forEach(el =>
+    el.onclick = () => open(el.dataset.id, el));
+}
+
+async function open(id, el){
+  document.querySelectorAll('.row').forEach(r=>r.classList.remove('on'));
+  if(el) el.classList.add('on');
+  current = id;
+  const m = await (await fetch('/api/match/'+id)).json();
+  const who = m.players.map(p=>{
+    const o = p.outcome==='win'?' <span class="good">won</span>'
+            : p.outcome==='loss'?' <span class="bad">lost</span>':'';
+    return `<b>${esc(p.name||'?')}</b>${p.character?' <span class="pill">'+esc(p.character)+'</span>':''}${o}`;
+  }).join(' &nbsp;vs&nbsp; ');
+
+  let h = `<div class="card"><h2>${who}</h2>
+    <div class="kv">
+      <span>${esc(m.level||'')}</span><span>patch ${esc(m.patch||'?')}</span>
+      <span>${mmss(m.duration)}</span><span>${m.inputs.toLocaleString()} inputs</span>
+      <span>${m.kos.length} KOs</span>
+    </div></div>`;
+
+  if(!m.has_video){
+    h += `<div class="note warnbox"><b>No recording paired.</b><br>
+      The replay gives inputs and KO times, but damage lives only on screen —
+      so option analysis would be judged at an assumed 50%. Pair one with:<br><br>
+      <code>whisdom demo ${esc(m.id)} &lt;recording.mp4&gt;</code></div>`;
+  }
+
+  h += `<h3>Timeline</h3><div class="card" id="tl"></div>`;
+  h += `<div id="rev"><h3>Review</h3><div class="card">Loading…</div></div>`;
+  $('#detail').innerHTML = h;
+  drawTimeline(m);
+  loadReview(id, m);
+}
+
+function drawTimeline(m){
+  const box = $('#tl');
+  const names = {}; m.players.forEach(p=>names[p.slot]=p.name||('slot '+p.slot));
+  if(!m.has_video && !m.kos.length){ box.innerHTML='<span style="color:var(--dim)">No KOs recorded.</span>'; return; }
+  let html='';
+  Object.keys(names).forEach(slot=>{
+    const series = (m.damage||{})[slot] || [];
+    html += `<div style="margin-bottom:12px">
+      <div style="font-size:12.5px;color:var(--dim);margin-bottom:3px">${esc(names[slot])}</div>
+      <canvas data-slot="${slot}"></canvas></div>`;
+  });
+  box.innerHTML = html;
+  box.querySelectorAll('canvas').forEach(c=>{
+    const slot = c.dataset.slot;
+    const series = (m.damage||{})[slot] || [];
+    const w = c.clientWidth, hgt = 86;
+    c.width = w*2; c.height = hgt*2; const g = c.getContext('2d'); g.scale(2,2);
+    const dur = m.duration||1;
+    g.fillStyle='#15171a'; g.fillRect(0,0,w,hgt);
+    if(series.length){
+      g.beginPath();
+      series.forEach(([t,v],i)=>{
+        const x = (t/dur)*w, y = hgt-4-(v*(hgt-12));
+        i?g.lineTo(x,y):g.moveTo(x,y);
+      });
+      g.strokeStyle='#5b9bd5'; g.lineWidth=1.6; g.stroke();
+    } else {
+      g.fillStyle='#4b5058'; g.font='12px sans-serif';
+      g.fillText('no damage data — pair a recording', 10, hgt/2);
+    }
+    m.kos.forEach(k=>{
+      const x=(k.seconds/dur)*w;
+      g.strokeStyle = String(k.slot)===slot ? '#e8756b' : '#3a4048';
+      g.lineWidth = String(k.slot)===slot ? 1.6 : 1;
+      g.beginPath(); g.moveTo(x,0); g.lineTo(x,hgt); g.stroke();
+    });
+  });
+}
+
+async function loadReview(id, m){
+  const r = await (await fetch('/api/review/'+id)).json();
+  const box = $('#rev');
+  if(r.error){ box.innerHTML = `<h3>Review</h3><div class="card" style="color:var(--dim)">${esc(r.error)}</div>`; return; }
+  const tend = r.tendency.map(t=>`<tr><td>${esc(t.label)}</td>
+     <td style="width:60px">${Math.round(t.share*100)}%</td>
+     <td><div class="bar"><i style="width:${Math.round(t.share*100)}%"></i></div></td></tr>`).join('');
+  const pct = v => v==null ? 'unknown' : Math.round(v*100)+'%';
+  const deaths = r.deaths.map(d=>`
+    <div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:baseline">
+        <h2 style="margin:0">Death at ${d.seconds.toFixed(1)}s</h2>
+        <span class="pill">you ${pct(d.my_damage)} · them ${pct(d.their_damage)}</span>
+      </div>
+      <div class="kv" style="margin-top:9px">
+        <span>chose <b>${esc(d.chose)}</b>
+          <span class="${d.my_ev<0?'bad':'good'}">${d.my_ev>=0?'+':''}${d.my_ev.toFixed(2)}</span></span>
+        ${d.gap>0.02 ? `<span>better <b class="good">${esc(d.best)} ${d.best_ev>=0?'+':''}${d.best_ev.toFixed(2)}</b>
+          <span style="color:var(--faint)">(+${d.gap.toFixed(2)})</span></span>`
+        : '<span class="good">best available option</span>'}
+        ${d.confidence<1 ? '<span class="warn">unverified frame data</span>' : ''}
+      </div>
+      <div class="why">${esc(d.why_best)}</div>
+    </div>`).join('');
+  box.innerHTML = `<h3>What ${esc(r.opponent)} did when attacking</h3>
+    <div class="card"><table>${tend}</table></div>
+    <div class="note">This panel is the least settled part of the tool. The frame
+    data behind it is extracted and checked, but the way frames become
+    <em>advice</em> is a model that no player has reviewed yet. Tendency here comes
+    from ${r.tendency_n} presses across ${r.deaths.length} deaths, and
+    ${Math.round(r.tendency_ambiguous*100)}% of it is ambiguous without position
+    data. Read it as a starting point for an argument, not a verdict.</div>
+    <h3>Deaths</h3>${deaths}
+    ${m.has_video ? `<h3>Recording</h3><div class="card">
+      <video controls preload="metadata" src="/media?match=${encodeURIComponent(id)}"></video>
+      <div class="kv" style="margin-top:8px"><span>aligned automatically at
+      ${m.video_offset>=0?'+':''}${m.video_offset.toFixed(2)}s</span></div></div>` : ''}`;
+}
+
+['#q','#player','#video','#patch'].forEach(s=>{
+  const el=$(s); el.addEventListener(s==='#q'?'input':'change', load);
+});
+boot();
+</script>

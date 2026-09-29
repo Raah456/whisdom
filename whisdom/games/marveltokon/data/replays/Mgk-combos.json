@@ -1,0 +1,11 @@
+{
+ "video": "Mgk",
+ "combos": [],
+ "punishes": [],
+ "check": {
+  "increments_matching_damage": 0,
+  "not_matching": 0,
+  "of_those_an_exact_multiple": 0,
+  "share_ok": 0.0
+ }
+}

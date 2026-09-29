@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "whisdom"
+version = "0.5.0"
+description = "Replay analysis for platform fighters — fightingwhisdom"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.20"]
+
+[project.optional-dependencies]
+validate = ["jsonschema>=4"]
+
+[project.scripts]
+whisdom = "whisdom.agent.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["whisdom*"]

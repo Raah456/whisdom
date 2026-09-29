@@ -1,0 +1,10011 @@
+{
+ "schema_version": "1.0",
+ "analyzer_version": "0.3.0",
+ "match": {
+  "id": "bh_4028fb67d5e66757",
+  "source_file": "[8.01] SmallBrawlhaven (21).replay",
+  "game": "brawlhalla",
+  "patch": "8.01",
+  "fps": 60,
+  "duration_frames": 9886,
+  "playlist": null,
+  "online": null,
+  "level_id": null,
+  "level_name": null,
+  "has_video": false,
+  "video_offset_frames": null
+ },
+ "players": [
+  {
+   "slot": 0,
+   "entity_id": 1,
+   "display_name": "xugo54",
+   "identity_id": null,
+   "legend": {
+    "id": 42,
+    "name": "KAYA"
+   },
+   "team": null,
+   "is_bot": null
+  },
+  {
+   "slot": 1,
+   "entity_id": 2,
+   "display_name": "Clybell",
+   "identity_id": null,
+   "legend": {
+    "id": 5,
+    "name": "ORION"
+   },
+   "team": null,
+   "is_bot": null
+  }
+ ],
+ "observations": {
+  "inputs": [
+   {
+    "slot": 0,
+    "frame": 295,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 305,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 315,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 328,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 332,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 340,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 348,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 355,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 388,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 391,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 395,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 395,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 400,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 404,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 411,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 411,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 419,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 425,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 425,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 429,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 435,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 436,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 444,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 444,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 449,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 453,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 459,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 464,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 469,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 481,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 482,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 484,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 487,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 492,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 497,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 498,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 499,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 509,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 518,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 525,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 540,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 547,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 551,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 554,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 556,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 561,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 563,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 572,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 579,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 589,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 595,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 595,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 595,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 605,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 607,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 612,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 612,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 618,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 621,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 622,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 626,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 634,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 636,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 643,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 651,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 652,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 665,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 672,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 681,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 682,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 684,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 686,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 693,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 700,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 701,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 706,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 708,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 719,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 720,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 722,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 730,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 731,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 749,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 752,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 753,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 755,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 757,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 757,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 764,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 781,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 788,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 792,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 796,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 801,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 808,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 809,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 810,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 821,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 821,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 823,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 832,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 840,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 842,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 844,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 849,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 850,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 857,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 867,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 871,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 872,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 877,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 882,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 896,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 897,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 912,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 922,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 925,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 930,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 939,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 954,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 954,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 955,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 967,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 967,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 968,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 974,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 975,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 981,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 997,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 1000,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1006,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 1016,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1018,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1027,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1029,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 1033,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 1035,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1041,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1045,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 1045,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 1046,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1049,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 1050,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1051,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1060,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1062,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1069,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1070,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1076,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1085,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1112,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 1122,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 1125,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 1129,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 1132,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1139,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 1141,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 1154,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 1157,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1159,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1163,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 1169,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 1172,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 1181,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1184,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 1187,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1199,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 1200,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 1201,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 1212,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1216,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1226,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1239,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1255,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1264,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 1266,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 1268,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1268,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1272,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 1283,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1285,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1295,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1298,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 1312,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 1313,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 1313,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 1321,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1323,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1332,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1337,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1339,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1350,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1351,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 1352,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1361,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1369,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1369,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1374,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 1379,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1388,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1388,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1390,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1400,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1400,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1401,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1409,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 1429,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 1437,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 1449,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 1450,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 1452,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1472,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1474,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1476,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1488,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 1496,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 1506,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 1516,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1520,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1522,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 1524,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 1535,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1537,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1544,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 1545,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 1545,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 1546,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 1554,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 1555,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 1561,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1564,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 1564,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 1596,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1596,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1607,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1616,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1617,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 1625,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 1634,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 1639,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1649,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 1650,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1650,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1652,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 1667,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 1668,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1675,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1688,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1698,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1704,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 1713,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 1717,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1717,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1719,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1721,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 1723,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1737,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1737,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 1740,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1742,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1757,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1771,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1774,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1775,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1781,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1782,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 1788,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1796,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1796,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1800,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1804,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 1804,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 1811,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 1812,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1816,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1820,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 1832,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1836,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 1840,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 1849,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1850,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 1851,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1856,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1860,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1863,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1864,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 1870,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1871,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1874,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 1884,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 1884,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 1887,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 1890,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1891,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1891,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 1893,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1903,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1927,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 1929,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1932,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 1937,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 1939,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 1944,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1945,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 1963,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 1979,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 1986,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 1990,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 2000,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2003,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2015,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 2015,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 2016,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 2021,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 2022,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 2047,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 2048,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 2061,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 2061,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 2066,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2073,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2084,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2086,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 2093,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 2101,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 2107,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 2110,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 2111,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2115,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2131,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 2134,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 2136,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2144,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2148,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2164,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2169,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2172,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2172,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2174,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2179,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2192,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2198,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2200,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2208,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2208,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 2214,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 2215,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2220,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2221,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2224,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 2233,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 2241,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2241,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 2255,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 2264,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2270,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2272,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2273,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 2275,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2276,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2286,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2294,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2299,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2309,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2310,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2312,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2314,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2316,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2323,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2328,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 2329,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 2330,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 2330,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 2331,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 2339,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2341,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 2348,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2348,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 2350,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 2352,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2359,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 2375,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2380,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2386,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2414,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2415,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 2415,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 2418,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2422,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2423,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 2426,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2436,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2448,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2448,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2451,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2458,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2465,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2467,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2477,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2481,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2484,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2489,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 2508,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2525,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 2526,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 2528,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 2530,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 2538,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 2539,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2544,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2554,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2556,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 2565,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 2569,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 2570,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 2572,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2580,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 2609,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 2612,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2619,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2627,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2634,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2642,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2649,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2650,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2658,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2665,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2674,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2676,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 2688,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2693,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2694,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2694,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2697,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2698,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2704,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2713,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2732,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 2733,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2744,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2747,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 2752,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 2752,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2753,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2756,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 2764,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 2765,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 2772,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2772,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 2779,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 2791,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 2792,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 2804,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2805,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 2812,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2824,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2829,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2841,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2847,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2848,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 2852,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2853,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2858,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2863,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2868,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 2868,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 2883,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2884,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2884,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2886,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2888,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2892,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2896,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 2906,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 2909,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 2910,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 2910,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 2913,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 2917,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 2917,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 2918,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 2923,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 2926,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 2944,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 2950,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 2965,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 2977,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 2981,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 2982,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 2992,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 2999,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 3008,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 3010,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 3015,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 3031,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 3031,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 3036,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 3036,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 3038,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 3044,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 3069,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 3076,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 3081,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 3085,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 3093,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 3098,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 3099,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 3107,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 3114,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 3127,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 3151,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 3161,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 3171,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 3180,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 3183,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 3186,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 3191,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 3205,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 3210,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 3216,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 3219,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 3227,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 3228,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 3236,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 3238,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 3261,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 3284,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 3289,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 3289,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 3291,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 3362,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 3404,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 3416,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 3428,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 3440,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 3445,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 3450,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 3469,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 3472,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 3474,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 3477,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 3479,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 3484,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 3489,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 3496,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 3497,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 3503,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 3509,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 3510,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 3524,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 3533,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 3533,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 3540,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 3550,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 3550,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 3559,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 3559,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 3586,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 3596,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 3601,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 3605,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 3612,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 3616,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 3618,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 3618,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 3619,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 3636,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 3644,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 3663,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 3683,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 3690,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 3695,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 3696,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 3701,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 3719,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 3722,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 3803,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 3804,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 3805,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 3825,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 3834,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 3840,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 3843,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 3851,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 3859,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 3860,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 3868,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 3883,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 3886,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 3887,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 3891,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 3893,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 3899,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 3904,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 3919,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 3922,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 3934,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 3937,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 3937,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 3954,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 3955,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 3960,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 3974,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 3976,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 3986,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 3987,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 3988,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 3988,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 3995,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4001,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4010,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4018,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4019,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4036,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 4037,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 4037,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4045,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4048,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 4064,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 4074,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4083,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4086,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4087,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 4087,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 4090,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4098,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4110,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4116,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4117,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 4119,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4129,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4143,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 4148,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4170,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4176,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4188,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4188,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4191,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4198,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4201,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4205,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 4221,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 4229,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4231,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4232,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 4236,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4267,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4273,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4274,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 4278,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4284,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 4286,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4294,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4299,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4300,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 4300,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 4307,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 4309,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 4312,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4316,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4322,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4324,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 4337,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 4339,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4347,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4350,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4358,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4371,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4374,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4378,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4389,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 4390,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4393,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4398,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4402,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4408,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4419,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 4423,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4423,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 4424,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4435,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4472,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4473,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 4474,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4479,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 4483,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 4484,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 4499,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4500,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4505,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 4511,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4517,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 4521,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4526,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4527,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4530,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 4543,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 4543,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 4545,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4546,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4551,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 4552,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4553,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4554,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4563,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4582,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4588,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 4592,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4601,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 4604,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4605,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 4606,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4615,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4616,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4619,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4642,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4643,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 4643,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 4647,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4651,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4654,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4656,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 4664,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4669,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 4694,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4697,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 4700,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4711,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 4719,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4719,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 4729,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4733,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4742,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 4742,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 4742,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4743,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4746,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4746,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4757,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4762,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 4774,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 4782,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 4791,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 4795,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 4800,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 4807,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 4815,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 4816,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4818,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 4824,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 4828,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4835,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4838,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4852,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4859,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 4865,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 4872,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 4878,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 4890,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4895,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 4896,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4900,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4904,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4909,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4927,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4934,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 4934,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 4935,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 4936,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 4942,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 4964,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 4965,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 4976,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 4977,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 4977,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 4980,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 4981,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 4990,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 5000,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5004,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 5009,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 5028,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5032,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 5047,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 5065,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5067,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 5080,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 5081,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 5082,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 5084,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 5085,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 5090,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 5120,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 5129,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 5129,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 5131,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 5136,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 5137,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 5138,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 5170,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 5170,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 5174,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5176,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5182,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 5185,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5191,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 5194,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5211,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5220,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5227,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5236,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5245,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5257,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 5267,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 5281,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 5282,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5284,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 5305,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 5313,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 5327,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 5329,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 5333,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 5338,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 5344,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 5347,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 5351,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 5356,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 5359,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 5360,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 5360,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 5374,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 5381,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5391,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 5392,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 5397,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 5403,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 5414,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 5415,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 5416,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 5421,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 5424,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 5429,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5430,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 5434,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5438,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 5441,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5446,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 5450,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 5467,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 5472,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5484,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 5484,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5508,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 5508,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 5513,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 5518,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5521,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 5527,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 5530,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 5532,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 5546,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 5562,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5574,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 5577,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 5579,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 5579,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 5589,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 5592,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 5597,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5610,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 5620,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 5627,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 5629,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 5629,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5636,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 5637,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 5641,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 5651,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 5679,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5683,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 5683,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 5684,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 5686,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 5686,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 5687,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5699,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 5705,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 5708,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 5709,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 5719,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 5722,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 5727,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5735,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 5743,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 5744,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 5772,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 5774,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 5784,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 5792,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 5798,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 5803,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 5806,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 5820,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 5827,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 5835,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 5836,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5845,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 5853,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 5860,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 5863,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 5867,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 5877,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 5896,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 5897,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 5910,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 5949,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 5950,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 5963,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 5970,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 5970,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 5980,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 6006,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6007,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 6008,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 6015,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 6019,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 6031,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6048,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6050,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 6059,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 6064,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 6074,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6090,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 6092,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6094,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 6104,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 6115,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6147,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 6151,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 6155,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6156,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 6160,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 6161,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6171,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 6177,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6182,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 6184,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6185,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 6191,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 6193,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6226,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 6232,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6233,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 6233,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 6234,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 6243,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 6251,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 6267,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 6273,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6275,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 6276,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 6278,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 6283,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 6286,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 6292,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 6295,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 6300,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 6302,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 6311,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 6315,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 6323,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 6325,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6332,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 6334,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6341,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 6344,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 6348,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6349,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6356,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6358,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6359,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 6369,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 6372,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 6372,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 6388,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 6393,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6407,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 6411,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 6429,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 6431,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6441,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 6445,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6468,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 6469,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 6470,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6488,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 6490,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 6496,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 6509,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 6516,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6528,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 6534,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 6539,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6571,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6597,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 6598,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6605,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6608,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 6610,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6612,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6616,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6622,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 6624,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6631,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6636,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6645,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6649,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6657,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6660,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6665,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6666,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6671,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6674,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 6675,
+    "action": "AimUp"
+   },
+   {
+    "slot": 1,
+    "frame": 6675,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 6677,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6681,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6685,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6691,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6694,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6701,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6704,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6710,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6719,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6724,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6731,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6740,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6745,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6753,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6762,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6766,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6768,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 6774,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6780,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 6792,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 6793,
+    "action": "AimUp"
+   },
+   {
+    "slot": 1,
+    "frame": 6793,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 6802,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6803,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 6820,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6823,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 6837,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6849,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6855,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 6858,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 6862,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 6866,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 6867,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 6868,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6869,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 6870,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 6874,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6878,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 6887,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6887,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 6896,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6904,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6912,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 6916,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6918,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 6932,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 6939,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 6947,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6952,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 6963,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 6965,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6969,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 6973,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 6985,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 6986,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 6994,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 6997,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7007,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7014,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7021,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 7028,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 7031,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7037,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 7039,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7040,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7045,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 7046,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7071,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 7074,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7076,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 7079,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7080,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 7088,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7091,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7093,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7096,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7109,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 7110,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7111,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 7112,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 7112,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 7113,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7114,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 7118,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7121,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7127,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7132,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7142,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7143,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7148,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 7151,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7160,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7165,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7176,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 7176,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 7177,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7179,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 7179,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7180,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7181,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7188,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7188,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7206,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7212,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 7247,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 7249,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 7251,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 7261,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 7264,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 7279,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 7284,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 7290,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 7291,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7307,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7308,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 7314,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 7315,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7322,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7330,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7341,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7342,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 7360,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7360,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 7362,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7365,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 7371,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 7375,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 7383,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 7385,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 7397,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7397,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 7404,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 7404,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7404,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 7416,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 7420,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 7421,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 7422,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7428,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7431,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 7434,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 7438,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 7440,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 7450,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7453,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 7460,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 7461,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 7468,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 7479,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 7484,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 7488,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 7497,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 7504,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7506,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 7516,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 7526,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7549,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 7566,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7567,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 7572,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 7582,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 7594,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7595,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 7598,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 7598,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 7612,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7617,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7620,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7621,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 7627,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7633,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 7640,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7647,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 7650,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7650,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 7659,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 7659,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7668,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 7671,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7678,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7679,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 7687,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 7687,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 7688,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7689,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7708,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 7709,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 7709,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 7717,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7723,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7726,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 7742,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 7744,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 7758,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7762,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 7764,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7766,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7768,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 7779,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 7781,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 7797,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7802,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 7807,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 7808,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7812,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 7850,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 7853,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 7855,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 7861,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7861,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 7870,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 7873,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 7874,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 7884,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7884,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 7894,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7896,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 7900,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 7909,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 7911,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 7925,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 7926,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 7938,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 7944,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 7955,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 7956,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 7956,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 7958,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 7961,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 7985,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 7996,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 8007,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8015,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8018,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 8018,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 8024,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 8027,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 8028,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 8028,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8035,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 8036,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 8036,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 8065,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 8069,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8077,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8085,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 8088,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 8095,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 8099,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8100,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 8101,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 8103,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 8108,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8112,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 8138,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 8149,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8160,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 8161,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8162,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 8175,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8183,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8192,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8204,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 8210,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8211,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8219,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8239,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 8239,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 8241,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 8269,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8276,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 8276,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 8280,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 8296,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 8300,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 8301,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 8303,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 8332,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 8333,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 8334,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 8337,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 8346,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 8355,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 8356,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 8363,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8367,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 8367,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 8373,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8384,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 8388,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8391,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8396,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 8398,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8402,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 8405,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8410,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 8412,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 8420,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8426,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 8434,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 8437,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 8439,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 8439,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 8443,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 8445,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 8446,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8454,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8474,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 8475,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 8483,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8505,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 8514,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8523,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8527,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 8531,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 8534,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8550,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8561,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8563,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8569,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8573,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8580,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8583,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8592,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8598,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8601,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8608,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8618,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8621,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 8621,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 8628,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8632,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8640,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8645,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8649,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8655,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8660,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8668,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8670,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8678,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8697,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8711,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 8711,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 8712,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 8737,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 8742,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8781,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 8794,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 8801,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8802,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8808,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8814,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 8815,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 8819,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8823,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 8831,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8844,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8851,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 8852,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 8852,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8857,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8865,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 8865,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 8874,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 8885,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 8887,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8894,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 8897,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8901,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 8902,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8905,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8907,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 8910,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8930,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 8932,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 8934,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 8934,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 8935,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 8936,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 8940,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 8951,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 8953,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 8954,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 8965,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 8974,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 8985,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 8988,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 8989,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 8994,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 8998,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 9006,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 9009,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 9018,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 9021,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 9021,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 9022,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 9025,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 9026,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9027,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 9035,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 9042,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9043,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 9045,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 9066,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 9068,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 9075,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9076,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 9079,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 9084,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 9085,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9092,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9093,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 9118,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 9120,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9131,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 9135,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 9137,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 9139,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9139,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 9143,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 9155,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 9160,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9176,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9177,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 9185,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 9187,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 9192,
+    "action": "Light"
+   },
+   {
+    "slot": 0,
+    "frame": 9208,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 9209,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 9209,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 9211,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 9220,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 9220,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 9250,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 9251,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 9251,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 9253,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 9256,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 9272,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 9277,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 9279,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9289,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9290,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 9310,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 9325,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 9326,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 9327,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 9341,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 9343,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 9344,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 9344,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 9345,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 9349,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 9352,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 9360,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9364,
+    "action": "Light"
+   },
+   {
+    "slot": 1,
+    "frame": 9365,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9397,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9403,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 9406,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 9409,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9412,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 9414,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 9414,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 9417,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 9433,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 9435,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9452,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9460,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 9471,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 9481,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 9484,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9489,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 9498,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9498,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 9517,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 9538,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 9556,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 9558,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 9559,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 9559,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 9560,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 9566,
+    "action": "Heavy"
+   },
+   {
+    "slot": 0,
+    "frame": 9566,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 9597,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9618,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9626,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 9627,
+    "action": "Left"
+   },
+   {
+    "slot": 0,
+    "frame": 9637,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 9637,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9638,
+    "action": "AimDown"
+   },
+   {
+    "slot": 0,
+    "frame": 9653,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 9656,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9661,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 9662,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 9665,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9666,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 9676,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 9677,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9682,
+    "action": "Heavy"
+   },
+   {
+    "slot": 1,
+    "frame": 9718,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 9720,
+    "action": "Right"
+   },
+   {
+    "slot": 0,
+    "frame": 9729,
+    "action": "AimUp"
+   },
+   {
+    "slot": 0,
+    "frame": 9729,
+    "action": "UpJump"
+   },
+   {
+    "slot": 1,
+    "frame": 9730,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 9731,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 9732,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 9740,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9753,
+    "action": "AimUp"
+   },
+   {
+    "slot": 1,
+    "frame": 9753,
+    "action": "UpJump"
+   },
+   {
+    "slot": 0,
+    "frame": 9760,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9766,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 9770,
+    "action": "Jump"
+   },
+   {
+    "slot": 0,
+    "frame": 9781,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 9783,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 9799,
+    "action": "Dodge"
+   },
+   {
+    "slot": 0,
+    "frame": 9803,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 0,
+    "frame": 9827,
+    "action": "Left"
+   },
+   {
+    "slot": 1,
+    "frame": 9828,
+    "action": "Right"
+   },
+   {
+    "slot": 1,
+    "frame": 9830,
+    "action": "ThrowPickup"
+   },
+   {
+    "slot": 1,
+    "frame": 9835,
+    "action": "Dodge"
+   },
+   {
+    "slot": 1,
+    "frame": 9860,
+    "action": "Jump"
+   },
+   {
+    "slot": 1,
+    "frame": 9881,
+    "action": "AimDown"
+   },
+   {
+    "slot": 1,
+    "frame": 9883,
+    "action": "ThrowPickup"
+   }
+  ],
+  "kos": [
+   {
+    "slot": 1,
+    "frame": 3164
+   },
+   {
+    "slot": 0,
+    "frame": 3541
+   },
+   {
+    "slot": 0,
+    "frame": 6545
+   },
+   {
+    "slot": 1,
+    "frame": 8508
+   },
+   {
+    "slot": 0,
+    "frame": 9849
+   }
+  ]
+ },
+ "analysis": {
+  "moments": [
+   {
+    "id": "m_cc57ad53cc6b",
+    "slot": 1,
+    "frame": 3164,
+    "kind": "ko",
+    "severity": 5,
+    "title": "KO \u2014 Clybell died",
+    "detail": "Inputs in the 5s before the KO: xugo54 20; Clybell 28",
+    "evidence": {
+     "leadin": {
+      "xugo54": [
+       [
+        47808,
+        "Right"
+       ],
+       [
+        48064,
+        "Left"
+       ],
+       [
+        48192,
+        "AimDown"
+       ],
+       [
+        48432,
+        "Jump"
+       ],
+       [
+        48480,
+        "Heavy"
+       ],
+       [
+        48496,
+        "AimUp"
+       ],
+       [
+        48496,
+        "UpJump"
+       ],
+       [
+        48544,
+        "Right"
+       ],
+       [
+        48624,
+        "Heavy"
+       ],
+       [
+        48720,
+        "Left"
+       ],
+       [
+        49072,
+        "AimDown"
+       ],
+       [
+        49424,
+        "Dodge"
+       ],
+       [
+        49616,
+        "ThrowPickup"
+       ],
+       [
+        50160,
+        "Right"
+       ],
+       [
+        50512,
+        "AimUp"
+       ],
+       [
+        50512,
+        "UpJump"
+       ],
+       [
+        50592,
+        "Light"
+       ],
+       [
+        50736,
+        "Light"
+       ],
+       [
+        51264,
+        "Dodge"
+       ],
+       [
+        51344,
+        "Heavy"
+       ]
+      ],
+      "Clybell": [
+       [
+        47792,
+        "Light"
+       ],
+       [
+        48048,
+        "Right"
+       ],
+       [
+        48064,
+        "AimDown"
+       ],
+       [
+        48096,
+        "Dodge"
+       ],
+       [
+        48128,
+        "Light"
+       ],
+       [
+        48272,
+        "Light"
+       ],
+       [
+        48624,
+        "Jump"
+       ],
+       [
+        48640,
+        "Left"
+       ],
+       [
+        48768,
+        "Dodge"
+       ],
+       [
+        49168,
+        "AimDown"
+       ],
+       [
+        49680,
+        "Dodge"
+       ],
+       [
+        49696,
+        "Heavy"
+       ],
+       [
+        49872,
+        "Heavy"
+       ],
+       [
+        49984,
+        "Heavy"
+       ],
+       [
+        50128,
+        "Heavy"
+       ],
+       [
+        50256,
+        "Heavy"
+       ],
+       [
+        50592,
+        "AimDown"
+       ],
+       [
+        50640,
+        "Light"
+       ],
+       [
+        51152,
+        "Right"
+       ],
+       [
+        51424,
+        "Dodge"
+       ],
+       [
+        51552,
+        "Left"
+       ],
+       [
+        51632,
+        "Heavy"
+       ],
+       [
+        51648,
+        "AimDown"
+       ],
+       [
+        51776,
+        "Heavy"
+       ],
+       [
+        51904,
+        "Heavy"
+       ],
+       [
+        52112,
+        "Left"
+       ],
+       [
+        52512,
+        "Right"
+       ],
+       [
+        52688,
+        "AimDown"
+       ]
+      ]
+     }
+    },
+    "feedback": null
+   },
+   {
+    "id": "m_5300a218a200",
+    "slot": 0,
+    "frame": 3541,
+    "kind": "ko",
+    "severity": 5,
+    "title": "KO \u2014 xugo54 died",
+    "detail": "Inputs in the 5s before the KO: xugo54 14; Clybell 14",
+    "evidence": {
+     "leadin": {
+      "xugo54": [
+       [
+        54352,
+        "Dodge"
+       ],
+       [
+        54736,
+        "Left"
+       ],
+       [
+        54816,
+        "AimUp"
+       ],
+       [
+        54816,
+        "UpJump"
+       ],
+       [
+        54848,
+        "ThrowPickup"
+       ],
+       [
+        57424,
+        "ThrowPickup"
+       ],
+       [
+        57872,
+        "Right"
+       ],
+       [
+        57904,
+        "Dodge"
+       ],
+       [
+        58064,
+        "Left"
+       ],
+       [
+        58288,
+        "Dodge"
+       ],
+       [
+        58496,
+        "Jump"
+       ],
+       [
+        58736,
+        "Dodge"
+       ],
+       [
+        58880,
+        "Dodge"
+       ],
+       [
+        59008,
+        "Dodge"
+       ]
+      ],
+      "Clybell": [
+       [
+        56032,
+        "Light"
+       ],
+       [
+        56736,
+        "AimDown"
+       ],
+       [
+        56928,
+        "AimDown"
+       ],
+       [
+        57136,
+        "AimDown"
+       ],
+       [
+        57328,
+        "AimDown"
+       ],
+       [
+        57504,
+        "AimDown"
+       ],
+       [
+        57824,
+        "Right"
+       ],
+       [
+        57952,
+        "Dodge"
+       ],
+       [
+        57984,
+        "Heavy"
+       ],
+       [
+        58144,
+        "Heavy"
+       ],
+       [
+        58272,
+        "Heavy"
+       ],
+       [
+        58384,
+        "Heavy"
+       ],
+       [
+        58480,
+        "Heavy"
+       ],
+       [
+        58880,
+        "Right"
+       ]
+      ]
+     }
+    },
+    "feedback": null
+   },
+   {
+    "id": "m_a3a580d9d877",
+    "slot": 0,
+    "frame": 6545,
+    "kind": "ko",
+    "severity": 5,
+    "title": "KO \u2014 xugo54 died",
+    "detail": "Inputs in the 5s before the KO: xugo54 19; Clybell 28",
+    "evidence": {
+     "leadin": {
+      "xugo54": [
+       [
+        104544,
+        "Left"
+       ],
+       [
+        104576,
+        "AimDown"
+       ],
+       [
+        104640,
+        "Light"
+       ],
+       [
+        105248,
+        "Jump"
+       ],
+       [
+        105376,
+        "Heavy"
+       ],
+       [
+        105424,
+        "Left"
+       ],
+       [
+        105536,
+        "Heavy"
+       ],
+       [
+        105568,
+        "Right"
+       ],
+       [
+        105680,
+        "Heavy"
+       ],
+       [
+        105792,
+        "Left"
+       ],
+       [
+        105936,
+        "Right"
+       ],
+       [
+        106144,
+        "Jump"
+       ],
+       [
+        106464,
+        "AimDown"
+       ],
+       [
+        106784,
+        "Dodge"
+       ],
+       [
+        107184,
+        "Left"
+       ],
+       [
+        107344,
+        "Jump"
+       ],
+       [
+        107424,
+        "Right"
+       ],
+       [
+        107824,
+        "Jump"
+       ],
+       [
+        108480,
+        "Jump"
+       ]
+      ],
+      "Clybell": [
+       [
+        104176,
+        "Heavy"
+       ],
+       [
+        104448,
+        "Jump"
+       ],
+       [
+        104592,
+        "Jump"
+       ],
+       [
+        104720,
+        "Jump"
+       ],
+       [
+        104768,
+        "Heavy"
+       ],
+       [
+        104864,
+        "Jump"
+       ],
+       [
+        104912,
+        "Heavy"
+       ],
+       [
+        105008,
+        "Jump"
+       ],
+       [
+        105040,
+        "Heavy"
+       ],
+       [
+        105184,
+        "Jump"
+       ],
+       [
+        105728,
+        "AimDown"
+       ],
+       [
+        105824,
+        "Left"
+       ],
+       [
+        105968,
+        "Left"
+       ],
+       [
+        105984,
+        "Jump"
+       ],
+       [
+        106192,
+        "AimDown"
+       ],
+       [
+        106208,
+        "ThrowPickup"
+       ],
+       [
+        106544,
+        "Right"
+       ],
+       [
+        106848,
+        "Dodge"
+       ],
+       [
+        107152,
+        "AimDown"
+       ],
+       [
+        107808,
+        "ThrowPickup"
+       ],
+       [
+        107840,
+        "Left"
+       ],
+       [
+        108128,
+        "Dodge"
+       ],
+       [
+        108160,
+        "ThrowPickup"
+       ],
+       [
+        108272,
+        "ThrowPickup"
+       ],
+       [
+        108608,
+        "Right"
+       ],
+       [
+        108800,
+        "Dodge"
+       ],
+       [
+        108896,
+        "ThrowPickup"
+       ],
+       [
+        108976,
+        "Left"
+       ]
+      ]
+     }
+    },
+    "feedback": null
+   },
+   {
+    "id": "m_c2e9f0faaedd",
+    "slot": 1,
+    "frame": 8508,
+    "kind": "ko",
+    "severity": 5,
+    "title": "KO \u2014 Clybell died",
+    "detail": "Inputs in the 5s before the KO: xugo54 29; Clybell 19",
+    "evidence": {
+     "leadin": {
+      "xugo54": [
+       [
+        136848,
+        "Right"
+       ],
+       [
+        136976,
+        "Dodge"
+       ],
+       [
+        137312,
+        "AimUp"
+       ],
+       [
+        137312,
+        "UpJump"
+       ],
+       [
+        137344,
+        "ThrowPickup"
+       ],
+       [
+        137824,
+        "Right"
+       ],
+       [
+        137936,
+        "ThrowPickup"
+       ],
+       [
+        138000,
+        "Jump"
+       ],
+       [
+        138272,
+        "Jump"
+       ],
+       [
+        138336,
+        "AimDown"
+       ],
+       [
+        138352,
+        "ThrowPickup"
+       ],
+       [
+        138864,
+        "AimDown"
+       ],
+       [
+        138896,
+        "Left"
+       ],
+       [
+        139264,
+        "ThrowPickup"
+       ],
+       [
+        139376,
+        "Right"
+       ],
+       [
+        139456,
+        "AimUp"
+       ],
+       [
+        139456,
+        "UpJump"
+       ],
+       [
+        139552,
+        "Left"
+       ],
+       [
+        139728,
+        "Right"
+       ],
+       [
+        139856,
+        "Dodge"
+       ],
+       [
+        139936,
+        "Jump"
+       ],
+       [
+        140032,
+        "Left"
+       ],
+       [
+        140160,
+        "Dodge"
+       ],
+       [
+        140432,
+        "AimDown"
+       ],
+       [
+        140560,
+        "Right"
+       ],
+       [
+        140656,
+        "AimUp"
+       ],
+       [
+        140656,
+        "UpJump"
+       ],
+       [
+        140720,
+        "Heavy"
+       ],
+       [
+        141744,
+        "AimDown"
+       ]
+      ],
+      "Clybell": [
+       [
+        136832,
+        "Left"
+       ],
+       [
+        137936,
+        "Jump"
+       ],
+       [
+        138384,
+        "Jump"
+       ],
+       [
+        138880,
+        "Jump"
+       ],
+       [
+        138944,
+        "Heavy"
+       ],
+       [
+        139104,
+        "Heavy"
+       ],
+       [
+        139248,
+        "Heavy"
+       ],
+       [
+        139808,
+        "Right"
+       ],
+       [
+        139968,
+        "Left"
+       ],
+       [
+        140080,
+        "Right"
+       ],
+       [
+        140192,
+        "Left"
+       ],
+       [
+        140336,
+        "Dodge"
+       ],
+       [
+        140624,
+        "Light"
+       ],
+       [
+        140752,
+        "Left"
+       ],
+       [
+        140768,
+        "Light"
+       ],
+       [
+        140896,
+        "Light"
+       ],
+       [
+        141232,
+        "AimDown"
+       ],
+       [
+        141248,
+        "Right"
+       ],
+       [
+        141376,
+        "Left"
+       ]
+      ]
+     }
+    },
+    "feedback": null
+   },
+   {
+    "id": "m_b7099deff2e8",
+    "slot": 0,
+    "frame": 9849,
+    "kind": "ko",
+    "severity": 5,
+    "title": "KO \u2014 xugo54 died",
+    "detail": "Inputs in the 5s before the KO: xugo54 16; Clybell 28",
+    "evidence": {
+     "leadin": {
+      "xugo54": [
+       [
+        159312,
+        "AimUp"
+       ],
+       [
+        159312,
+        "UpJump"
+       ],
+       [
+        159440,
+        "Heavy"
+       ],
+       [
+        159440,
+        "Dodge"
+       ],
+       [
+        160624,
+        "Jump"
+       ],
+       [
+        160880,
+        "Heavy"
+       ],
+       [
+        161040,
+        "Heavy"
+       ],
+       [
+        162000,
+        "Right"
+       ],
+       [
+        162144,
+        "AimUp"
+       ],
+       [
+        162144,
+        "UpJump"
+       ],
+       [
+        162192,
+        "Jump"
+       ],
+       [
+        162672,
+        "Left"
+       ],
+       [
+        162832,
+        "Jump"
+       ],
+       [
+        163024,
+        "Dodge"
+       ],
+       [
+        163376,
+        "ThrowPickup"
+       ],
+       [
+        163776,
+        "Left"
+       ]
+      ],
+      "Clybell": [
+       [
+        159264,
+        "AimDown"
+       ],
+       [
+        159296,
+        "Dodge"
+       ],
+       [
+        159328,
+        "Heavy"
+       ],
+       [
+        159952,
+        "Left"
+       ],
+       [
+        160304,
+        "Right"
+       ],
+       [
+        160432,
+        "Jump"
+       ],
+       [
+        160448,
+        "Left"
+       ],
+       [
+        160624,
+        "Left"
+       ],
+       [
+        160640,
+        "AimDown"
+       ],
+       [
+        160928,
+        "Right"
+       ],
+       [
+        161024,
+        "Jump"
+       ],
+       [
+        161088,
+        "Left"
+       ],
+       [
+        161104,
+        "Heavy"
+       ],
+       [
+        161264,
+        "Heavy"
+       ],
+       [
+        161280,
+        "Left"
+       ],
+       [
+        161360,
+        "Heavy"
+       ],
+       [
+        161968,
+        "Jump"
+       ],
+       [
+        162160,
+        "AimDown"
+       ],
+       [
+        162176,
+        "ThrowPickup"
+       ],
+       [
+        162336,
+        "Left"
+       ],
+       [
+        162544,
+        "AimUp"
+       ],
+       [
+        162544,
+        "UpJump"
+       ],
+       [
+        162768,
+        "Dodge"
+       ],
+       [
+        163056,
+        "AimDown"
+       ],
+       [
+        163312,
+        "Dodge"
+       ],
+       [
+        163808,
+        "Right"
+       ],
+       [
+        163840,
+        "ThrowPickup"
+       ],
+       [
+        163920,
+        "Dodge"
+       ]
+      ]
+     }
+    },
+    "feedback": null
+   },
+   {
+    "id": "m_777cc23a7ddc",
+    "slot": 0,
+    "frame": 449,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 13f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_965a5b27e084",
+    "slot": 1,
+    "frame": 579,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_7034e77a735f",
+    "slot": 1,
+    "frame": 607,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_e95e0cfca95a",
+    "slot": 0,
+    "frame": 634,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_05bd559565e7",
+    "slot": 1,
+    "frame": 700,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_03385090cd5c",
+    "slot": 1,
+    "frame": 808,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_67e48bae2f6e",
+    "slot": 1,
+    "frame": 840,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_b584a4693e9d",
+    "slot": 1,
+    "frame": 857,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_c57652458439",
+    "slot": 1,
+    "frame": 1035,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_d6418b7a43bb",
+    "slot": 1,
+    "frame": 1339,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_71c32ef26cea",
+    "slot": 1,
+    "frame": 1369,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_695e62f79442",
+    "slot": 0,
+    "frame": 1554,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 10f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_5b1ba8a968bb",
+    "slot": 0,
+    "frame": 1564,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 10f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_cdd534f922bd",
+    "slot": 1,
+    "frame": 1788,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_95c2145a63d2",
+    "slot": 1,
+    "frame": 1796,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_23e886f2a547",
+    "slot": 1,
+    "frame": 1863,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_f836ff10100b",
+    "slot": 1,
+    "frame": 1871,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_6e6a3e300edd",
+    "slot": 1,
+    "frame": 1945,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_349cafecaa60",
+    "slot": 1,
+    "frame": 2172,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_ced9cb22148d",
+    "slot": 1,
+    "frame": 2179,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4ece6b93cdaf",
+    "slot": 1,
+    "frame": 2241,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_2cecea643795",
+    "slot": 0,
+    "frame": 2275,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_cec1b9038935",
+    "slot": 1,
+    "frame": 2465,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_a86c965f2e7c",
+    "slot": 1,
+    "frame": 2634,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4543e07d2933",
+    "slot": 1,
+    "frame": 2642,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4fb1d26014d1",
+    "slot": 1,
+    "frame": 2649,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_84e69048a6a4",
+    "slot": 1,
+    "frame": 2665,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_f2f9fa9cf8ec",
+    "slot": 1,
+    "frame": 2704,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_396496692aa5",
+    "slot": 1,
+    "frame": 2764,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_7ca818665171",
+    "slot": 1,
+    "frame": 2868,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 5f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_1e0ab4f7bd1e",
+    "slot": 1,
+    "frame": 2999,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_12e48954fc9c",
+    "slot": 1,
+    "frame": 3015,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_8cdf3ea3e595",
+    "slot": 1,
+    "frame": 3114,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_627204063a40",
+    "slot": 1,
+    "frame": 3161,
+    "kind": "freeze",
+    "severity": 1,
+    "title": "Idle 3.3s",
+    "detail": "No input at all for 3.3 seconds.",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_997c75257300",
+    "slot": 0,
+    "frame": 3216,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 11f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_ab42cfd47830",
+    "slot": 0,
+    "frame": 3227,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 11f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_539505419a9a",
+    "slot": 0,
+    "frame": 3236,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 10f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_a989c261d8ad",
+    "slot": 0,
+    "frame": 3291,
+    "kind": "freeze",
+    "severity": 1,
+    "title": "Idle 2.6s",
+    "detail": "No input at all for 2.6 seconds.",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_5ecc2c2d3618",
+    "slot": 1,
+    "frame": 3496,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_7636ee2d52c8",
+    "slot": 1,
+    "frame": 3503,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_e75881c973ff",
+    "slot": 1,
+    "frame": 3509,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_57619c0758ca",
+    "slot": 0,
+    "frame": 3533,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 9f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_10ed456d75bd",
+    "slot": 0,
+    "frame": 3540,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 8f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_b0124f4bd3e8",
+    "slot": 0,
+    "frame": 3550,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 10f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_f2babde5346d",
+    "slot": 0,
+    "frame": 3559,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 9f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_f314ca385e77",
+    "slot": 0,
+    "frame": 3619,
+    "kind": "freeze",
+    "severity": 1,
+    "title": "Idle 3.7s",
+    "detail": "No input at all for 3.7 seconds.",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4d4a8ec4c378",
+    "slot": 1,
+    "frame": 3851,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_cad9f0d2264a",
+    "slot": 1,
+    "frame": 3899,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_2fd38a562788",
+    "slot": 1,
+    "frame": 3904,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_61bcde168402",
+    "slot": 1,
+    "frame": 4090,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_8a51b7dc08a9",
+    "slot": 1,
+    "frame": 4294,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_e05a0b147aeb",
+    "slot": 1,
+    "frame": 4408,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_19e3a026706e",
+    "slot": 1,
+    "frame": 4527,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4eb7ced95b6a",
+    "slot": 0,
+    "frame": 4553,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_0dbd866d8fe9",
+    "slot": 0,
+    "frame": 4619,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_b96ed054f6eb",
+    "slot": 1,
+    "frame": 4807,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_dde760457624",
+    "slot": 1,
+    "frame": 4904,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_2b231a5ed533",
+    "slot": 1,
+    "frame": 4909,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_5435a98e1192",
+    "slot": 1,
+    "frame": 4942,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_6e7305b492ac",
+    "slot": 1,
+    "frame": 5227,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_8278b26d4459",
+    "slot": 0,
+    "frame": 5441,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_19e7048af23e",
+    "slot": 1,
+    "frame": 5636,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_d4ef2f783f99",
+    "slot": 0,
+    "frame": 5705,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_2658b8fadef5",
+    "slot": 1,
+    "frame": 5735,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_bed48b80d439",
+    "slot": 1,
+    "frame": 5743,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_caf8f453ef04",
+    "slot": 1,
+    "frame": 5792,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_16c466fefd47",
+    "slot": 1,
+    "frame": 5798,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_615cfc5bb00a",
+    "slot": 1,
+    "frame": 5806,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_682a2981f1a9",
+    "slot": 0,
+    "frame": 5836,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 9f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_c8d1f193f385",
+    "slot": 0,
+    "frame": 5845,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 10f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4c4e1bf923c0",
+    "slot": 0,
+    "frame": 5853,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 8f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_d16632237068",
+    "slot": 1,
+    "frame": 5970,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_32f2292cd356",
+    "slot": 1,
+    "frame": 6064,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_ab594eb00fce",
+    "slot": 1,
+    "frame": 6251,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_cffbe8bb315a",
+    "slot": 1,
+    "frame": 6302,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_ec00362a3b5c",
+    "slot": 1,
+    "frame": 7014,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_eb5530360e4f",
+    "slot": 1,
+    "frame": 7046,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_261fda7370c0",
+    "slot": 1,
+    "frame": 7096,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_fcca34de298d",
+    "slot": 1,
+    "frame": 7127,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_6df6c3a7e7c7",
+    "slot": 1,
+    "frame": 7151,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_b271e5f50367",
+    "slot": 1,
+    "frame": 7165,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4f2353e08928",
+    "slot": 0,
+    "frame": 7188,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_e35e501b786a",
+    "slot": 1,
+    "frame": 7322,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_1db2c8d1e31f",
+    "slot": 1,
+    "frame": 7330,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_11202621c7a1",
+    "slot": 1,
+    "frame": 7627,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_2a8a871b5757",
+    "slot": 1,
+    "frame": 7900,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_b69d2f319b3d",
+    "slot": 0,
+    "frame": 8028,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_bf11c9e8cd66",
+    "slot": 0,
+    "frame": 8036,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 9f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_cc4408209ded",
+    "slot": 1,
+    "frame": 8085,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_7da3f2c88205",
+    "slot": 1,
+    "frame": 8183,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_d08d83dea449",
+    "slot": 1,
+    "frame": 8454,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_85ea4352cb80",
+    "slot": 1,
+    "frame": 8483,
+    "kind": "freeze",
+    "severity": 1,
+    "title": "Idle 2.3s",
+    "detail": "No input at all for 2.3 seconds.",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_1463c82f235d",
+    "slot": 0,
+    "frame": 8563,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 13f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_472489a346e0",
+    "slot": 0,
+    "frame": 8573,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 10f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_bc2b02433bc1",
+    "slot": 0,
+    "frame": 8583,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 11f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4fc423dbf9d4",
+    "slot": 0,
+    "frame": 8608,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 11f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_6e7eecd9d4b3",
+    "slot": 0,
+    "frame": 8621,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_34e627a6710b",
+    "slot": 1,
+    "frame": 8621,
+    "kind": "freeze",
+    "severity": 1,
+    "title": "Idle 2.0s",
+    "detail": "No input at all for 2.0 seconds.",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_194d8d2890f1",
+    "slot": 0,
+    "frame": 8632,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4f9aec063507",
+    "slot": 0,
+    "frame": 8645,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_7534a0d38a00",
+    "slot": 0,
+    "frame": 8655,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 11f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_ea4ca30a9f30",
+    "slot": 0,
+    "frame": 8668,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_b927085ac21f",
+    "slot": 0,
+    "frame": 8678,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 11f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_267c4e7ab5b1",
+    "slot": 1,
+    "frame": 8894,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_2c8b86545226",
+    "slot": 1,
+    "frame": 8902,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_64decce4d241",
+    "slot": 1,
+    "frame": 8910,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_bd3cce4f73e1",
+    "slot": 1,
+    "frame": 9006,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_041ddd8d862e",
+    "slot": 1,
+    "frame": 9076,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_12f9203a6a16",
+    "slot": 1,
+    "frame": 9084,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_f2a35f2830ee",
+    "slot": 1,
+    "frame": 9192,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_322cecd960f6",
+    "slot": 1,
+    "frame": 9489,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4afd7a7f3ceb",
+    "slot": 1,
+    "frame": 9682,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   }
+  ],
+  "metrics": null
+ },
+ "provenance": {
+  "parser": "anchor-v1",
+  "frame_data_patch": "8.01",
+  "confidence": {
+   "players": "high",
+   "kos": "high"
+  },
+  "warnings": []
+ }
+}

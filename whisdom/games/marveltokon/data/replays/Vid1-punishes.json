@@ -1,0 +1,18 @@
+[
+ {
+  "seg": 2,
+  "t": 162.9,
+  "x": 1520,
+  "d": 0.0,
+  "side": "R",
+  "from": "find_captions"
+ },
+ {
+  "seg": 2,
+  "t": 189.3,
+  "x": 1520,
+  "d": 0.0,
+  "side": "R",
+  "from": "find_captions"
+ }
+]

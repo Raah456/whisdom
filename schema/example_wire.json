@@ -1,0 +1,2265 @@
+{
+ "schema_version": "1.0",
+ "analyzer_version": "0.3.0",
+ "match": {
+  "id": "bh_4028fb67d5e66757",
+  "source_file": "[8.01] SmallBrawlhaven (21).replay",
+  "game": "brawlhalla",
+  "patch": "8.01",
+  "fps": 60,
+  "duration_frames": 9886,
+  "playlist": null,
+  "online": null,
+  "level_id": null,
+  "level_name": null,
+  "has_video": false,
+  "video_offset_frames": null
+ },
+ "players": [
+  {
+   "slot": 0,
+   "entity_id": 1,
+   "display_name": "xugo54",
+   "identity_id": null,
+   "legend": {
+    "id": 42,
+    "name": "KAYA"
+   },
+   "team": null,
+   "is_bot": null
+  },
+  {
+   "slot": 1,
+   "entity_id": 2,
+   "display_name": "Clybell",
+   "identity_id": null,
+   "legend": {
+    "id": 5,
+    "name": "ORION"
+   },
+   "team": null,
+   "is_bot": null
+  }
+ ],
+ "observations": {
+  "inputs": [],
+  "kos": [
+   {
+    "slot": 1,
+    "frame": 3164
+   },
+   {
+    "slot": 0,
+    "frame": 3541
+   },
+   {
+    "slot": 0,
+    "frame": 6545
+   },
+   {
+    "slot": 1,
+    "frame": 8508
+   },
+   {
+    "slot": 0,
+    "frame": 9849
+   }
+  ]
+ },
+ "analysis": {
+  "moments": [
+   {
+    "id": "m_cc57ad53cc6b",
+    "slot": 1,
+    "frame": 3164,
+    "kind": "ko",
+    "severity": 5,
+    "title": "KO \u2014 Clybell died",
+    "detail": "Inputs in the 5s before the KO: xugo54 20; Clybell 28",
+    "evidence": {
+     "leadin": {
+      "xugo54": [
+       [
+        47808,
+        "Right"
+       ],
+       [
+        48064,
+        "Left"
+       ],
+       [
+        48192,
+        "AimDown"
+       ],
+       [
+        48432,
+        "Jump"
+       ],
+       [
+        48480,
+        "Heavy"
+       ],
+       [
+        48496,
+        "AimUp"
+       ],
+       [
+        48496,
+        "UpJump"
+       ],
+       [
+        48544,
+        "Right"
+       ],
+       [
+        48624,
+        "Heavy"
+       ],
+       [
+        48720,
+        "Left"
+       ],
+       [
+        49072,
+        "AimDown"
+       ],
+       [
+        49424,
+        "Dodge"
+       ],
+       [
+        49616,
+        "ThrowPickup"
+       ],
+       [
+        50160,
+        "Right"
+       ],
+       [
+        50512,
+        "AimUp"
+       ],
+       [
+        50512,
+        "UpJump"
+       ],
+       [
+        50592,
+        "Light"
+       ],
+       [
+        50736,
+        "Light"
+       ],
+       [
+        51264,
+        "Dodge"
+       ],
+       [
+        51344,
+        "Heavy"
+       ]
+      ],
+      "Clybell": [
+       [
+        47792,
+        "Light"
+       ],
+       [
+        48048,
+        "Right"
+       ],
+       [
+        48064,
+        "AimDown"
+       ],
+       [
+        48096,
+        "Dodge"
+       ],
+       [
+        48128,
+        "Light"
+       ],
+       [
+        48272,
+        "Light"
+       ],
+       [
+        48624,
+        "Jump"
+       ],
+       [
+        48640,
+        "Left"
+       ],
+       [
+        48768,
+        "Dodge"
+       ],
+       [
+        49168,
+        "AimDown"
+       ],
+       [
+        49680,
+        "Dodge"
+       ],
+       [
+        49696,
+        "Heavy"
+       ],
+       [
+        49872,
+        "Heavy"
+       ],
+       [
+        49984,
+        "Heavy"
+       ],
+       [
+        50128,
+        "Heavy"
+       ],
+       [
+        50256,
+        "Heavy"
+       ],
+       [
+        50592,
+        "AimDown"
+       ],
+       [
+        50640,
+        "Light"
+       ],
+       [
+        51152,
+        "Right"
+       ],
+       [
+        51424,
+        "Dodge"
+       ],
+       [
+        51552,
+        "Left"
+       ],
+       [
+        51632,
+        "Heavy"
+       ],
+       [
+        51648,
+        "AimDown"
+       ],
+       [
+        51776,
+        "Heavy"
+       ],
+       [
+        51904,
+        "Heavy"
+       ],
+       [
+        52112,
+        "Left"
+       ],
+       [
+        52512,
+        "Right"
+       ],
+       [
+        52688,
+        "AimDown"
+       ]
+      ]
+     }
+    },
+    "feedback": null
+   },
+   {
+    "id": "m_5300a218a200",
+    "slot": 0,
+    "frame": 3541,
+    "kind": "ko",
+    "severity": 5,
+    "title": "KO \u2014 xugo54 died",
+    "detail": "Inputs in the 5s before the KO: xugo54 14; Clybell 14",
+    "evidence": {
+     "leadin": {
+      "xugo54": [
+       [
+        54352,
+        "Dodge"
+       ],
+       [
+        54736,
+        "Left"
+       ],
+       [
+        54816,
+        "AimUp"
+       ],
+       [
+        54816,
+        "UpJump"
+       ],
+       [
+        54848,
+        "ThrowPickup"
+       ],
+       [
+        57424,
+        "ThrowPickup"
+       ],
+       [
+        57872,
+        "Right"
+       ],
+       [
+        57904,
+        "Dodge"
+       ],
+       [
+        58064,
+        "Left"
+       ],
+       [
+        58288,
+        "Dodge"
+       ],
+       [
+        58496,
+        "Jump"
+       ],
+       [
+        58736,
+        "Dodge"
+       ],
+       [
+        58880,
+        "Dodge"
+       ],
+       [
+        59008,
+        "Dodge"
+       ]
+      ],
+      "Clybell": [
+       [
+        56032,
+        "Light"
+       ],
+       [
+        56736,
+        "AimDown"
+       ],
+       [
+        56928,
+        "AimDown"
+       ],
+       [
+        57136,
+        "AimDown"
+       ],
+       [
+        57328,
+        "AimDown"
+       ],
+       [
+        57504,
+        "AimDown"
+       ],
+       [
+        57824,
+        "Right"
+       ],
+       [
+        57952,
+        "Dodge"
+       ],
+       [
+        57984,
+        "Heavy"
+       ],
+       [
+        58144,
+        "Heavy"
+       ],
+       [
+        58272,
+        "Heavy"
+       ],
+       [
+        58384,
+        "Heavy"
+       ],
+       [
+        58480,
+        "Heavy"
+       ],
+       [
+        58880,
+        "Right"
+       ]
+      ]
+     }
+    },
+    "feedback": null
+   },
+   {
+    "id": "m_a3a580d9d877",
+    "slot": 0,
+    "frame": 6545,
+    "kind": "ko",
+    "severity": 5,
+    "title": "KO \u2014 xugo54 died",
+    "detail": "Inputs in the 5s before the KO: xugo54 19; Clybell 28",
+    "evidence": {
+     "leadin": {
+      "xugo54": [
+       [
+        104544,
+        "Left"
+       ],
+       [
+        104576,
+        "AimDown"
+       ],
+       [
+        104640,
+        "Light"
+       ],
+       [
+        105248,
+        "Jump"
+       ],
+       [
+        105376,
+        "Heavy"
+       ],
+       [
+        105424,
+        "Left"
+       ],
+       [
+        105536,
+        "Heavy"
+       ],
+       [
+        105568,
+        "Right"
+       ],
+       [
+        105680,
+        "Heavy"
+       ],
+       [
+        105792,
+        "Left"
+       ],
+       [
+        105936,
+        "Right"
+       ],
+       [
+        106144,
+        "Jump"
+       ],
+       [
+        106464,
+        "AimDown"
+       ],
+       [
+        106784,
+        "Dodge"
+       ],
+       [
+        107184,
+        "Left"
+       ],
+       [
+        107344,
+        "Jump"
+       ],
+       [
+        107424,
+        "Right"
+       ],
+       [
+        107824,
+        "Jump"
+       ],
+       [
+        108480,
+        "Jump"
+       ]
+      ],
+      "Clybell": [
+       [
+        104176,
+        "Heavy"
+       ],
+       [
+        104448,
+        "Jump"
+       ],
+       [
+        104592,
+        "Jump"
+       ],
+       [
+        104720,
+        "Jump"
+       ],
+       [
+        104768,
+        "Heavy"
+       ],
+       [
+        104864,
+        "Jump"
+       ],
+       [
+        104912,
+        "Heavy"
+       ],
+       [
+        105008,
+        "Jump"
+       ],
+       [
+        105040,
+        "Heavy"
+       ],
+       [
+        105184,
+        "Jump"
+       ],
+       [
+        105728,
+        "AimDown"
+       ],
+       [
+        105824,
+        "Left"
+       ],
+       [
+        105968,
+        "Left"
+       ],
+       [
+        105984,
+        "Jump"
+       ],
+       [
+        106192,
+        "AimDown"
+       ],
+       [
+        106208,
+        "ThrowPickup"
+       ],
+       [
+        106544,
+        "Right"
+       ],
+       [
+        106848,
+        "Dodge"
+       ],
+       [
+        107152,
+        "AimDown"
+       ],
+       [
+        107808,
+        "ThrowPickup"
+       ],
+       [
+        107840,
+        "Left"
+       ],
+       [
+        108128,
+        "Dodge"
+       ],
+       [
+        108160,
+        "ThrowPickup"
+       ],
+       [
+        108272,
+        "ThrowPickup"
+       ],
+       [
+        108608,
+        "Right"
+       ],
+       [
+        108800,
+        "Dodge"
+       ],
+       [
+        108896,
+        "ThrowPickup"
+       ],
+       [
+        108976,
+        "Left"
+       ]
+      ]
+     }
+    },
+    "feedback": null
+   },
+   {
+    "id": "m_c2e9f0faaedd",
+    "slot": 1,
+    "frame": 8508,
+    "kind": "ko",
+    "severity": 5,
+    "title": "KO \u2014 Clybell died",
+    "detail": "Inputs in the 5s before the KO: xugo54 29; Clybell 19",
+    "evidence": {
+     "leadin": {
+      "xugo54": [
+       [
+        136848,
+        "Right"
+       ],
+       [
+        136976,
+        "Dodge"
+       ],
+       [
+        137312,
+        "AimUp"
+       ],
+       [
+        137312,
+        "UpJump"
+       ],
+       [
+        137344,
+        "ThrowPickup"
+       ],
+       [
+        137824,
+        "Right"
+       ],
+       [
+        137936,
+        "ThrowPickup"
+       ],
+       [
+        138000,
+        "Jump"
+       ],
+       [
+        138272,
+        "Jump"
+       ],
+       [
+        138336,
+        "AimDown"
+       ],
+       [
+        138352,
+        "ThrowPickup"
+       ],
+       [
+        138864,
+        "AimDown"
+       ],
+       [
+        138896,
+        "Left"
+       ],
+       [
+        139264,
+        "ThrowPickup"
+       ],
+       [
+        139376,
+        "Right"
+       ],
+       [
+        139456,
+        "AimUp"
+       ],
+       [
+        139456,
+        "UpJump"
+       ],
+       [
+        139552,
+        "Left"
+       ],
+       [
+        139728,
+        "Right"
+       ],
+       [
+        139856,
+        "Dodge"
+       ],
+       [
+        139936,
+        "Jump"
+       ],
+       [
+        140032,
+        "Left"
+       ],
+       [
+        140160,
+        "Dodge"
+       ],
+       [
+        140432,
+        "AimDown"
+       ],
+       [
+        140560,
+        "Right"
+       ],
+       [
+        140656,
+        "AimUp"
+       ],
+       [
+        140656,
+        "UpJump"
+       ],
+       [
+        140720,
+        "Heavy"
+       ],
+       [
+        141744,
+        "AimDown"
+       ]
+      ],
+      "Clybell": [
+       [
+        136832,
+        "Left"
+       ],
+       [
+        137936,
+        "Jump"
+       ],
+       [
+        138384,
+        "Jump"
+       ],
+       [
+        138880,
+        "Jump"
+       ],
+       [
+        138944,
+        "Heavy"
+       ],
+       [
+        139104,
+        "Heavy"
+       ],
+       [
+        139248,
+        "Heavy"
+       ],
+       [
+        139808,
+        "Right"
+       ],
+       [
+        139968,
+        "Left"
+       ],
+       [
+        140080,
+        "Right"
+       ],
+       [
+        140192,
+        "Left"
+       ],
+       [
+        140336,
+        "Dodge"
+       ],
+       [
+        140624,
+        "Light"
+       ],
+       [
+        140752,
+        "Left"
+       ],
+       [
+        140768,
+        "Light"
+       ],
+       [
+        140896,
+        "Light"
+       ],
+       [
+        141232,
+        "AimDown"
+       ],
+       [
+        141248,
+        "Right"
+       ],
+       [
+        141376,
+        "Left"
+       ]
+      ]
+     }
+    },
+    "feedback": null
+   },
+   {
+    "id": "m_b7099deff2e8",
+    "slot": 0,
+    "frame": 9849,
+    "kind": "ko",
+    "severity": 5,
+    "title": "KO \u2014 xugo54 died",
+    "detail": "Inputs in the 5s before the KO: xugo54 16; Clybell 28",
+    "evidence": {
+     "leadin": {
+      "xugo54": [
+       [
+        159312,
+        "AimUp"
+       ],
+       [
+        159312,
+        "UpJump"
+       ],
+       [
+        159440,
+        "Heavy"
+       ],
+       [
+        159440,
+        "Dodge"
+       ],
+       [
+        160624,
+        "Jump"
+       ],
+       [
+        160880,
+        "Heavy"
+       ],
+       [
+        161040,
+        "Heavy"
+       ],
+       [
+        162000,
+        "Right"
+       ],
+       [
+        162144,
+        "AimUp"
+       ],
+       [
+        162144,
+        "UpJump"
+       ],
+       [
+        162192,
+        "Jump"
+       ],
+       [
+        162672,
+        "Left"
+       ],
+       [
+        162832,
+        "Jump"
+       ],
+       [
+        163024,
+        "Dodge"
+       ],
+       [
+        163376,
+        "ThrowPickup"
+       ],
+       [
+        163776,
+        "Left"
+       ]
+      ],
+      "Clybell": [
+       [
+        159264,
+        "AimDown"
+       ],
+       [
+        159296,
+        "Dodge"
+       ],
+       [
+        159328,
+        "Heavy"
+       ],
+       [
+        159952,
+        "Left"
+       ],
+       [
+        160304,
+        "Right"
+       ],
+       [
+        160432,
+        "Jump"
+       ],
+       [
+        160448,
+        "Left"
+       ],
+       [
+        160624,
+        "Left"
+       ],
+       [
+        160640,
+        "AimDown"
+       ],
+       [
+        160928,
+        "Right"
+       ],
+       [
+        161024,
+        "Jump"
+       ],
+       [
+        161088,
+        "Left"
+       ],
+       [
+        161104,
+        "Heavy"
+       ],
+       [
+        161264,
+        "Heavy"
+       ],
+       [
+        161280,
+        "Left"
+       ],
+       [
+        161360,
+        "Heavy"
+       ],
+       [
+        161968,
+        "Jump"
+       ],
+       [
+        162160,
+        "AimDown"
+       ],
+       [
+        162176,
+        "ThrowPickup"
+       ],
+       [
+        162336,
+        "Left"
+       ],
+       [
+        162544,
+        "AimUp"
+       ],
+       [
+        162544,
+        "UpJump"
+       ],
+       [
+        162768,
+        "Dodge"
+       ],
+       [
+        163056,
+        "AimDown"
+       ],
+       [
+        163312,
+        "Dodge"
+       ],
+       [
+        163808,
+        "Right"
+       ],
+       [
+        163840,
+        "ThrowPickup"
+       ],
+       [
+        163920,
+        "Dodge"
+       ]
+      ]
+     }
+    },
+    "feedback": null
+   },
+   {
+    "id": "m_777cc23a7ddc",
+    "slot": 0,
+    "frame": 449,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 13f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_965a5b27e084",
+    "slot": 1,
+    "frame": 579,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_7034e77a735f",
+    "slot": 1,
+    "frame": 607,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_e95e0cfca95a",
+    "slot": 0,
+    "frame": 634,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_05bd559565e7",
+    "slot": 1,
+    "frame": 700,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_03385090cd5c",
+    "slot": 1,
+    "frame": 808,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_67e48bae2f6e",
+    "slot": 1,
+    "frame": 840,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_b584a4693e9d",
+    "slot": 1,
+    "frame": 857,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_c57652458439",
+    "slot": 1,
+    "frame": 1035,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_d6418b7a43bb",
+    "slot": 1,
+    "frame": 1339,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_71c32ef26cea",
+    "slot": 1,
+    "frame": 1369,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_695e62f79442",
+    "slot": 0,
+    "frame": 1554,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 10f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_5b1ba8a968bb",
+    "slot": 0,
+    "frame": 1564,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 10f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_cdd534f922bd",
+    "slot": 1,
+    "frame": 1788,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_95c2145a63d2",
+    "slot": 1,
+    "frame": 1796,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_23e886f2a547",
+    "slot": 1,
+    "frame": 1863,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_f836ff10100b",
+    "slot": 1,
+    "frame": 1871,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_6e6a3e300edd",
+    "slot": 1,
+    "frame": 1945,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_349cafecaa60",
+    "slot": 1,
+    "frame": 2172,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_ced9cb22148d",
+    "slot": 1,
+    "frame": 2179,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4ece6b93cdaf",
+    "slot": 1,
+    "frame": 2241,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_2cecea643795",
+    "slot": 0,
+    "frame": 2275,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_cec1b9038935",
+    "slot": 1,
+    "frame": 2465,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_a86c965f2e7c",
+    "slot": 1,
+    "frame": 2634,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4543e07d2933",
+    "slot": 1,
+    "frame": 2642,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4fb1d26014d1",
+    "slot": 1,
+    "frame": 2649,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_84e69048a6a4",
+    "slot": 1,
+    "frame": 2665,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_f2f9fa9cf8ec",
+    "slot": 1,
+    "frame": 2704,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_396496692aa5",
+    "slot": 1,
+    "frame": 2764,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_7ca818665171",
+    "slot": 1,
+    "frame": 2868,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 5f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_1e0ab4f7bd1e",
+    "slot": 1,
+    "frame": 2999,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_12e48954fc9c",
+    "slot": 1,
+    "frame": 3015,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_8cdf3ea3e595",
+    "slot": 1,
+    "frame": 3114,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_627204063a40",
+    "slot": 1,
+    "frame": 3161,
+    "kind": "freeze",
+    "severity": 1,
+    "title": "Idle 3.3s",
+    "detail": "No input at all for 3.3 seconds.",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_997c75257300",
+    "slot": 0,
+    "frame": 3216,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 11f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_ab42cfd47830",
+    "slot": 0,
+    "frame": 3227,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 11f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_539505419a9a",
+    "slot": 0,
+    "frame": 3236,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 10f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_a989c261d8ad",
+    "slot": 0,
+    "frame": 3291,
+    "kind": "freeze",
+    "severity": 1,
+    "title": "Idle 2.6s",
+    "detail": "No input at all for 2.6 seconds.",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_5ecc2c2d3618",
+    "slot": 1,
+    "frame": 3496,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_7636ee2d52c8",
+    "slot": 1,
+    "frame": 3503,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_e75881c973ff",
+    "slot": 1,
+    "frame": 3509,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_57619c0758ca",
+    "slot": 0,
+    "frame": 3533,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 9f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_10ed456d75bd",
+    "slot": 0,
+    "frame": 3540,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 8f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_b0124f4bd3e8",
+    "slot": 0,
+    "frame": 3550,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 10f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_f2babde5346d",
+    "slot": 0,
+    "frame": 3559,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 9f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_f314ca385e77",
+    "slot": 0,
+    "frame": 3619,
+    "kind": "freeze",
+    "severity": 1,
+    "title": "Idle 3.7s",
+    "detail": "No input at all for 3.7 seconds.",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4d4a8ec4c378",
+    "slot": 1,
+    "frame": 3851,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_cad9f0d2264a",
+    "slot": 1,
+    "frame": 3899,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_2fd38a562788",
+    "slot": 1,
+    "frame": 3904,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_61bcde168402",
+    "slot": 1,
+    "frame": 4090,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_8a51b7dc08a9",
+    "slot": 1,
+    "frame": 4294,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_e05a0b147aeb",
+    "slot": 1,
+    "frame": 4408,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_19e3a026706e",
+    "slot": 1,
+    "frame": 4527,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4eb7ced95b6a",
+    "slot": 0,
+    "frame": 4553,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_0dbd866d8fe9",
+    "slot": 0,
+    "frame": 4619,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_b96ed054f6eb",
+    "slot": 1,
+    "frame": 4807,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_dde760457624",
+    "slot": 1,
+    "frame": 4904,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_2b231a5ed533",
+    "slot": 1,
+    "frame": 4909,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_5435a98e1192",
+    "slot": 1,
+    "frame": 4942,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_6e7305b492ac",
+    "slot": 1,
+    "frame": 5227,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_8278b26d4459",
+    "slot": 0,
+    "frame": 5441,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_19e7048af23e",
+    "slot": 1,
+    "frame": 5636,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_d4ef2f783f99",
+    "slot": 0,
+    "frame": 5705,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_2658b8fadef5",
+    "slot": 1,
+    "frame": 5735,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_bed48b80d439",
+    "slot": 1,
+    "frame": 5743,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_caf8f453ef04",
+    "slot": 1,
+    "frame": 5792,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_16c466fefd47",
+    "slot": 1,
+    "frame": 5798,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_615cfc5bb00a",
+    "slot": 1,
+    "frame": 5806,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_682a2981f1a9",
+    "slot": 0,
+    "frame": 5836,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 9f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_c8d1f193f385",
+    "slot": 0,
+    "frame": 5845,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 10f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4c4e1bf923c0",
+    "slot": 0,
+    "frame": 5853,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 8f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_d16632237068",
+    "slot": 1,
+    "frame": 5970,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_32f2292cd356",
+    "slot": 1,
+    "frame": 6064,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_ab594eb00fce",
+    "slot": 1,
+    "frame": 6251,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_cffbe8bb315a",
+    "slot": 1,
+    "frame": 6302,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_ec00362a3b5c",
+    "slot": 1,
+    "frame": 7014,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_eb5530360e4f",
+    "slot": 1,
+    "frame": 7046,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_261fda7370c0",
+    "slot": 1,
+    "frame": 7096,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_fcca34de298d",
+    "slot": 1,
+    "frame": 7127,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_6df6c3a7e7c7",
+    "slot": 1,
+    "frame": 7151,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_b271e5f50367",
+    "slot": 1,
+    "frame": 7165,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4f2353e08928",
+    "slot": 0,
+    "frame": 7188,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_e35e501b786a",
+    "slot": 1,
+    "frame": 7322,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_1db2c8d1e31f",
+    "slot": 1,
+    "frame": 7330,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_11202621c7a1",
+    "slot": 1,
+    "frame": 7627,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_2a8a871b5757",
+    "slot": 1,
+    "frame": 7900,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_b69d2f319b3d",
+    "slot": 0,
+    "frame": 8028,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_bf11c9e8cd66",
+    "slot": 0,
+    "frame": 8036,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 9f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_cc4408209ded",
+    "slot": 1,
+    "frame": 8085,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_7da3f2c88205",
+    "slot": 1,
+    "frame": 8183,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_d08d83dea449",
+    "slot": 1,
+    "frame": 8454,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_85ea4352cb80",
+    "slot": 1,
+    "frame": 8483,
+    "kind": "freeze",
+    "severity": 1,
+    "title": "Idle 2.3s",
+    "detail": "No input at all for 2.3 seconds.",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_1463c82f235d",
+    "slot": 0,
+    "frame": 8563,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 13f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_472489a346e0",
+    "slot": 0,
+    "frame": 8573,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 10f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_bc2b02433bc1",
+    "slot": 0,
+    "frame": 8583,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 11f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4fc423dbf9d4",
+    "slot": 0,
+    "frame": 8608,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 11f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_6e7eecd9d4b3",
+    "slot": 0,
+    "frame": 8621,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_34e627a6710b",
+    "slot": 1,
+    "frame": 8621,
+    "kind": "freeze",
+    "severity": 1,
+    "title": "Idle 2.0s",
+    "detail": "No input at all for 2.0 seconds.",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_194d8d2890f1",
+    "slot": 0,
+    "frame": 8632,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4f9aec063507",
+    "slot": 0,
+    "frame": 8645,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_7534a0d38a00",
+    "slot": 0,
+    "frame": 8655,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 11f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_ea4ca30a9f30",
+    "slot": 0,
+    "frame": 8668,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 12f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_b927085ac21f",
+    "slot": 0,
+    "frame": 8678,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Dodge input",
+    "detail": "dodge re-pressed 11f into a 14f dodge - input did nothing",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_267c4e7ab5b1",
+    "slot": 1,
+    "frame": 8894,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_2c8b86545226",
+    "slot": 1,
+    "frame": 8902,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_64decce4d241",
+    "slot": 1,
+    "frame": 8910,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_bd3cce4f73e1",
+    "slot": 1,
+    "frame": 9006,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_041ddd8d862e",
+    "slot": 1,
+    "frame": 9076,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_12f9203a6a16",
+    "slot": 1,
+    "frame": 9084,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_f2a35f2830ee",
+    "slot": 1,
+    "frame": 9192,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Light input",
+    "detail": "Light re-pressed 7f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_322cecd960f6",
+    "slot": 1,
+    "frame": 9489,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 8f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   },
+   {
+    "id": "m_4afd7a7f3ceb",
+    "slot": 1,
+    "frame": 9682,
+    "kind": "wasted_input",
+    "severity": 1,
+    "title": "Wasted Heavy input",
+    "detail": "Heavy re-pressed 6f in - previous attack still resolving",
+    "evidence": null,
+    "feedback": null
+   }
+  ],
+  "metrics": null
+ },
+ "provenance": {
+  "parser": "anchor-v1",
+  "frame_data_patch": "8.01",
+  "confidence": {
+   "players": "high",
+   "kos": "high"
+  },
+  "warnings": []
+ }
+}

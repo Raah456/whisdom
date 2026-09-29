@@ -1,0 +1,107 @@
+{
+ "Template": {
+  "duration": 1,
+  "invuln_start": 1,
+  "cooldown": 1,
+  "direction": "Neutral",
+  "air": "Both"
+ },
+ "StandardSide": {
+  "duration": 14,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "Side",
+  "air": "Both"
+ },
+ "StandardSpot": {
+  "duration": 18,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "Neutral",
+  "air": "Ground"
+ },
+ "StandardSideUp": {
+  "duration": 14,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "SideUp",
+  "air": "Both"
+ },
+ "StandardSideDown": {
+  "duration": 14,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "SideDown",
+  "air": "Both"
+ },
+ "StandardDown": {
+  "duration": 14,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "Down",
+  "air": "Both"
+ },
+ "StandardUp": {
+  "duration": 14,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "Up",
+  "air": "Both"
+ },
+ "AerialSpot": {
+  "duration": 22,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "Neutral",
+  "air": "Air"
+ },
+ "FastSide": {
+  "duration": 19,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "Side",
+  "air": "Both"
+ },
+ "FastSideUp": {
+  "duration": 19,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "SideUp",
+  "air": "Both"
+ },
+ "FastSideDown": {
+  "duration": 19,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "SideDown",
+  "air": "Both"
+ },
+ "FastDown": {
+  "duration": 19,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "Down",
+  "air": "Both"
+ },
+ "FastUp": {
+  "duration": 19,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "Up",
+  "air": "Both"
+ },
+ "FastSpot": {
+  "duration": 18,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "Neutral",
+  "air": "Ground"
+ },
+ "FastAirSpot": {
+  "duration": 22,
+  "invuln_start": 2,
+  "cooldown": 163,
+  "direction": "Neutral",
+  "air": "Air"
+ }
+}

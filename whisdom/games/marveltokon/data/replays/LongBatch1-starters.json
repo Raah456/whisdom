@@ -1,0 +1,3500 @@
+[
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 12400,
+  "names": [
+   "2M"
+  ],
+  "by": "startup",
+  "why": "startup 10; the damage figure 12,400 matches nothing in the wiki's table",
+  "ambiguous": false,
+  "segment": 0,
+  "side": "L",
+  "t": 282.6,
+  "combo_damage": 16550,
+  "hits": 5,
+  "receipt": "at 282.6s the panel held Attack Startup 10 and the first hit did 12,400; startup 10; the damage figure 12,400 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 0,
+  "side": "L",
+  "t": 285.7,
+  "combo_damage": 17150,
+  "hits": 9,
+  "receipt": "at 285.7s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 0,
+  "side": "L",
+  "t": 290.5,
+  "combo_damage": 18800,
+  "hits": 11,
+  "receipt": "at 290.5s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 0,
+  "side": "L",
+  "t": 296.7,
+  "combo_damage": 16550,
+  "hits": 7,
+  "receipt": "at 296.7s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 0,
+  "side": "L",
+  "t": 300.2,
+  "combo_damage": 12400,
+  "hits": 3,
+  "receipt": "at 300.2s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 2,
+  "damage": 2000,
+  "names": [],
+  "by": null,
+  "why": "startup 2 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 1,
+  "side": "L",
+  "t": 1378.0,
+  "combo_damage": 3000,
+  "hits": 2,
+  "receipt": "at 1378.0s the panel held Attack Startup 2 and the first hit did 2,000; startup 2 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 10,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 1,
+  "side": "L",
+  "t": 1384.3,
+  "combo_damage": 19800,
+  "hits": 5,
+  "receipt": "at 1384.3s the panel held Attack Startup 10 and the first hit did 8,000; startup 10 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 1,
+  "side": "L",
+  "t": 1386.7,
+  "combo_damage": 4000,
+  "hits": 1,
+  "receipt": "at 1386.7s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 1,
+  "side": "R",
+  "t": 1387.3,
+  "combo_damage": 15800,
+  "hits": 4,
+  "receipt": "at 1387.3s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 16,
+  "damage": 6000,
+  "names": [
+   "j.5H",
+   "j.6H",
+   "j.2H"
+  ],
+  "by": "damage",
+  "why": "6,000 damage on an unscaled hit; startup 16 is not in Doctor Doom's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": true,
+  "segment": 1,
+  "side": "L",
+  "t": 1392.0,
+  "combo_damage": 17000,
+  "hits": 3,
+  "receipt": "at 1392.0s the panel held Attack Startup 16 and the first hit did 6,000; 6,000 damage on an unscaled hit; startup 16 is not in Doctor Doom's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 19,
+  "damage": 2000,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this startup \u2014 too many to call it. Candidates: 623L, j.623L, j.623H, 5MMM",
+  "ambiguous": false,
+  "candidates": [
+   "623L",
+   "j.623L",
+   "j.623H",
+   "5MMM"
+  ],
+  "segment": 1,
+  "side": "L",
+  "t": 1395.2,
+  "combo_damage": 8000,
+  "hits": 2,
+  "receipt": "at 1395.2s the panel held Attack Startup 19 and the first hit did 2,000; 4 moves share this startup \u2014 too many to call it. Candidates: 623L, j.623L, j.623H, 5MMM"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 1,
+  "side": "R",
+  "t": 1397.1,
+  "combo_damage": 23030,
+  "hits": 14,
+  "receipt": "at 1397.1s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 2,
+  "damage": 2000,
+  "names": [],
+  "by": null,
+  "why": "startup 2 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 1,
+  "side": "L",
+  "t": 1405.8,
+  "combo_damage": 2000,
+  "hits": 1,
+  "receipt": "at 1405.8s the panel held Attack Startup 2 and the first hit did 2,000; startup 2 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 20,
+  "damage": 2000,
+  "names": [],
+  "by": null,
+  "why": "startup 20 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 2,
+  "side": "L",
+  "t": 1423.1,
+  "combo_damage": 11000,
+  "hits": 2,
+  "receipt": "at 1423.1s the panel held Attack Startup 20 and the first hit did 2,000; startup 20 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 2,
+  "side": "R",
+  "t": 1427.2,
+  "combo_damage": 22100,
+  "hits": 6,
+  "receipt": "at 1427.2s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 7,
+  "damage": 4000,
+  "names": [
+   "2L"
+  ],
+  "by": "startup",
+  "why": "startup 7; the damage figure 4,000 matches a different move (5L, j.L) in the wiki's table",
+  "ambiguous": false,
+  "segment": 2,
+  "side": "L",
+  "t": 1434.0,
+  "combo_damage": 24100,
+  "hits": 8,
+  "receipt": "at 1434.0s the panel held Attack Startup 7 and the first hit did 4,000; startup 7; the damage figure 4,000 matches a different move (5L, j.L) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 2,
+  "side": "R",
+  "t": 1438.0,
+  "combo_damage": 22205,
+  "hits": 7,
+  "receipt": "at 1438.0s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 26,
+  "damage": 16000,
+  "names": [
+   "M+H"
+  ],
+  "by": "damage",
+  "why": "16,000 damage on an unscaled hit; startup 26 is not in Magik's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": false,
+  "segment": 2,
+  "side": "R",
+  "t": 1444.4,
+  "combo_damage": 16000,
+  "hits": 1,
+  "receipt": "at 1444.4s the panel held Attack Startup 26 and the first hit did 16,000; 16,000 damage on an unscaled hit; startup 26 is not in Magik's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Magik",
+  "startup": 8,
+  "damage": 2000,
+  "names": [
+   "623L",
+   "j.623L"
+  ],
+  "by": "startup",
+  "why": "startup 8; the damage figure 2,000 matches nothing in the wiki's table",
+  "ambiguous": true,
+  "segment": 2,
+  "side": "R",
+  "t": 1456.4,
+  "combo_damage": 2000,
+  "hits": 1,
+  "receipt": "at 1456.4s the panel held Attack Startup 8 and the first hit did 2,000; startup 8; the damage figure 2,000 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 2,
+  "damage": 2000,
+  "names": [],
+  "by": null,
+  "why": "startup 2 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 3,
+  "side": "L",
+  "t": 1472.5,
+  "combo_damage": 2000,
+  "hits": 1,
+  "receipt": "at 1472.5s the panel held Attack Startup 2 and the first hit did 2,000; startup 2 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ },
+ {
+  "character": "Magik",
+  "startup": 15,
+  "damage": 22000,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this startup \u2014 too many to call it. Candidates: 5H, 236H, 6A, 2A",
+  "ambiguous": false,
+  "candidates": [
+   "5H",
+   "236H",
+   "6A",
+   "2A"
+  ],
+  "segment": 3,
+  "side": "R",
+  "t": 1473.1,
+  "combo_damage": 23155,
+  "hits": 3,
+  "receipt": "at 1473.1s the panel held Attack Startup 15 and the first hit did 22,000; 4 moves share this startup \u2014 too many to call it. Candidates: 5H, 236H, 6A, 2A"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 12,
+  "damage": 9000,
+  "names": [
+   "2H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 12 and 9,000 damage (9.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 3,
+  "side": "L",
+  "t": 1475.6,
+  "combo_damage": 23200,
+  "hits": 8,
+  "receipt": "at 1475.6s the panel held Attack Startup 12 and the first hit did 9,000; startup 12 and 9,000 damage (9.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 3,
+  "side": "R",
+  "t": 1484.9,
+  "combo_damage": 21000,
+  "hits": 7,
+  "receipt": "at 1484.9s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 20,
+  "damage": 5000,
+  "names": [
+   "214M"
+  ],
+  "by": "startup",
+  "why": "startup 20; the damage figure 5,000 matches a different move (5LL) in the wiki's table",
+  "ambiguous": false,
+  "segment": 3,
+  "side": "R",
+  "t": 1489.5,
+  "combo_damage": 11000,
+  "hits": 3,
+  "receipt": "at 1489.5s the panel held Attack Startup 20 and the first hit did 5,000; startup 20; the damage figure 5,000 matches a different move (5LL) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 3,
+  "side": "R",
+  "t": 1492.7,
+  "combo_damage": 22000,
+  "hits": 6,
+  "receipt": "at 1492.7s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 20,
+  "damage": 8000,
+  "names": [],
+  "by": null,
+  "why": "9 moves share this damage \u2014 too many to call it. Candidates: 5LL, 5LLL, 5M, 5MM, 5HH, 5U",
+  "ambiguous": false,
+  "candidates": [
+   "5LL",
+   "5LLL",
+   "5M",
+   "5MM",
+   "5HH",
+   "5U",
+   "j.U",
+   "6A",
+   "j.A"
+  ],
+  "segment": 3,
+  "side": "L",
+  "t": 1498.3,
+  "combo_damage": 8000,
+  "hits": 1,
+  "receipt": "at 1498.3s the panel held Attack Startup 20 and the first hit did 8,000; 9 moves share this damage \u2014 too many to call it. Candidates: 5LL, 5LLL, 5M, 5MM, 5HH, 5U"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 41,
+  "damage": 1000,
+  "names": [],
+  "by": null,
+  "why": "startup 41 and 1,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 3,
+  "side": "L",
+  "t": 1501.3,
+  "combo_damage": 10000,
+  "hits": 2,
+  "receipt": "at 1501.3s the panel held Attack Startup 41 and the first hit did 1,000; startup 41 and 1,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 22,
+  "damage": 2000,
+  "names": [
+   "214M"
+  ],
+  "by": "startup",
+  "why": "startup 22; the damage figure 2,000 matches nothing in the wiki's table",
+  "ambiguous": false,
+  "segment": 3,
+  "side": "L",
+  "t": 1505.6,
+  "combo_damage": 8000,
+  "hits": 2,
+  "receipt": "at 1505.6s the panel held Attack Startup 22 and the first hit did 2,000; startup 22; the damage figure 2,000 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 20,
+  "damage": 1000,
+  "names": [],
+  "by": null,
+  "why": "startup 20 and 1,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 3,
+  "side": "L",
+  "t": 1508.3,
+  "combo_damage": 14500,
+  "hits": 2,
+  "receipt": "at 1508.3s the panel held Attack Startup 20 and the first hit did 1,000; startup 20 and 1,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 3,
+  "side": "R",
+  "t": 1511.0,
+  "combo_damage": 4000,
+  "hits": 1,
+  "receipt": "at 1511.0s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 12,
+  "damage": 9000,
+  "names": [
+   "2H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 12 and 9,000 damage (9.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 3,
+  "side": "L",
+  "t": 1511.6,
+  "combo_damage": 23200,
+  "hits": 8,
+  "receipt": "at 1511.6s the panel held Attack Startup 12 and the first hit did 9,000; startup 12 and 9,000 damage (9.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 26,
+  "damage": 6000,
+  "names": [
+   "j.5H",
+   "j.6H",
+   "j.2H"
+  ],
+  "by": "damage",
+  "why": "6,000 damage on an unscaled hit; startup 26 is not in Doctor Doom's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": true,
+  "segment": 4,
+  "side": "L",
+  "t": 1542.7,
+  "combo_damage": 6000,
+  "hits": 1,
+  "receipt": "at 1542.7s the panel held Attack Startup 26 and the first hit did 6,000; 6,000 damage on an unscaled hit; startup 26 is not in Doctor Doom's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 2,
+  "damage": 3000,
+  "names": [
+   "2L"
+  ],
+  "by": "damage",
+  "why": "3,000 damage on an unscaled hit; startup 2 is not in Doctor Doom's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": false,
+  "segment": 4,
+  "side": "L",
+  "t": 1550.4,
+  "combo_damage": 3000,
+  "hits": 1,
+  "receipt": "at 1550.4s the panel held Attack Startup 2 and the first hit did 3,000; 3,000 damage on an unscaled hit; startup 2 is not in Doctor Doom's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 18,
+  "damage": 6000,
+  "names": [],
+  "by": null,
+  "why": "6 moves share this startup \u2014 too many to call it. Candidates: 236L, 236M, j.236L, j.236M, j.236H, 5HHH",
+  "ambiguous": false,
+  "candidates": [
+   "236L",
+   "236M",
+   "j.236L",
+   "j.236M",
+   "j.236H",
+   "5HHH"
+  ],
+  "segment": 4,
+  "side": "L",
+  "t": 1552.1,
+  "combo_damage": 6000,
+  "hits": 1,
+  "receipt": "at 1552.1s the panel held Attack Startup 18 and the first hit did 6,000; 6 moves share this startup \u2014 too many to call it. Candidates: 236L, 236M, j.236L, j.236M, j.236H, 5HHH"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 10,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 4,
+  "side": "L",
+  "t": 1553.4,
+  "combo_damage": 19800,
+  "hits": 5,
+  "receipt": "at 1553.4s the panel held Attack Startup 10 and the first hit did 8,000; startup 10 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 5000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup",
+  "why": "startup 6; the damage figure 5,000 matches a different move (5LL) in the wiki's table",
+  "ambiguous": true,
+  "segment": 4,
+  "side": "R",
+  "t": 1555.7,
+  "combo_damage": 31500,
+  "hits": 8,
+  "receipt": "at 1555.7s the panel held Attack Startup 6 and the first hit did 5,000; startup 6; the damage figure 5,000 matches a different move (5LL) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 5000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup",
+  "why": "startup 6; the damage figure 5,000 matches a different move (5LL) in the wiki's table",
+  "ambiguous": true,
+  "segment": 4,
+  "side": "R",
+  "t": 1560.2,
+  "combo_damage": 20300,
+  "hits": 8,
+  "receipt": "at 1560.2s the panel held Attack Startup 6 and the first hit did 5,000; startup 6; the damage figure 5,000 matches a different move (5LL) in the wiki's table"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 26,
+  "damage": 6000,
+  "names": [
+   "j.5H",
+   "j.6H",
+   "j.2H"
+  ],
+  "by": "damage",
+  "why": "6,000 damage on an unscaled hit; startup 26 is not in Doctor Doom's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": true,
+  "segment": 4,
+  "side": "L",
+  "t": 1568.4,
+  "combo_damage": 17000,
+  "hits": 3,
+  "receipt": "at 1568.4s the panel held Attack Startup 26 and the first hit did 6,000; 6,000 damage on an unscaled hit; startup 26 is not in Doctor Doom's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 20,
+  "damage": 2000,
+  "names": [],
+  "by": null,
+  "why": "startup 20 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 4,
+  "side": "L",
+  "t": 1571.6,
+  "combo_damage": 8000,
+  "hits": 2,
+  "receipt": "at 1571.6s the panel held Attack Startup 20 and the first hit did 2,000; startup 20 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ },
+ {
+  "character": "Magik",
+  "startup": 13,
+  "damage": 6000,
+  "names": [
+   "5LL",
+   "2H"
+  ],
+  "by": "startup",
+  "why": "startup 13; the damage figure 6,000 matches a different move (j.5H, j.6H, j.2H) in the wiki's table",
+  "ambiguous": true,
+  "segment": 4,
+  "side": "R",
+  "t": 1574.4,
+  "combo_damage": 34000,
+  "hits": 4,
+  "receipt": "at 1574.4s the panel held Attack Startup 13 and the first hit did 6,000; startup 13; the damage figure 6,000 matches a different move (j.5H, j.6H, j.2H) in the wiki's table"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 26,
+  "damage": 6000,
+  "names": [
+   "j.5H",
+   "j.6H",
+   "j.2H"
+  ],
+  "by": "damage",
+  "why": "6,000 damage on an unscaled hit; startup 26 is not in Doctor Doom's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": true,
+  "segment": 5,
+  "side": "L",
+  "t": 1602.5,
+  "combo_damage": 6000,
+  "hits": 1,
+  "receipt": "at 1602.5s the panel held Attack Startup 26 and the first hit did 6,000; 6,000 damage on an unscaled hit; startup 26 is not in Doctor Doom's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 12,
+  "damage": 11200,
+  "names": [],
+  "by": null,
+  "why": "5 moves share this startup \u2014 too many to call it. Candidates: 2H, j.5H, 5LLL, 5MM, 5HH",
+  "ambiguous": false,
+  "candidates": [
+   "2H",
+   "j.5H",
+   "5LLL",
+   "5MM",
+   "5HH"
+  ],
+  "segment": 5,
+  "side": "L",
+  "t": 1604.6,
+  "combo_damage": 61880,
+  "hits": 13,
+  "receipt": "at 1604.6s the panel held Attack Startup 12 and the first hit did 11,200; 5 moves share this startup \u2014 too many to call it. Candidates: 2H, j.5H, 5LLL, 5MM, 5HH"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 26,
+  "damage": 2000,
+  "names": [],
+  "by": null,
+  "why": "startup 26 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 5,
+  "side": "L",
+  "t": 1626.4,
+  "combo_damage": 3000,
+  "hits": 2,
+  "receipt": "at 1626.4s the panel held Attack Startup 26 and the first hit did 2,000; startup 26 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 6,
+  "side": "R",
+  "t": 1712.5,
+  "combo_damage": 22400,
+  "hits": 8,
+  "receipt": "at 1712.5s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 6,
+  "side": "L",
+  "t": 1716.2,
+  "combo_damage": 4000,
+  "hits": 1,
+  "receipt": "at 1716.2s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 6,
+  "side": "R",
+  "t": 1716.6,
+  "combo_damage": 11800,
+  "hits": 2,
+  "receipt": "at 1716.6s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 2,
+  "damage": 2000,
+  "names": [],
+  "by": null,
+  "why": "startup 2 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 6,
+  "side": "L",
+  "t": 1720.1,
+  "combo_damage": 8000,
+  "hits": 3,
+  "receipt": "at 1720.1s the panel held Attack Startup 2 and the first hit did 2,000; startup 2 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 28,
+  "damage": 1000,
+  "names": [
+   "5U",
+   "j.U"
+  ],
+  "by": "startup",
+  "why": "startup 28; the damage figure 1,000 matches nothing in the wiki's table",
+  "ambiguous": true,
+  "segment": 6,
+  "side": "L",
+  "t": 1724.7,
+  "combo_damage": 12500,
+  "hits": 3,
+  "receipt": "at 1724.7s the panel held Attack Startup 28 and the first hit did 1,000; startup 28; the damage figure 1,000 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 6,
+  "side": "R",
+  "t": 1729.2,
+  "combo_damage": 15800,
+  "hits": 4,
+  "receipt": "at 1729.2s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 10,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 6,
+  "side": "L",
+  "t": 1732.3,
+  "combo_damage": 19800,
+  "hits": 4,
+  "receipt": "at 1732.3s the panel held Attack Startup 10 and the first hit did 8,000; startup 10 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 14,
+  "damage": 10000,
+  "names": [
+   "5H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 14 and 10,000 damage (10.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 6,
+  "side": "L",
+  "t": 1734.9,
+  "combo_damage": 26000,
+  "hits": 6,
+  "receipt": "at 1734.9s the panel held Attack Startup 14 and the first hit did 10,000; startup 14 and 10,000 damage (10.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 6,
+  "side": "R",
+  "t": 1741.6,
+  "combo_damage": 14400,
+  "hits": 2,
+  "receipt": "at 1741.6s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 24,
+  "damage": 10000,
+  "names": [
+   "6A"
+  ],
+  "by": "startup",
+  "why": "startup 24; the damage figure 10,000 matches a different move (5H, 4A) in the wiki's table",
+  "ambiguous": false,
+  "segment": 7,
+  "side": "L",
+  "t": 1759.1,
+  "combo_damage": 10000,
+  "hits": 1,
+  "receipt": "at 1759.1s the panel held Attack Startup 24 and the first hit did 10,000; startup 24; the damage figure 10,000 matches a different move (5H, 4A) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 7,
+  "side": "R",
+  "t": 1763.8,
+  "combo_damage": 16000,
+  "hits": 6,
+  "receipt": "at 1763.8s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 10,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 7,
+  "side": "L",
+  "t": 1766.8,
+  "combo_damage": 29800,
+  "hits": 6,
+  "receipt": "at 1766.8s the panel held Attack Startup 10 and the first hit did 8,000; startup 10 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 34,
+  "damage": 5600,
+  "names": [
+   "j.M"
+  ],
+  "by": "damage",
+  "why": "5,600 damage on an unscaled hit; startup 34 is not in Magik's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": false,
+  "segment": 7,
+  "side": "R",
+  "t": 1774.0,
+  "combo_damage": 9000,
+  "hits": 2,
+  "receipt": "at 1774.0s the panel held Attack Startup 34 and the first hit did 5,600; 5,600 damage on an unscaled hit; startup 34 is not in Magik's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 7,
+  "side": "R",
+  "t": 1775.9,
+  "combo_damage": 22400,
+  "hits": 8,
+  "receipt": "at 1775.9s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 7,
+  "side": "R",
+  "t": 1779.7,
+  "combo_damage": 8000,
+  "hits": 1,
+  "receipt": "at 1779.7s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 14,
+  "damage": 4000,
+  "names": [
+   "5H",
+   "214L"
+  ],
+  "by": "startup",
+  "why": "startup 14; the damage figure 4,000 matches a different move (5L, j.L) in the wiki's table",
+  "ambiguous": true,
+  "segment": 7,
+  "side": "L",
+  "t": 1781.8,
+  "combo_damage": 10000,
+  "hits": 2,
+  "receipt": "at 1781.8s the panel held Attack Startup 14 and the first hit did 4,000; startup 14; the damage figure 4,000 matches a different move (5L, j.L) in the wiki's table"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 21,
+  "damage": 2000,
+  "names": [],
+  "by": null,
+  "why": "startup 21 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 7,
+  "side": "L",
+  "t": 1783.8,
+  "combo_damage": 8000,
+  "hits": 2,
+  "receipt": "at 1783.8s the panel held Attack Startup 21 and the first hit did 2,000; startup 21 and 2,000 damage match nothing in Doctor Doom's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ },
+ {
+  "character": "Magik",
+  "startup": 17,
+  "damage": 2300,
+  "names": [
+   "623M",
+   "j.623M"
+  ],
+  "by": "startup",
+  "why": "startup 17; the damage figure 2,300 matches nothing in the wiki's table",
+  "ambiguous": true,
+  "segment": 7,
+  "side": "R",
+  "t": 1786.6,
+  "combo_damage": 7300,
+  "hits": 3,
+  "receipt": "at 1786.6s the panel held Attack Startup 17 and the first hit did 2,300; startup 17; the damage figure 2,300 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 18,
+  "damage": 2300,
+  "names": [
+   "214H"
+  ],
+  "by": "startup",
+  "why": "startup 18; the damage figure 2,300 matches nothing in the wiki's table",
+  "ambiguous": false,
+  "segment": 7,
+  "side": "R",
+  "t": 1794.8,
+  "combo_damage": 9000,
+  "hits": 2,
+  "receipt": "at 1794.8s the panel held Attack Startup 18 and the first hit did 2,300; startup 18; the damage figure 2,300 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 8,
+  "side": "R",
+  "t": 1818.3,
+  "combo_damage": 21600,
+  "hits": 5,
+  "receipt": "at 1818.3s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 8,
+  "side": "R",
+  "t": 1822.3,
+  "combo_damage": 20800,
+  "hits": 5,
+  "receipt": "at 1822.3s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 14,
+  "damage": 4000,
+  "names": [
+   "5H",
+   "214L"
+  ],
+  "by": "startup",
+  "why": "startup 14; the damage figure 4,000 matches a different move (5L, j.L) in the wiki's table",
+  "ambiguous": true,
+  "segment": 8,
+  "side": "L",
+  "t": 1828.6,
+  "combo_damage": 10000,
+  "hits": 2,
+  "receipt": "at 1828.6s the panel held Attack Startup 14 and the first hit did 4,000; startup 14; the damage figure 4,000 matches a different move (5L, j.L) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 6500,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup",
+  "why": "startup 6; the damage figure 6,500 matches nothing in the wiki's table",
+  "ambiguous": true,
+  "segment": 8,
+  "side": "R",
+  "t": 1830.8,
+  "combo_damage": 25000,
+  "hits": 6,
+  "receipt": "at 1830.8s the panel held Attack Startup 6 and the first hit did 6,500; startup 6; the damage figure 6,500 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 8,
+  "side": "R",
+  "t": 1833.9,
+  "combo_damage": 12400,
+  "hits": 3,
+  "receipt": "at 1833.9s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Doctor Doom",
+  "startup": 10,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 8,
+  "side": "L",
+  "t": 1836.4,
+  "combo_damage": 51300,
+  "hits": 11,
+  "receipt": "at 1836.4s the panel held Attack Startup 10 and the first hit did 8,000; startup 10 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 34,
+  "damage": 5600,
+  "names": [
+   "j.M"
+  ],
+  "by": "damage",
+  "why": "5,600 damage on an unscaled hit; startup 34 is not in Magik's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": false,
+  "segment": 8,
+  "side": "R",
+  "t": 1856.8,
+  "combo_damage": 9000,
+  "hits": 2,
+  "receipt": "at 1856.8s the panel held Attack Startup 34 and the first hit did 5,600; 5,600 damage on an unscaled hit; startup 34 is not in Magik's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Magik",
+  "startup": 22,
+  "damage": 15600,
+  "names": [],
+  "by": null,
+  "why": "startup 22 and 15,600 damage match nothing in Magik's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 9,
+  "side": "L",
+  "t": 1897.8,
+  "combo_damage": 25580,
+  "hits": 10,
+  "receipt": "at 1897.8s the panel held Attack Startup 22 and the first hit did 15,600; startup 22 and 15,600 damage match nothing in Magik's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 9,
+  "side": "L",
+  "t": 1909.0,
+  "combo_damage": 10500,
+  "hits": 3,
+  "receipt": "at 1909.0s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 15,
+  "damage": 10000,
+  "names": [
+   "5H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 15 and 10,000 damage (10.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 9,
+  "side": "L",
+  "t": 1916.3,
+  "combo_damage": 14800,
+  "hits": 2,
+  "receipt": "at 1916.3s the panel held Attack Startup 15 and the first hit did 10,000; startup 15 and 10,000 damage (10.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 20,
+  "damage": 6000,
+  "names": [
+   "214M"
+  ],
+  "by": "startup",
+  "why": "startup 20; the damage figure 6,000 matches a different move (j.5H, j.6H, j.2H) in the wiki's table",
+  "ambiguous": false,
+  "segment": 9,
+  "side": "L",
+  "t": 1922.6,
+  "combo_damage": 22700,
+  "hits": 7,
+  "receipt": "at 1922.6s the panel held Attack Startup 20 and the first hit did 6,000; startup 20; the damage figure 6,000 matches a different move (j.5H, j.6H, j.2H) in the wiki's table"
+ },
+ {
+  "character": "Captain America",
+  "startup": 23,
+  "damage": 4000,
+  "names": [
+   "22M"
+  ],
+  "by": "startup",
+  "why": "startup 23; the damage figure 4,000 matches a different move (5L, j.L) in the wiki's table",
+  "ambiguous": false,
+  "segment": 10,
+  "side": "R",
+  "t": 1943.3,
+  "combo_damage": 26000,
+  "hits": 5,
+  "receipt": "at 1943.3s the panel held Attack Startup 23 and the first hit did 4,000; startup 23; the damage figure 4,000 matches a different move (5L, j.L) in the wiki's table"
+ },
+ {
+  "character": "Captain America",
+  "startup": 11,
+  "damage": 5500,
+  "names": [
+   "22H"
+  ],
+  "by": "startup",
+  "why": "startup 11; the damage figure 5,500 matches a different move (j.M) in the wiki's table",
+  "ambiguous": false,
+  "segment": 10,
+  "side": "R",
+  "t": 1947.5,
+  "combo_damage": 17900,
+  "hits": 5,
+  "receipt": "at 1947.5s the panel held Attack Startup 11 and the first hit did 5,500; startup 11; the damage figure 5,500 matches a different move (j.M) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 10,
+  "side": "L",
+  "t": 1950.8,
+  "combo_damage": 4000,
+  "hits": 1,
+  "receipt": "at 1950.8s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 10,
+  "side": "L",
+  "t": 1953.0,
+  "combo_damage": 25550,
+  "hits": 13,
+  "receipt": "at 1953.0s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Captain America",
+  "startup": 9,
+  "damage": 5500,
+  "names": [
+   "j.M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 5,500 damage (5.5% of health) both point here",
+  "ambiguous": false,
+  "segment": 10,
+  "side": "R",
+  "t": 1960.4,
+  "combo_damage": 5500,
+  "hits": 1,
+  "receipt": "at 1960.4s the panel held Attack Startup 9 and the first hit did 5,500; startup 9 and 5,500 damage (5.5% of health) both point here"
+ },
+ {
+  "character": "Captain America",
+  "startup": 8,
+  "damage": 8000,
+  "names": [
+   "5LL",
+   "5M",
+   "s.j.U"
+  ],
+  "by": "startup and damage",
+  "why": "startup 8 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 10,
+  "side": "R",
+  "t": 1963.6,
+  "combo_damage": 26490,
+  "hits": 8,
+  "receipt": "at 1963.6s the panel held Attack Startup 8 and the first hit did 8,000; startup 8 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 20,
+  "damage": 6000,
+  "names": [
+   "214M"
+  ],
+  "by": "startup",
+  "why": "startup 20; the damage figure 6,000 matches a different move (j.5H, j.6H, j.2H) in the wiki's table",
+  "ambiguous": false,
+  "segment": 10,
+  "side": "L",
+  "t": 1969.8,
+  "combo_damage": 28300,
+  "hits": 14,
+  "receipt": "at 1969.8s the panel held Attack Startup 20 and the first hit did 6,000; startup 20; the damage figure 6,000 matches a different move (j.5H, j.6H, j.2H) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 10,
+  "side": "L",
+  "t": 1981.9,
+  "combo_damage": 19800,
+  "hits": 4,
+  "receipt": "at 1981.9s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 11,
+  "side": "L",
+  "t": 2002.5,
+  "combo_damage": 14400,
+  "hits": 2,
+  "receipt": "at 2002.5s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Captain America",
+  "startup": 12,
+  "damage": 10000,
+  "names": [
+   "5H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 12 and 10,000 damage (10.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 11,
+  "side": "R",
+  "t": 2005.2,
+  "combo_damage": 10000,
+  "hits": 1,
+  "receipt": "at 2005.2s the panel held Attack Startup 12 and the first hit did 10,000; startup 12 and 10,000 damage (10.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 26,
+  "damage": 6000,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this damage \u2014 too many to call it. Candidates: j.5H, j.6H, j.2H, 6A",
+  "ambiguous": false,
+  "candidates": [
+   "j.5H",
+   "j.6H",
+   "j.2H",
+   "6A"
+  ],
+  "segment": 11,
+  "side": "L",
+  "t": 2006.6,
+  "combo_damage": 17000,
+  "hits": 3,
+  "receipt": "at 2006.6s the panel held Attack Startup 26 and the first hit did 6,000; 4 moves share this damage \u2014 too many to call it. Candidates: j.5H, j.6H, j.2H, 6A"
+ },
+ {
+  "character": "Captain America",
+  "startup": 26,
+  "damage": 3500,
+  "names": [
+   "214H",
+   "5L+A"
+  ],
+  "by": "startup",
+  "why": "startup 26; the damage figure 3,500 matches nothing in the wiki's table",
+  "ambiguous": true,
+  "segment": 11,
+  "side": "R",
+  "t": 2012.9,
+  "combo_damage": 30090,
+  "hits": 6,
+  "receipt": "at 2012.9s the panel held Attack Startup 26 and the first hit did 3,500; startup 26; the damage figure 3,500 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 34,
+  "damage": 8000,
+  "names": [],
+  "by": null,
+  "why": "7 moves share this damage \u2014 too many to call it. Candidates: 5M, 5XX, 5XX > 5H, p.5U~5U, p.5U~j.U, dc.6A",
+  "ambiguous": false,
+  "candidates": [
+   "5M",
+   "5XX",
+   "5XX > 5H",
+   "p.5U~5U",
+   "p.5U~j.U",
+   "dc.6A",
+   "j.A"
+  ],
+  "segment": 11,
+  "side": "L",
+  "t": 2014.8,
+  "combo_damage": 12800,
+  "hits": 2,
+  "receipt": "at 2014.8s the panel held Attack Startup 34 and the first hit did 8,000; 7 moves share this damage \u2014 too many to call it. Candidates: 5M, 5XX, 5XX > 5H, p.5U~5U, p.5U~j.U, dc.6A"
+ },
+ {
+  "character": "Captain America",
+  "startup": 23,
+  "damage": 4000,
+  "names": [
+   "22M"
+  ],
+  "by": "startup",
+  "why": "startup 23; the damage figure 4,000 matches a different move (5L, j.L) in the wiki's table",
+  "ambiguous": false,
+  "segment": 11,
+  "side": "R",
+  "t": 2027.0,
+  "combo_damage": 10000,
+  "hits": 2,
+  "receipt": "at 2027.0s the panel held Attack Startup 23 and the first hit did 4,000; startup 23; the damage figure 4,000 matches a different move (5L, j.L) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 16000,
+  "names": [
+   "5M",
+   "j.M"
+  ],
+  "by": "startup",
+  "why": "startup 9; the damage figure 16,000 matches a different move (M+H) in the wiki's table",
+  "ambiguous": true,
+  "segment": 12,
+  "side": "L",
+  "t": 2043.2,
+  "combo_damage": 16000,
+  "hits": 1,
+  "receipt": "at 2043.2s the panel held Attack Startup 9 and the first hit did 16,000; startup 9; the damage figure 16,000 matches a different move (M+H) in the wiki's table"
+ },
+ {
+  "character": "Captain America",
+  "startup": 12,
+  "damage": 8000,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this startup \u2014 too many to call it. Candidates: 5H, 2H, j.6H, j.2H",
+  "ambiguous": false,
+  "candidates": [
+   "5H",
+   "2H",
+   "j.6H",
+   "j.2H"
+  ],
+  "segment": 12,
+  "side": "R",
+  "t": 2044.3,
+  "combo_damage": 8000,
+  "hits": 1,
+  "receipt": "at 2044.3s the panel held Attack Startup 12 and the first hit did 8,000; 4 moves share this startup \u2014 too many to call it. Candidates: 5H, 2H, j.6H, j.2H"
+ },
+ {
+  "character": "Magik",
+  "startup": 13,
+  "damage": 9000,
+  "names": [
+   "2H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 13 and 9,000 damage (9.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 12,
+  "side": "L",
+  "t": 2045.4,
+  "combo_damage": 9000,
+  "hits": 1,
+  "receipt": "at 2045.4s the panel held Attack Startup 13 and the first hit did 9,000; startup 13 and 9,000 damage (9.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 15,
+  "damage": 5000,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this startup \u2014 too many to call it. Candidates: 5H, 236H, 6A, 2A",
+  "ambiguous": false,
+  "candidates": [
+   "5H",
+   "236H",
+   "6A",
+   "2A"
+  ],
+  "segment": 12,
+  "side": "L",
+  "t": 2052.6,
+  "combo_damage": 12800,
+  "hits": 3,
+  "receipt": "at 2052.6s the panel held Attack Startup 15 and the first hit did 5,000; 4 moves share this startup \u2014 too many to call it. Candidates: 5H, 236H, 6A, 2A"
+ },
+ {
+  "character": "Magik",
+  "startup": 23,
+  "damage": 5000,
+  "names": [
+   "5LL"
+  ],
+  "by": "damage",
+  "why": "5,000 damage on an unscaled hit; startup 23 is not in Magik's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": false,
+  "segment": 12,
+  "side": "L",
+  "t": 2056.8,
+  "combo_damage": 8000,
+  "hits": 2,
+  "receipt": "at 2056.8s the panel held Attack Startup 23 and the first hit did 5,000; 5,000 damage on an unscaled hit; startup 23 is not in Magik's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Magik",
+  "startup": 15,
+  "damage": 5000,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this startup \u2014 too many to call it. Candidates: 5H, 236H, 6A, 2A",
+  "ambiguous": false,
+  "candidates": [
+   "5H",
+   "236H",
+   "6A",
+   "2A"
+  ],
+  "segment": 12,
+  "side": "L",
+  "t": 2060.8,
+  "combo_damage": 8000,
+  "hits": 2,
+  "receipt": "at 2060.8s the panel held Attack Startup 15 and the first hit did 5,000; 4 moves share this startup \u2014 too many to call it. Candidates: 5H, 236H, 6A, 2A"
+ },
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 12,
+  "side": "L",
+  "t": 2062.7,
+  "combo_damage": 17200,
+  "hits": 5,
+  "receipt": "at 2062.7s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Captain America",
+  "startup": 2,
+  "damage": 2000,
+  "names": [
+   "CO"
+  ],
+  "by": "damage",
+  "why": "2,000 damage on an unscaled hit; startup 2 is not in Captain America's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": false,
+  "segment": 12,
+  "side": "R",
+  "t": 2079.1,
+  "combo_damage": 2000,
+  "hits": 1,
+  "receipt": "at 2079.1s the panel held Attack Startup 2 and the first hit did 2,000; 2,000 damage on an unscaled hit; startup 2 is not in Captain America's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Captain America",
+  "startup": 12,
+  "damage": 5500,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this startup \u2014 too many to call it. Candidates: 5H, 2H, j.6H, j.2H",
+  "ambiguous": false,
+  "candidates": [
+   "5H",
+   "2H",
+   "j.6H",
+   "j.2H"
+  ],
+  "segment": 12,
+  "side": "R",
+  "t": 2081.0,
+  "combo_damage": 16100,
+  "hits": 4,
+  "receipt": "at 2081.0s the panel held Attack Startup 12 and the first hit did 5,500; 4 moves share this startup \u2014 too many to call it. Candidates: 5H, 2H, j.6H, j.2H"
+ },
+ {
+  "character": "Captain America",
+  "startup": 7,
+  "damage": 3000,
+  "names": [
+   "2L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 7 and 3,000 damage (3.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 12,
+  "side": "R",
+  "t": 2083.8,
+  "combo_damage": 7800,
+  "hits": 2,
+  "receipt": "at 2083.8s the panel held Attack Startup 7 and the first hit did 3,000; startup 7 and 3,000 damage (3.0% of health) both point here"
+ },
+ {
+  "character": "Captain America",
+  "startup": 10,
+  "damage": 6000,
+  "names": [
+   "j.5H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 6,000 damage (6.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 12,
+  "side": "R",
+  "t": 2085.7,
+  "combo_damage": 6000,
+  "hits": 1,
+  "receipt": "at 2085.7s the panel held Attack Startup 10 and the first hit did 6,000; startup 10 and 6,000 damage (6.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 15,
+  "damage": 10000,
+  "names": [
+   "5H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 15 and 10,000 damage (10.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 13,
+  "side": "L",
+  "t": 2167.5,
+  "combo_damage": 10000,
+  "hits": 1,
+  "receipt": "at 2167.5s the panel held Attack Startup 15 and the first hit did 10,000; startup 15 and 10,000 damage (10.0% of health) both point here"
+ },
+ {
+  "character": "Storm",
+  "startup": 20,
+  "damage": 6000,
+  "names": [
+   "6A",
+   "2A",
+   "4A"
+  ],
+  "by": "damage",
+  "why": "6,000 damage on an unscaled hit; startup 20 is not in Storm's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": true,
+  "segment": 13,
+  "side": "R",
+  "t": 2167.5,
+  "combo_damage": 24000,
+  "hits": 7,
+  "receipt": "at 2167.5s the panel held Attack Startup 20 and the first hit did 6,000; 6,000 damage on an unscaled hit; startup 20 is not in Storm's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 13,
+  "side": "L",
+  "t": 2175.7,
+  "combo_damage": 8000,
+  "hits": 1,
+  "receipt": "at 2175.7s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Storm",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 13,
+  "side": "R",
+  "t": 2185.6,
+  "combo_damage": 7000,
+  "hits": 1,
+  "receipt": "at 2185.6s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Storm",
+  "startup": 8,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 8 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 13,
+  "side": "R",
+  "t": 2190.0,
+  "combo_damage": 8000,
+  "hits": 1,
+  "receipt": "at 2190.0s the panel held Attack Startup 8 and the first hit did 8,000; startup 8 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Storm",
+  "startup": 19,
+  "damage": 3250,
+  "names": [
+   "2L"
+  ],
+  "by": "damage",
+  "why": "3,250 damage on an unscaled hit; startup 19 is not in Storm's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": false,
+  "segment": 13,
+  "side": "R",
+  "t": 2198.2,
+  "combo_damage": 7750,
+  "hits": 3,
+  "receipt": "at 2198.2s the panel held Attack Startup 19 and the first hit did 3,250; 3,250 damage on an unscaled hit; startup 19 is not in Storm's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Magik",
+  "startup": 15,
+  "damage": 10000,
+  "names": [
+   "5H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 15 and 10,000 damage (10.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 13,
+  "side": "L",
+  "t": 2204.1,
+  "combo_damage": 16400,
+  "hits": 2,
+  "receipt": "at 2204.1s the panel held Attack Startup 15 and the first hit did 10,000; startup 15 and 10,000 damage (10.0% of health) both point here"
+ },
+ {
+  "character": "Storm",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 13,
+  "side": "R",
+  "t": 2206.6,
+  "combo_damage": 4000,
+  "hits": 1,
+  "receipt": "at 2206.6s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Storm",
+  "startup": 7,
+  "damage": 3000,
+  "names": [
+   "2L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 7 and 3,000 damage (3.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 13,
+  "side": "R",
+  "t": 2214.9,
+  "combo_damage": 7800,
+  "hits": 2,
+  "receipt": "at 2214.9s the panel held Attack Startup 7 and the first hit did 3,000; startup 7 and 3,000 damage (3.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 28,
+  "damage": 8000,
+  "names": [],
+  "by": null,
+  "why": "7 moves share this damage \u2014 too many to call it. Candidates: 5M, 5XX, 5XX > 5H, p.5U~5U, p.5U~j.U, dc.6A",
+  "ambiguous": false,
+  "candidates": [
+   "5M",
+   "5XX",
+   "5XX > 5H",
+   "p.5U~5U",
+   "p.5U~j.U",
+   "dc.6A",
+   "j.A"
+  ],
+  "segment": 13,
+  "side": "L",
+  "t": 2220.6,
+  "combo_damage": 8000,
+  "hits": 1,
+  "receipt": "at 2220.6s the panel held Attack Startup 28 and the first hit did 8,000; 7 moves share this damage \u2014 too many to call it. Candidates: 5M, 5XX, 5XX > 5H, p.5U~5U, p.5U~j.U, dc.6A"
+ },
+ {
+  "character": "Storm",
+  "startup": 10,
+  "damage": 5500,
+  "names": [
+   "2M",
+   "j.M"
+  ],
+  "by": "startup",
+  "why": "startup 10; the damage figure 5,500 matches a different move (j.5H, j.6H, j.2H) in the wiki's table",
+  "ambiguous": true,
+  "segment": 13,
+  "side": "R",
+  "t": 2222.5,
+  "combo_damage": 5500,
+  "hits": 1,
+  "receipt": "at 2222.5s the panel held Attack Startup 10 and the first hit did 5,500; startup 10; the damage figure 5,500 matches a different move (j.5H, j.6H, j.2H) in the wiki's table"
+ },
+ {
+  "character": "Storm",
+  "startup": 8,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 8 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 13,
+  "side": "R",
+  "t": 2236.3,
+  "combo_damage": 12000,
+  "hits": 3,
+  "receipt": "at 2236.3s the panel held Attack Startup 8 and the first hit did 8,000; startup 8 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 15,
+  "damage": 5000,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this startup \u2014 too many to call it. Candidates: 5H, 236H, 6A, 2A",
+  "ambiguous": false,
+  "candidates": [
+   "5H",
+   "236H",
+   "6A",
+   "2A"
+  ],
+  "segment": 14,
+  "side": "L",
+  "t": 2262.7,
+  "combo_damage": 10000,
+  "hits": 3,
+  "receipt": "at 2262.7s the panel held Attack Startup 15 and the first hit did 5,000; 4 moves share this startup \u2014 too many to call it. Candidates: 5H, 236H, 6A, 2A"
+ },
+ {
+  "character": "Magik",
+  "startup": 30,
+  "damage": 8000,
+  "names": [
+   "j.A"
+  ],
+  "by": "startup and damage",
+  "why": "startup 30 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 14,
+  "side": "L",
+  "t": 2274.8,
+  "combo_damage": 8000,
+  "hits": 1,
+  "receipt": "at 2274.8s the panel held Attack Startup 30 and the first hit did 8,000; startup 30 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 5500,
+  "names": [
+   "j.M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 5,500 damage (5.5% of health) both point here",
+  "ambiguous": false,
+  "segment": 14,
+  "side": "L",
+  "t": 2284.1,
+  "combo_damage": 5500,
+  "hits": 1,
+  "receipt": "at 2284.1s the panel held Attack Startup 9 and the first hit did 5,500; startup 9 and 5,500 damage (5.5% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 14,
+  "side": "L",
+  "t": 2285.0,
+  "combo_damage": 19200,
+  "hits": 5,
+  "receipt": "at 2285.0s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 7,
+  "damage": 3000,
+  "names": [
+   "2L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 7 and 3,000 damage (3.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 14,
+  "side": "R",
+  "t": 2285.0,
+  "combo_damage": 3000,
+  "hits": 1,
+  "receipt": "at 2285.0s the panel held Attack Startup 7 and the first hit did 3,000; startup 7 and 3,000 damage (3.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 14,
+  "side": "R",
+  "t": 2292.4,
+  "combo_damage": 21750,
+  "hits": 7,
+  "receipt": "at 2292.4s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 25,
+  "damage": 4500,
+  "names": [
+   "236M"
+  ],
+  "by": "startup",
+  "why": "startup 25; the damage figure 4,500 matches a different move (4A, dc.4A) in the wiki's table",
+  "ambiguous": false,
+  "segment": 14,
+  "side": "R",
+  "t": 2299.0,
+  "combo_damage": 10000,
+  "hits": 2,
+  "receipt": "at 2299.0s the panel held Attack Startup 25 and the first hit did 4,500; startup 25; the damage figure 4,500 matches a different move (4A, dc.4A) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 14,
+  "side": "R",
+  "t": 2299.7,
+  "combo_damage": 14400,
+  "hits": 2,
+  "receipt": "at 2299.7s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 29,
+  "damage": 6000,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this damage \u2014 too many to call it. Candidates: j.5H, j.6H, j.2H, 6A",
+  "ambiguous": false,
+  "candidates": [
+   "j.5H",
+   "j.6H",
+   "j.2H",
+   "6A"
+  ],
+  "segment": 14,
+  "side": "R",
+  "t": 2302.1,
+  "combo_damage": 6000,
+  "hits": 1,
+  "receipt": "at 2302.1s the panel held Attack Startup 29 and the first hit did 6,000; 4 moves share this damage \u2014 too many to call it. Candidates: j.5H, j.6H, j.2H, 6A"
+ },
+ {
+  "character": "Magik",
+  "startup": 25,
+  "damage": 8000,
+  "names": [
+   "236M"
+  ],
+  "by": "startup",
+  "why": "startup 25; the damage figure 8,000 matches a different move (5M, 5XX, 5XX > 5H) in the wiki's table",
+  "ambiguous": false,
+  "segment": 14,
+  "side": "R",
+  "t": 2306.4,
+  "combo_damage": 8000,
+  "hits": 1,
+  "receipt": "at 2306.4s the panel held Attack Startup 25 and the first hit did 8,000; startup 25; the damage figure 8,000 matches a different move (5M, 5XX, 5XX > 5H) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 23,
+  "damage": 5000,
+  "names": [
+   "5LL"
+  ],
+  "by": "damage",
+  "why": "5,000 damage on an unscaled hit; startup 23 is not in Magik's table \u2014 a tag, an assist, or a gap in the table",
+  "ambiguous": false,
+  "segment": 14,
+  "side": "R",
+  "t": 2309.3,
+  "combo_damage": 8000,
+  "hits": 2,
+  "receipt": "at 2309.3s the panel held Attack Startup 23 and the first hit did 5,000; 5,000 damage on an unscaled hit; startup 23 is not in Magik's table \u2014 a tag, an assist, or a gap in the table"
+ },
+ {
+  "character": "Magik",
+  "startup": 16,
+  "damage": 2300,
+  "names": [
+   "j.236H"
+  ],
+  "by": "startup",
+  "why": "startup 16; the damage figure 2,300 matches nothing in the wiki's table",
+  "ambiguous": false,
+  "segment": 14,
+  "side": "L",
+  "t": 2311.3,
+  "combo_damage": 12350,
+  "hits": 2,
+  "receipt": "at 2311.3s the panel held Attack Startup 16 and the first hit did 2,300; startup 16; the damage figure 2,300 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 12,
+  "damage": 8000,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this startup \u2014 too many to call it. Candidates: j.6H, j.2H, 623H, j.623H",
+  "ambiguous": false,
+  "candidates": [
+   "j.6H",
+   "j.2H",
+   "623H",
+   "j.623H"
+  ],
+  "segment": 14,
+  "side": "L",
+  "t": 2314.8,
+  "combo_damage": 8000,
+  "hits": 1,
+  "receipt": "at 2314.8s the panel held Attack Startup 12 and the first hit did 8,000; 4 moves share this startup \u2014 too many to call it. Candidates: j.6H, j.2H, 623H, j.623H"
+ },
+ {
+  "character": "Magik",
+  "startup": 32,
+  "damage": 8000,
+  "names": [
+   "22L",
+   "22M"
+  ],
+  "by": "startup",
+  "why": "startup 32; the damage figure 8,000 matches a different move (5M, 5XX, 5XX > 5H) in the wiki's table",
+  "ambiguous": true,
+  "segment": 15,
+  "side": "L",
+  "t": 2335.9,
+  "combo_damage": 17600,
+  "hits": 3,
+  "receipt": "at 2335.9s the panel held Attack Startup 32 and the first hit did 8,000; startup 32; the damage figure 8,000 matches a different move (5M, 5XX, 5XX > 5H) in the wiki's table"
+ },
+ {
+  "character": "Storm",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5LL"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 15,
+  "side": "R",
+  "t": 2346.5,
+  "combo_damage": 14000,
+  "hits": 2,
+  "receipt": "at 2346.5s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Storm",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5LL"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 15,
+  "side": "R",
+  "t": 2349.3,
+  "combo_damage": 14000,
+  "hits": 2,
+  "receipt": "at 2349.3s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 13,
+  "damage": 9000,
+  "names": [
+   "2H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 13 and 9,000 damage (9.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 15,
+  "side": "L",
+  "t": 2352.8,
+  "combo_damage": 21900,
+  "hits": 6,
+  "receipt": "at 2352.8s the panel held Attack Startup 13 and the first hit did 9,000; startup 13 and 9,000 damage (9.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 25,
+  "damage": 8000,
+  "names": [
+   "236M"
+  ],
+  "by": "startup",
+  "why": "startup 25; the damage figure 8,000 matches a different move (5M, 5XX, 5XX > 5H) in the wiki's table",
+  "ambiguous": false,
+  "segment": 15,
+  "side": "L",
+  "t": 2361.0,
+  "combo_damage": 8000,
+  "hits": 1,
+  "receipt": "at 2361.0s the panel held Attack Startup 25 and the first hit did 8,000; startup 25; the damage figure 8,000 matches a different move (5M, 5XX, 5XX > 5H) in the wiki's table"
+ },
+ {
+  "character": "Storm",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 15,
+  "side": "R",
+  "t": 2364.8,
+  "combo_damage": 26250,
+  "hits": 23,
+  "receipt": "at 2364.8s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Storm",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 15,
+  "side": "R",
+  "t": 2372.7,
+  "combo_damage": 14600,
+  "hits": 6,
+  "receipt": "at 2372.7s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 7,
+  "damage": 3000,
+  "names": [
+   "2L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 7 and 3,000 damage (3.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 15,
+  "side": "L",
+  "t": 2378.1,
+  "combo_damage": 10600,
+  "hits": 3,
+  "receipt": "at 2378.1s the panel held Attack Startup 7 and the first hit did 3,000; startup 7 and 3,000 damage (3.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 32,
+  "damage": 6000,
+  "names": [
+   "22L",
+   "22M"
+  ],
+  "by": "startup",
+  "why": "startup 32; the damage figure 6,000 matches a different move (j.5H, j.6H, j.2H) in the wiki's table",
+  "ambiguous": true,
+  "segment": 15,
+  "side": "L",
+  "t": 2382.3,
+  "combo_damage": 13800,
+  "hits": 4,
+  "receipt": "at 2382.3s the panel held Attack Startup 32 and the first hit did 6,000; startup 32; the damage figure 6,000 matches a different move (j.5H, j.6H, j.2H) in the wiki's table"
+ },
+ {
+  "character": "Storm",
+  "startup": 12,
+  "damage": 6000,
+  "names": [
+   "5H",
+   "2H",
+   "j.5H"
+  ],
+  "by": "startup",
+  "why": "startup 12; the damage figure 6,000 matches a different move (6A, 2A, 4A) in the wiki's table",
+  "ambiguous": true,
+  "segment": 15,
+  "side": "R",
+  "t": 2386.4,
+  "combo_damage": 29238,
+  "hits": 19,
+  "receipt": "at 2386.4s the panel held Attack Startup 12 and the first hit did 6,000; startup 12; the damage figure 6,000 matches a different move (6A, 2A, 4A) in the wiki's table"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 8,
+  "damage": 8000,
+  "names": [
+   "5M",
+   "5H",
+   "5[H]"
+  ],
+  "by": "startup",
+  "why": "startup 8; the damage figure 8,000 matches a different move (5XX, 5XX > 5H, 6A) in the wiki's table",
+  "ambiguous": true,
+  "segment": 17,
+  "side": "L",
+  "t": 2601.6,
+  "combo_damage": 34780,
+  "hits": 22,
+  "receipt": "at 2601.6s the panel held Attack Startup 8 and the first hit did 8,000; startup 8; the damage figure 8,000 matches a different move (5XX, 5XX > 5H, 6A) in the wiki's table"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 8,
+  "damage": 6500,
+  "names": [
+   "5M",
+   "5H",
+   "5[H]"
+  ],
+  "by": "startup",
+  "why": "startup 8; the damage figure 6,500 matches nothing in the wiki's table",
+  "ambiguous": true,
+  "segment": 17,
+  "side": "L",
+  "t": 2613.8,
+  "combo_damage": 32670,
+  "hits": 20,
+  "receipt": "at 2613.8s the panel held Attack Startup 8 and the first hit did 6,500; startup 8; the damage figure 6,500 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 17,
+  "side": "L",
+  "t": 2624.3,
+  "combo_damage": 10000,
+  "hits": 3,
+  "receipt": "at 2624.3s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 18,
+  "side": "R",
+  "t": 2638.4,
+  "combo_damage": 17150,
+  "hits": 8,
+  "receipt": "at 2638.4s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 18,
+  "side": "R",
+  "t": 2647.8,
+  "combo_damage": 22400,
+  "hits": 6,
+  "receipt": "at 2647.8s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 7,
+  "damage": 5500,
+  "names": [
+   "j.M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 7 and 5,500 damage (5.5% of health) both point here",
+  "ambiguous": false,
+  "segment": 18,
+  "side": "L",
+  "t": 2651.4,
+  "combo_damage": 5500,
+  "hits": 1,
+  "receipt": "at 2651.4s the panel held Attack Startup 7 and the first hit did 5,500; startup 7 and 5,500 damage (5.5% of health) both point here"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 32,
+  "damage": 4000,
+  "names": [],
+  "by": null,
+  "why": "6 moves share this startup \u2014 too many to call it. Candidates: 22L, 22M, 22H, j.22L, j.22M, j.22H",
+  "ambiguous": false,
+  "candidates": [
+   "22L",
+   "22M",
+   "22H",
+   "j.22L",
+   "j.22M",
+   "j.22H"
+  ],
+  "segment": 18,
+  "side": "L",
+  "t": 2655.0,
+  "combo_damage": 52070,
+  "hits": 31,
+  "receipt": "at 2655.0s the panel held Attack Startup 32 and the first hit did 4,000; 6 moves share this startup \u2014 too many to call it. Candidates: 22L, 22M, 22H, j.22L, j.22M, j.22H"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 8,
+  "damage": 8000,
+  "names": [
+   "5M",
+   "5H",
+   "5[H]"
+  ],
+  "by": "startup",
+  "why": "startup 8; the damage figure 8,000 matches a different move (5XX, 5XX > 5H, 6A) in the wiki's table",
+  "ambiguous": true,
+  "segment": 18,
+  "side": "L",
+  "t": 2676.3,
+  "combo_damage": 9600,
+  "hits": 2,
+  "receipt": "at 2676.3s the panel held Attack Startup 8 and the first hit did 8,000; startup 8; the damage figure 8,000 matches a different move (5XX, 5XX > 5H, 6A) in the wiki's table"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": null,
+  "damage": 1,
+  "names": [],
+  "by": null,
+  "why": "startup None and 1 damage match nothing in Spider-Man's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 18,
+  "side": "L",
+  "t": 2677.3,
+  "combo_damage": 1,
+  "hits": 1,
+  "receipt": "at 2677.3s the panel held Attack Startup None and the first hit did 1; startup None and 1 damage match nothing in Spider-Man's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ },
+ {
+  "character": "Ghost Rider",
+  "startup": 11,
+  "damage": 18400,
+  "names": [
+   "5M",
+   "j.6H",
+   "j.2H"
+  ],
+  "by": "startup",
+  "why": "startup 11; the damage figure 18,400 matches a different move (623L Lvl 2, 623M Lvl 2, 623H) in the wiki's table",
+  "ambiguous": true,
+  "segment": 19,
+  "side": "L",
+  "t": 2687.7,
+  "combo_damage": 40227,
+  "hits": 21,
+  "receipt": "at 2687.7s the panel held Attack Startup 11 and the first hit did 18,400; startup 11; the damage figure 18,400 matches a different move (623L Lvl 2, 623M Lvl 2, 623H) in the wiki's table"
+ },
+ {
+  "character": "Ghost Rider",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 19,
+  "side": "L",
+  "t": 2698.3,
+  "combo_damage": 32055,
+  "hits": 18,
+  "receipt": "at 2698.3s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Ghost Rider",
+  "startup": 10,
+  "damage": 6000,
+  "names": [
+   "j.M",
+   "j.5H"
+  ],
+  "by": "startup",
+  "why": "startup 10; the damage figure 6,000 matches a different move (j.6H) in the wiki's table",
+  "ambiguous": true,
+  "segment": 19,
+  "side": "L",
+  "t": 2707.9,
+  "combo_damage": 10000,
+  "hits": 2,
+  "receipt": "at 2707.9s the panel held Attack Startup 10 and the first hit did 6,000; startup 10; the damage figure 6,000 matches a different move (j.6H) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 19,
+  "side": "R",
+  "t": 2709.8,
+  "combo_damage": 16900,
+  "hits": 5,
+  "receipt": "at 2709.8s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 9000,
+  "names": [
+   "5M",
+   "j.M"
+  ],
+  "by": "startup",
+  "why": "startup 9; the damage figure 9,000 matches a different move (5XX > M, 5XX > 6H, 2H) in the wiki's table",
+  "ambiguous": true,
+  "segment": 19,
+  "side": "R",
+  "t": 2718.3,
+  "combo_damage": 25600,
+  "hits": 7,
+  "receipt": "at 2718.3s the panel held Attack Startup 9 and the first hit did 9,000; startup 9; the damage figure 9,000 matches a different move (5XX > M, 5XX > 6H, 2H) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 8000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup",
+  "why": "startup 10; the damage figure 8,000 matches a different move (5M, 5XX, 5XX > 5H) in the wiki's table",
+  "ambiguous": false,
+  "segment": 19,
+  "side": "R",
+  "t": 2724.9,
+  "combo_damage": 25265,
+  "hits": 9,
+  "receipt": "at 2724.9s the panel held Attack Startup 10 and the first hit did 8,000; startup 10; the damage figure 8,000 matches a different move (5M, 5XX, 5XX > 5H) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 17,
+  "damage": 5000,
+  "names": [
+   "623M",
+   "j.623M"
+  ],
+  "by": "startup",
+  "why": "startup 17; the damage figure 5,000 matches a different move (5LL) in the wiki's table",
+  "ambiguous": true,
+  "segment": 19,
+  "side": "R",
+  "t": 2729.8,
+  "combo_damage": 30955,
+  "hits": 19,
+  "receipt": "at 2729.8s the panel held Attack Startup 17 and the first hit did 5,000; startup 17; the damage figure 5,000 matches a different move (5LL) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 20,
+  "side": "R",
+  "t": 2754.1,
+  "combo_damage": 11800,
+  "hits": 2,
+  "receipt": "at 2754.1s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Ghost Rider",
+  "startup": 28,
+  "damage": 8500,
+  "names": [
+   "623L",
+   "623L Lvl 2"
+  ],
+  "by": "startup",
+  "why": "startup 28; the damage figure 8,500 matches a different move (214X~6M Lvl 1, 214X~6M Lvl 2, 214X~6M Lvl 3) in the wiki's table",
+  "ambiguous": true,
+  "segment": 20,
+  "side": "L",
+  "t": 2757.0,
+  "combo_damage": 37052,
+  "hits": 27,
+  "receipt": "at 2757.0s the panel held Attack Startup 28 and the first hit did 8,500; startup 28; the damage figure 8,500 matches a different move (214X~6M Lvl 1, 214X~6M Lvl 2, 214X~6M Lvl 3) in the wiki's table"
+ },
+ {
+  "character": "Ghost Rider",
+  "startup": 13,
+  "damage": 10000,
+  "names": [
+   "5H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 13 and 10,000 damage (10.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 20,
+  "side": "L",
+  "t": 2769.5,
+  "combo_damage": 11600,
+  "hits": 2,
+  "receipt": "at 2769.5s the panel held Attack Startup 13 and the first hit did 10,000; startup 13 and 10,000 damage (10.0% of health) both point here"
+ },
+ {
+  "character": "Ghost Rider",
+  "startup": 28,
+  "damage": 8500,
+  "names": [
+   "623L",
+   "623L Lvl 2"
+  ],
+  "by": "startup",
+  "why": "startup 28; the damage figure 8,500 matches a different move (214X~6M Lvl 1, 214X~6M Lvl 2, 214X~6M Lvl 3) in the wiki's table",
+  "ambiguous": true,
+  "segment": 20,
+  "side": "L",
+  "t": 2770.5,
+  "combo_damage": 50837,
+  "hits": 23,
+  "receipt": "at 2770.5s the panel held Attack Startup 28 and the first hit did 8,500; startup 28; the damage figure 8,500 matches a different move (214X~6M Lvl 1, 214X~6M Lvl 2, 214X~6M Lvl 3) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 5500,
+  "names": [
+   "j.M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 5,500 damage (5.5% of health) both point here",
+  "ambiguous": false,
+  "segment": 20,
+  "side": "R",
+  "t": 2792.1,
+  "combo_damage": 18300,
+  "hits": 5,
+  "receipt": "at 2792.1s the panel held Attack Startup 9 and the first hit did 5,500; startup 9 and 5,500 damage (5.5% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 20,
+  "side": "R",
+  "t": 2795.2,
+  "combo_damage": 8400,
+  "hits": 2,
+  "receipt": "at 2795.2s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 32,
+  "damage": 8000,
+  "names": [
+   "22L",
+   "22M"
+  ],
+  "by": "startup",
+  "why": "startup 32; the damage figure 8,000 matches a different move (5M, 5XX, 5XX > 5H) in the wiki's table",
+  "ambiguous": true,
+  "segment": 20,
+  "side": "R",
+  "t": 2801.0,
+  "combo_damage": 31055,
+  "hits": 8,
+  "receipt": "at 2801.0s the panel held Attack Startup 32 and the first hit did 8,000; startup 32; the damage figure 8,000 matches a different move (5M, 5XX, 5XX > 5H) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 21,
+  "side": "R",
+  "t": 2825.0,
+  "combo_damage": 19800,
+  "hits": 5,
+  "receipt": "at 2825.0s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 5500,
+  "names": [
+   "j.M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 5,500 damage (5.5% of health) both point here",
+  "ambiguous": false,
+  "segment": 21,
+  "side": "R",
+  "t": 2829.3,
+  "combo_damage": 19500,
+  "hits": 6,
+  "receipt": "at 2829.3s the panel held Attack Startup 9 and the first hit did 5,500; startup 9 and 5,500 damage (5.5% of health) both point here"
+ },
+ {
+  "character": "Star-Lord",
+  "startup": 12,
+  "damage": 10000,
+  "names": [
+   "2M",
+   "2H",
+   "j.2H"
+  ],
+  "by": "startup",
+  "why": "startup 12; the damage figure 10,000 matches nothing in the wiki's table",
+  "ambiguous": true,
+  "segment": 21,
+  "side": "L",
+  "t": 2833.2,
+  "combo_damage": 10000,
+  "hits": 1,
+  "receipt": "at 2833.2s the panel held Attack Startup 12 and the first hit did 10,000; startup 12; the damage figure 10,000 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 21,
+  "side": "R",
+  "t": 2833.2,
+  "combo_damage": 4000,
+  "hits": 1,
+  "receipt": "at 2833.2s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Star-Lord",
+  "startup": 10,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup",
+  "why": "startup 10; the damage figure 8,000 matches nothing in the wiki's table",
+  "ambiguous": false,
+  "segment": 21,
+  "side": "L",
+  "t": 2835.4,
+  "combo_damage": 37250,
+  "hits": 33,
+  "receipt": "at 2835.4s the panel held Attack Startup 10 and the first hit did 8,000; startup 10; the damage figure 8,000 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Star-Lord",
+  "startup": 7,
+  "damage": 4000,
+  "names": [
+   "2L"
+  ],
+  "by": "startup",
+  "why": "startup 7; the damage figure 4,000 matches nothing in the wiki's table",
+  "ambiguous": false,
+  "segment": 21,
+  "side": "L",
+  "t": 2844.4,
+  "combo_damage": 26240,
+  "hits": 23,
+  "receipt": "at 2844.4s the panel held Attack Startup 7 and the first hit did 4,000; startup 7; the damage figure 4,000 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Star-Lord",
+  "startup": 8,
+  "damage": 4000,
+  "names": [
+   "5LL",
+   "22H"
+  ],
+  "by": "startup",
+  "why": "startup 8; the damage figure 4,000 matches nothing in the wiki's table",
+  "ambiguous": true,
+  "segment": 21,
+  "side": "L",
+  "t": 2851.7,
+  "combo_damage": 4000,
+  "hits": 1,
+  "receipt": "at 2851.7s the panel held Attack Startup 8 and the first hit did 4,000; startup 8; the damage figure 4,000 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 8,
+  "damage": 4500,
+  "names": [
+   "5M",
+   "5H",
+   "5[H]"
+  ],
+  "by": "startup",
+  "why": "startup 8; the damage figure 4,500 matches a different move (5U~5[U]) in the wiki's table",
+  "ambiguous": true,
+  "segment": 22,
+  "side": "L",
+  "t": 2934.6,
+  "combo_damage": 21450,
+  "hits": 8,
+  "receipt": "at 2934.6s the panel held Attack Startup 8 and the first hit did 4,500; startup 8; the damage figure 4,500 matches a different move (5U~5[U]) in the wiki's table"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 10,
+  "damage": 6000,
+  "names": [
+   "j.5H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 6,000 damage (6.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 22,
+  "side": "L",
+  "t": 2939.0,
+  "combo_damage": 18400,
+  "hits": 6,
+  "receipt": "at 2939.0s the panel held Attack Startup 10 and the first hit did 6,000; startup 10 and 6,000 damage (6.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 22,
+  "side": "R",
+  "t": 2942.4,
+  "combo_damage": 19200,
+  "hits": 5,
+  "receipt": "at 2942.4s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 17,
+  "damage": 5500,
+  "names": [
+   "214L"
+  ],
+  "by": "startup",
+  "why": "startup 17; the damage figure 5,500 matches a different move (j.M) in the wiki's table",
+  "ambiguous": false,
+  "segment": 22,
+  "side": "L",
+  "t": 2948.7,
+  "combo_damage": 5500,
+  "hits": 1,
+  "receipt": "at 2948.7s the panel held Attack Startup 17 and the first hit did 5,500; startup 17; the damage figure 5,500 matches a different move (j.M) in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 22,
+  "side": "R",
+  "t": 2949.6,
+  "combo_damage": 4000,
+  "hits": 1,
+  "receipt": "at 2949.6s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 22,
+  "side": "R",
+  "t": 2950.6,
+  "combo_damage": 19200,
+  "hits": 4,
+  "receipt": "at 2950.6s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 22,
+  "side": "R",
+  "t": 2953.4,
+  "combo_damage": 8400,
+  "hits": 2,
+  "receipt": "at 2953.4s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 9,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 22,
+  "side": "L",
+  "t": 2955.2,
+  "combo_damage": 7000,
+  "hits": 1,
+  "receipt": "at 2955.2s the panel held Attack Startup 9 and the first hit did 7,000; startup 9 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 8,
+  "damage": 6500,
+  "names": [
+   "5M",
+   "5H",
+   "5[H]"
+  ],
+  "by": "startup",
+  "why": "startup 8; the damage figure 6,500 matches nothing in the wiki's table",
+  "ambiguous": true,
+  "segment": 22,
+  "side": "L",
+  "t": 2957.7,
+  "combo_damage": 6500,
+  "hits": 1,
+  "receipt": "at 2957.7s the panel held Attack Startup 8 and the first hit did 6,500; startup 8; the damage figure 6,500 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 10,
+  "damage": 6000,
+  "names": [
+   "j.5H"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 6,000 damage (6.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 22,
+  "side": "L",
+  "t": 2959.1,
+  "combo_damage": 6000,
+  "hits": 1,
+  "receipt": "at 2959.1s the panel held Attack Startup 10 and the first hit did 6,000; startup 10 and 6,000 damage (6.0% of health) both point here"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 9,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 22,
+  "side": "L",
+  "t": 2959.6,
+  "combo_damage": 13000,
+  "hits": 3,
+  "receipt": "at 2959.6s the panel held Attack Startup 9 and the first hit did 7,000; startup 9 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 23,
+  "side": "R",
+  "t": 2974.2,
+  "combo_damage": 22205,
+  "hits": 8,
+  "receipt": "at 2974.2s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 8,
+  "damage": 4500,
+  "names": [
+   "5M",
+   "5H",
+   "5[H]"
+  ],
+  "by": "startup",
+  "why": "startup 8; the damage figure 4,500 matches a different move (5U~5[U]) in the wiki's table",
+  "ambiguous": true,
+  "segment": 23,
+  "side": "L",
+  "t": 2980.4,
+  "combo_damage": 16200,
+  "hits": 4,
+  "receipt": "at 2980.4s the panel held Attack Startup 8 and the first hit did 4,500; startup 8; the damage figure 4,500 matches a different move (5U~5[U]) in the wiki's table"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 20,
+  "damage": 2500,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this startup \u2014 too many to call it. Candidates: j.236L, j.236M, j.236H, 2A",
+  "ambiguous": false,
+  "candidates": [
+   "j.236L",
+   "j.236M",
+   "j.236H",
+   "2A"
+  ],
+  "segment": 23,
+  "side": "L",
+  "t": 2988.2,
+  "combo_damage": 8000,
+  "hits": 3,
+  "receipt": "at 2988.2s the panel held Attack Startup 20 and the first hit did 2,500; 4 moves share this startup \u2014 too many to call it. Candidates: j.236L, j.236M, j.236H, 2A"
+ },
+ {
+  "character": "Magik",
+  "startup": 10,
+  "damage": 7000,
+  "names": [
+   "2M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 10 and 7,000 damage (7.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 23,
+  "side": "R",
+  "t": 2995.2,
+  "combo_damage": 19800,
+  "hits": 6,
+  "receipt": "at 2995.2s the panel held Attack Startup 10 and the first hit did 7,000; startup 10 and 7,000 damage (7.0% of health) both point here"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 30,
+  "damage": 8000,
+  "names": [],
+  "by": null,
+  "why": "5 moves share this damage \u2014 too many to call it. Candidates: 5XX, 5XX > 5H, 6A, j.A, 236L",
+  "ambiguous": false,
+  "candidates": [
+   "5XX",
+   "5XX > 5H",
+   "6A",
+   "j.A",
+   "236L"
+  ],
+  "segment": 24,
+  "side": "L",
+  "t": 3015.9,
+  "combo_damage": 15200,
+  "hits": 4,
+  "receipt": "at 3015.9s the panel held Attack Startup 30 and the first hit did 8,000; 5 moves share this damage \u2014 too many to call it. Candidates: 5XX, 5XX > 5H, 6A, j.A, 236L"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 20,
+  "damage": 8000,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this startup \u2014 too many to call it. Candidates: j.236L, j.236M, j.236H, 2A",
+  "ambiguous": false,
+  "candidates": [
+   "j.236L",
+   "j.236M",
+   "j.236H",
+   "2A"
+  ],
+  "segment": 24,
+  "side": "L",
+  "t": 3018.9,
+  "combo_damage": 8000,
+  "hits": 1,
+  "receipt": "at 3018.9s the panel held Attack Startup 20 and the first hit did 8,000; 4 moves share this startup \u2014 too many to call it. Candidates: j.236L, j.236M, j.236H, 2A"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 24,
+  "side": "R",
+  "t": 3020.0,
+  "combo_damage": 22400,
+  "hits": 6,
+  "receipt": "at 3020.0s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 33,
+  "damage": 6000,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this damage \u2014 too many to call it. Candidates: j.5H, j.6H, j.2H, 6A",
+  "ambiguous": false,
+  "candidates": [
+   "j.5H",
+   "j.6H",
+   "j.2H",
+   "6A"
+  ],
+  "segment": 24,
+  "side": "R",
+  "t": 3025.3,
+  "combo_damage": 17000,
+  "hits": 4,
+  "receipt": "at 3025.3s the panel held Attack Startup 33 and the first hit did 6,000; 4 moves share this damage \u2014 too many to call it. Candidates: j.5H, j.6H, j.2H, 6A"
+ },
+ {
+  "character": "Magik",
+  "startup": 20,
+  "damage": 8000,
+  "names": [
+   "214M"
+  ],
+  "by": "startup",
+  "why": "startup 20; the damage figure 8,000 matches a different move (5M, 5XX, 5XX > 5H) in the wiki's table",
+  "ambiguous": false,
+  "segment": 24,
+  "side": "R",
+  "t": 3029.2,
+  "combo_damage": 22440,
+  "hits": 8,
+  "receipt": "at 3029.2s the panel held Attack Startup 20 and the first hit did 8,000; startup 20; the damage figure 8,000 matches a different move (5M, 5XX, 5XX > 5H) in the wiki's table"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 8,
+  "damage": 6500,
+  "names": [
+   "5M",
+   "5H",
+   "5[H]"
+  ],
+  "by": "startup",
+  "why": "startup 8; the damage figure 6,500 matches nothing in the wiki's table",
+  "ambiguous": true,
+  "segment": 24,
+  "side": "L",
+  "t": 3034.4,
+  "combo_damage": 17900,
+  "hits": 5,
+  "receipt": "at 3034.4s the panel held Attack Startup 8 and the first hit did 6,500; startup 8; the damage figure 6,500 matches nothing in the wiki's table"
+ },
+ {
+  "character": "Magik",
+  "startup": 25,
+  "damage": 5600,
+  "names": [
+   "236M"
+  ],
+  "by": "startup",
+  "why": "startup 25; the damage figure 5,600 matches a different move (j.M) in the wiki's table",
+  "ambiguous": false,
+  "segment": 24,
+  "side": "R",
+  "t": 3038.6,
+  "combo_damage": 9000,
+  "hits": 2,
+  "receipt": "at 3038.6s the panel held Attack Startup 25 and the first hit did 5,600; startup 25; the damage figure 5,600 matches a different move (j.M) in the wiki's table"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 8,
+  "damage": 8000,
+  "names": [
+   "5M",
+   "5H",
+   "5[H]"
+  ],
+  "by": "startup",
+  "why": "startup 8; the damage figure 8,000 matches a different move (5XX, 5XX > 5H, 6A) in the wiki's table",
+  "ambiguous": true,
+  "segment": 24,
+  "side": "L",
+  "t": 3040.1,
+  "combo_damage": 20100,
+  "hits": 7,
+  "receipt": "at 3040.1s the panel held Attack Startup 8 and the first hit did 8,000; startup 8; the damage figure 8,000 matches a different move (5XX, 5XX > 5H, 6A) in the wiki's table"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 13,
+  "damage": 6000,
+  "names": [],
+  "by": null,
+  "why": "5 moves share this damage \u2014 too many to call it. Candidates: 5LL, 5M, j.5H, j.6H, j.2H",
+  "ambiguous": false,
+  "candidates": [
+   "5LL",
+   "5M",
+   "j.5H",
+   "j.6H",
+   "j.2H"
+  ],
+  "segment": 24,
+  "side": "L",
+  "t": 3044.4,
+  "combo_damage": 17600,
+  "hits": 6,
+  "receipt": "at 3044.4s the panel held Attack Startup 13 and the first hit did 6,000; 5 moves share this damage \u2014 too many to call it. Candidates: 5LL, 5M, j.5H, j.6H, j.2H"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 25,
+  "side": "R",
+  "t": 3065.6,
+  "combo_damage": 4000,
+  "hits": 1,
+  "receipt": "at 3065.6s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 18,
+  "damage": 4000,
+  "names": [],
+  "by": null,
+  "why": "9 moves share this damage \u2014 too many to call it. Candidates: j.L, 5U, 6U, 4U, 2U, j.5U",
+  "ambiguous": false,
+  "candidates": [
+   "j.L",
+   "5U",
+   "6U",
+   "4U",
+   "2U",
+   "j.5U",
+   "j.6U",
+   "j.4U",
+   "j.2U"
+  ],
+  "segment": 25,
+  "side": "L",
+  "t": 3068.0,
+  "combo_damage": 13700,
+  "hits": 4,
+  "receipt": "at 3068.0s the panel held Attack Startup 18 and the first hit did 4,000; 9 moves share this damage \u2014 too many to call it. Candidates: j.L, 5U, 6U, 4U, 2U, j.5U"
+ },
+ {
+  "character": "Magik",
+  "startup": 9,
+  "damage": 8000,
+  "names": [
+   "5M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 9 and 8,000 damage (8.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 25,
+  "side": "R",
+  "t": 3072.3,
+  "combo_damage": 14400,
+  "hits": 2,
+  "receipt": "at 3072.3s the panel held Attack Startup 9 and the first hit did 8,000; startup 9 and 8,000 damage (8.0% of health) both point here"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 25,
+  "side": "L",
+  "t": 3072.9,
+  "combo_damage": 23135,
+  "hits": 11,
+  "receipt": "at 3072.9s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 7,
+  "damage": 5500,
+  "names": [
+   "j.M"
+  ],
+  "by": "startup and damage",
+  "why": "startup 7 and 5,500 damage (5.5% of health) both point here",
+  "ambiguous": false,
+  "segment": 25,
+  "side": "L",
+  "t": 3079.2,
+  "combo_damage": 18175,
+  "hits": 6,
+  "receipt": "at 3079.2s the panel held Attack Startup 7 and the first hit did 5,500; startup 7 and 5,500 damage (5.5% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 15,
+  "damage": 5600,
+  "names": [],
+  "by": null,
+  "why": "4 moves share this startup \u2014 too many to call it. Candidates: 5H, 236H, 6A, 2A",
+  "ambiguous": false,
+  "candidates": [
+   "5H",
+   "236H",
+   "6A",
+   "2A"
+  ],
+  "segment": 25,
+  "side": "R",
+  "t": 3085.4,
+  "combo_damage": 9000,
+  "hits": 2,
+  "receipt": "at 3085.4s the panel held Attack Startup 15 and the first hit did 5,600; 4 moves share this startup \u2014 too many to call it. Candidates: 5H, 236H, 6A, 2A"
+ },
+ {
+  "character": "Magik",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "5L",
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": true,
+  "segment": 25,
+  "side": "R",
+  "t": 3090.4,
+  "combo_damage": 13600,
+  "hits": 3,
+  "receipt": "at 3090.4s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Spider-Man",
+  "startup": 6,
+  "damage": 4000,
+  "names": [
+   "j.L"
+  ],
+  "by": "startup and damage",
+  "why": "startup 6 and 4,000 damage (4.0% of health) both point here",
+  "ambiguous": false,
+  "segment": 25,
+  "side": "L",
+  "t": 3094.0,
+  "combo_damage": 12800,
+  "hits": 3,
+  "receipt": "at 3094.0s the panel held Attack Startup 6 and the first hit did 4,000; startup 6 and 4,000 damage (4.0% of health) both point here"
+ },
+ {
+  "character": "Magik",
+  "startup": 43,
+  "damage": 2300,
+  "names": [],
+  "by": null,
+  "why": "startup 43 and 2,300 damage match nothing in Magik's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character",
+  "ambiguous": false,
+  "segment": 25,
+  "side": "R",
+  "t": 3098.1,
+  "combo_damage": 9000,
+  "hits": 2,
+  "receipt": "at 3098.1s the panel held Attack Startup 43 and the first hit did 2,300; startup 43 and 2,300 damage match nothing in Magik's table \u2014 most likely a tagged-in fighter, since the name plate only names the point character"
+ }
+]

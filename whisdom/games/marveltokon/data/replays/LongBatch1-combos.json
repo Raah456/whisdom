@@ -1,0 +1,6633 @@
+{
+ "video": "LongBatch1",
+ "combos": [
+  {
+   "segment": 0,
+   "side": "L",
+   "t0": 282.6,
+   "t1": 283.9,
+   "damage": 16550,
+   "hits": 5,
+   "steps": [
+    [
+     282.6,
+     12400
+    ],
+    [
+     282.9,
+     14800
+    ],
+    [
+     283.3,
+     15600
+    ],
+    [
+     283.5,
+     16000
+    ],
+    [
+     283.9,
+     16550
+    ]
+   ],
+   "first_hit_inferred": true,
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 0,
+   "side": "L",
+   "t0": 285.7,
+   "t1": 288.4,
+   "damage": 17150,
+   "hits": 9,
+   "steps": [
+    [
+     285.7,
+     4000
+    ],
+    [
+     286.0,
+     8800
+    ],
+    [
+     286.4,
+     12400
+    ],
+    [
+     286.7,
+     14800
+    ],
+    [
+     287.1,
+     15600
+    ],
+    [
+     287.3,
+     16000
+    ],
+    [
+     287.7,
+     16550
+    ],
+    [
+     288.3,
+     16950
+    ],
+    [
+     288.4,
+     17150
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.7,
+   "character": "Magik"
+  },
+  {
+   "segment": 0,
+   "side": "L",
+   "t0": 290.5,
+   "t1": 294.2,
+   "damage": 18800,
+   "hits": 11,
+   "steps": [
+    [
+     290.5,
+     4000
+    ],
+    [
+     290.9,
+     8800
+    ],
+    [
+     291.2,
+     12400
+    ],
+    [
+     291.6,
+     15400
+    ],
+    [
+     292.0,
+     16200
+    ],
+    [
+     292.2,
+     16600
+    ],
+    [
+     292.6,
+     17150
+    ],
+    [
+     293.2,
+     17550
+    ],
+    [
+     293.3,
+     17750
+    ],
+    [
+     293.9,
+     18250
+    ],
+    [
+     294.2,
+     18800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 3.7,
+   "character": "Magik"
+  },
+  {
+   "segment": 0,
+   "side": "L",
+   "t0": 296.7,
+   "t1": 298.6,
+   "damage": 16550,
+   "hits": 7,
+   "steps": [
+    [
+     296.7,
+     4000
+    ],
+    [
+     297.0,
+     8800
+    ],
+    [
+     297.3,
+     12400
+    ],
+    [
+     297.6,
+     14800
+    ],
+    [
+     298.0,
+     15600
+    ],
+    [
+     298.2,
+     16000
+    ],
+    [
+     298.6,
+     16550
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.9,
+   "character": "Magik"
+  },
+  {
+   "segment": 0,
+   "side": "L",
+   "t0": 300.2,
+   "t1": 300.9,
+   "damage": 12400,
+   "hits": 3,
+   "steps": [
+    [
+     300.2,
+     4000
+    ],
+    [
+     300.6,
+     8800
+    ],
+    [
+     300.9,
+     12400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.7,
+   "character": "Magik"
+  },
+  {
+   "segment": 1,
+   "side": "L",
+   "t0": 1378.0,
+   "t1": 1378.2,
+   "damage": 3000,
+   "hits": 2,
+   "steps": [
+    [
+     1378.0,
+     2000
+    ],
+    [
+     1378.2,
+     3000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.2,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 1,
+   "side": "L",
+   "t0": 1384.3,
+   "t1": 1385.5,
+   "damage": 19800,
+   "hits": 5,
+   "steps": [
+    [
+     1384.3,
+     8000
+    ],
+    [
+     1384.6,
+     14400
+    ],
+    [
+     1385.3,
+     16200
+    ],
+    [
+     1385.4,
+     18000
+    ],
+    [
+     1385.5,
+     19800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.2,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 1,
+   "side": "L",
+   "t0": 1386.7,
+   "t1": 1386.7,
+   "damage": 4000,
+   "hits": 1,
+   "steps": [
+    [
+     1386.7,
+     4000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 1,
+   "side": "R",
+   "t0": 1387.3,
+   "t1": 1388.5,
+   "damage": 15800,
+   "hits": 4,
+   "steps": [
+    [
+     1387.3,
+     7000
+    ],
+    [
+     1387.7,
+     11800
+    ],
+    [
+     1388.2,
+     14200
+    ],
+    [
+     1388.5,
+     15800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.2,
+   "character": "Magik"
+  },
+  {
+   "segment": 1,
+   "side": "L",
+   "t0": 1392.0,
+   "t1": 1393.7,
+   "damage": 17000,
+   "hits": 3,
+   "steps": [
+    [
+     1392.0,
+     6000
+    ],
+    [
+     1392.8,
+     7000
+    ],
+    [
+     1393.7,
+     17000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.7,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 1,
+   "side": "L",
+   "t0": 1395.2,
+   "t1": 1395.3,
+   "damage": 8000,
+   "hits": 2,
+   "steps": [
+    [
+     1395.2,
+     2000
+    ],
+    [
+     1395.3,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 1,
+   "side": "R",
+   "t0": 1397.1,
+   "t1": 1401.6,
+   "damage": 23030,
+   "hits": 14,
+   "steps": [
+    [
+     1397.1,
+     4000
+    ],
+    [
+     1397.4,
+     8000
+    ],
+    [
+     1397.7,
+     11600
+    ],
+    [
+     1398.0,
+     14000
+    ],
+    [
+     1398.3,
+     15500
+    ],
+    [
+     1398.7,
+     15900
+    ],
+    [
+     1398.9,
+     16300
+    ],
+    [
+     1399.3,
+     16850
+    ],
+    [
+     1399.9,
+     17250
+    ],
+    [
+     1400.0,
+     17450
+    ],
+    [
+     1400.2,
+     18950
+    ],
+    [
+     1400.6,
+     20950
+    ],
+    [
+     1401.5,
+     22250
+    ],
+    [
+     1401.6,
+     23030
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 4.5,
+   "character": "Magik"
+  },
+  {
+   "segment": 1,
+   "side": "L",
+   "t0": 1405.8,
+   "t1": 1405.8,
+   "damage": 2000,
+   "hits": 1,
+   "steps": [
+    [
+     1405.8,
+     2000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 2,
+   "side": "L",
+   "t0": 1423.1,
+   "t1": 1423.9,
+   "damage": 11000,
+   "hits": 2,
+   "steps": [
+    [
+     1423.1,
+     2000
+    ],
+    [
+     1423.9,
+     11000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.8,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 2,
+   "side": "R",
+   "t0": 1427.2,
+   "t1": 1430.3,
+   "damage": 22100,
+   "hits": 6,
+   "steps": [
+    [
+     1427.2,
+     8000
+    ],
+    [
+     1427.6,
+     14400
+    ],
+    [
+     1428.5,
+     17400
+    ],
+    [
+     1428.6,
+     19200
+    ],
+    [
+     1429.6,
+     20800
+    ],
+    [
+     1430.3,
+     22100
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 3.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 2,
+   "side": "L",
+   "t0": 1434.0,
+   "t1": 1436.0,
+   "damage": 24100,
+   "hits": 8,
+   "steps": [
+    [
+     1434.0,
+     4000
+    ],
+    [
+     1434.3,
+     7000
+    ],
+    [
+     1434.4,
+     11800
+    ],
+    [
+     1434.7,
+     19300
+    ],
+    [
+     1435.2,
+     20900
+    ],
+    [
+     1435.4,
+     21700
+    ],
+    [
+     1435.6,
+     22100
+    ],
+    [
+     1436.0,
+     24100
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.0,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 2,
+   "side": "R",
+   "t0": 1438.0,
+   "t1": 1440.9,
+   "damage": 22205,
+   "hits": 7,
+   "steps": [
+    [
+     1438.0,
+     8000
+    ],
+    [
+     1438.4,
+     14400
+    ],
+    [
+     1439.3,
+     17400
+    ],
+    [
+     1439.4,
+     19200
+    ],
+    [
+     1440.3,
+     20800
+    ],
+    [
+     1440.5,
+     21600
+    ],
+    [
+     1440.9,
+     22205
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.9,
+   "character": "Magik"
+  },
+  {
+   "segment": 2,
+   "side": "R",
+   "t0": 1444.4,
+   "t1": 1444.4,
+   "damage": 16000,
+   "hits": 1,
+   "steps": [
+    [
+     1444.4,
+     16000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 2,
+   "side": "R",
+   "t0": 1456.4,
+   "t1": 1456.4,
+   "damage": 2000,
+   "hits": 1,
+   "steps": [
+    [
+     1456.4,
+     2000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 3,
+   "side": "L",
+   "t0": 1472.5,
+   "t1": 1472.5,
+   "damage": 2000,
+   "hits": 1,
+   "steps": [
+    [
+     1472.5,
+     2000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 3,
+   "side": "R",
+   "t0": 1473.1,
+   "t1": 1474.0,
+   "damage": 23155,
+   "hits": 3,
+   "steps": [
+    [
+     1473.1,
+     22000
+    ],
+    [
+     1473.7,
+     22550
+    ],
+    [
+     1474.0,
+     23155
+    ]
+   ],
+   "first_hit_inferred": true,
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.9,
+   "character": "Magik"
+  },
+  {
+   "segment": 3,
+   "side": "L",
+   "t0": 1475.6,
+   "t1": 1479.9,
+   "damage": 23200,
+   "hits": 8,
+   "steps": [
+    [
+     1475.6,
+     9000
+    ],
+    [
+     1476.9,
+     12200
+    ],
+    [
+     1477.2,
+     14600
+    ],
+    [
+     1477.5,
+     16600
+    ],
+    [
+     1477.8,
+     17700
+    ],
+    [
+     1478.2,
+     19700
+    ],
+    [
+     1479.0,
+     20700
+    ],
+    [
+     1479.9,
+     23200
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 4.3,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 3,
+   "side": "R",
+   "t0": 1484.9,
+   "t1": 1487.2,
+   "damage": 21000,
+   "hits": 7,
+   "steps": [
+    [
+     1484.9,
+     7000
+    ],
+    [
+     1485.2,
+     11800
+    ],
+    [
+     1485.5,
+     16600
+    ],
+    [
+     1486.4,
+     17600
+    ],
+    [
+     1486.5,
+     18600
+    ],
+    [
+     1486.6,
+     19800
+    ],
+    [
+     1487.2,
+     21000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 3,
+   "side": "R",
+   "t0": 1489.5,
+   "t1": 1490.3,
+   "damage": 11000,
+   "hits": 3,
+   "steps": [
+    [
+     1489.5,
+     5000
+    ],
+    [
+     1489.8,
+     7000
+    ],
+    [
+     1490.3,
+     11000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.8,
+   "character": "Magik"
+  },
+  {
+   "segment": 3,
+   "side": "R",
+   "t0": 1492.7,
+   "t1": 1495.1,
+   "damage": 22000,
+   "hits": 6,
+   "steps": [
+    [
+     1492.7,
+     8000
+    ],
+    [
+     1493.0,
+     12800
+    ],
+    [
+     1493.4,
+     17600
+    ],
+    [
+     1494.3,
+     19600
+    ],
+    [
+     1494.4,
+     20800
+    ],
+    [
+     1495.1,
+     22000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.4,
+   "character": "Magik"
+  },
+  {
+   "segment": 3,
+   "side": "L",
+   "t0": 1498.3,
+   "t1": 1498.3,
+   "damage": 8000,
+   "hits": 1,
+   "steps": [
+    [
+     1498.3,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 3,
+   "side": "L",
+   "t0": 1501.3,
+   "t1": 1502.2,
+   "damage": 10000,
+   "hits": 2,
+   "steps": [
+    [
+     1501.3,
+     1000
+    ],
+    [
+     1502.2,
+     10000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.9,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 3,
+   "side": "L",
+   "t0": 1505.6,
+   "t1": 1505.7,
+   "damage": 8000,
+   "hits": 2,
+   "steps": [
+    [
+     1505.6,
+     2000
+    ],
+    [
+     1505.7,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 3,
+   "side": "L",
+   "t0": 1508.3,
+   "t1": 1509.2,
+   "damage": 14500,
+   "hits": 2,
+   "steps": [
+    [
+     1508.3,
+     1000
+    ],
+    [
+     1509.2,
+     14500
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.9,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 3,
+   "side": "R",
+   "t0": 1511.0,
+   "t1": 1511.0,
+   "damage": 4000,
+   "hits": 1,
+   "steps": [
+    [
+     1511.0,
+     4000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 3,
+   "side": "L",
+   "t0": 1511.6,
+   "t1": 1516.0,
+   "damage": 23200,
+   "hits": 8,
+   "steps": [
+    [
+     1511.6,
+     9000
+    ],
+    [
+     1513.0,
+     12200
+    ],
+    [
+     1513.2,
+     14600
+    ],
+    [
+     1513.5,
+     16600
+    ],
+    [
+     1513.9,
+     17700
+    ],
+    [
+     1514.3,
+     19700
+    ],
+    [
+     1515.1,
+     20700
+    ],
+    [
+     1516.0,
+     23200
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 4.4,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 4,
+   "side": "L",
+   "t0": 1542.7,
+   "t1": 1542.7,
+   "damage": 6000,
+   "hits": 1,
+   "steps": [
+    [
+     1542.7,
+     6000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 4,
+   "side": "L",
+   "t0": 1550.4,
+   "t1": 1550.4,
+   "damage": 3000,
+   "hits": 1,
+   "steps": [
+    [
+     1550.4,
+     3000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 4,
+   "side": "L",
+   "t0": 1552.1,
+   "t1": 1552.1,
+   "damage": 6000,
+   "hits": 1,
+   "steps": [
+    [
+     1552.1,
+     6000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 4,
+   "side": "L",
+   "t0": 1553.4,
+   "t1": 1554.6,
+   "damage": 19800,
+   "hits": 5,
+   "steps": [
+    [
+     1553.4,
+     8000
+    ],
+    [
+     1553.8,
+     14400
+    ],
+    [
+     1554.4,
+     16200
+    ],
+    [
+     1554.5,
+     18000
+    ],
+    [
+     1554.6,
+     19800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.2,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 4,
+   "side": "R",
+   "t0": 1555.7,
+   "t1": 1558.2,
+   "damage": 31500,
+   "hits": 8,
+   "steps": [
+    [
+     1555.7,
+     5000
+    ],
+    [
+     1556.0,
+     14100
+    ],
+    [
+     1556.4,
+     21100
+    ],
+    [
+     1556.7,
+     26000
+    ],
+    [
+     1557.0,
+     28000
+    ],
+    [
+     1557.3,
+     29000
+    ],
+    [
+     1557.6,
+     30300
+    ],
+    [
+     1558.2,
+     31500
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.5,
+   "character": "Magik"
+  },
+  {
+   "segment": 4,
+   "side": "R",
+   "t0": 1560.2,
+   "t1": 1562.4,
+   "damage": 20300,
+   "hits": 8,
+   "steps": [
+    [
+     1560.2,
+     5000
+    ],
+    [
+     1560.5,
+     10600
+    ],
+    [
+     1560.9,
+     14800
+    ],
+    [
+     1561.2,
+     17600
+    ],
+    [
+     1561.5,
+     18600
+    ],
+    [
+     1561.8,
+     19100
+    ],
+    [
+     1562.0,
+     19700
+    ],
+    [
+     1562.4,
+     20300
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.2,
+   "character": "Magik"
+  },
+  {
+   "segment": 4,
+   "side": "L",
+   "t0": 1568.4,
+   "t1": 1570.1,
+   "damage": 17000,
+   "hits": 3,
+   "steps": [
+    [
+     1568.4,
+     6000
+    ],
+    [
+     1569.2,
+     7000
+    ],
+    [
+     1570.1,
+     17000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.7,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 4,
+   "side": "L",
+   "t0": 1571.6,
+   "t1": 1571.7,
+   "damage": 8000,
+   "hits": 2,
+   "steps": [
+    [
+     1571.6,
+     2000
+    ],
+    [
+     1571.7,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 4,
+   "side": "R",
+   "t0": 1574.4,
+   "t1": 1581.4,
+   "damage": 34000,
+   "hits": 4,
+   "steps": [
+    [
+     1574.4,
+     6000
+    ],
+    [
+     1576.6,
+     13000
+    ],
+    [
+     1577.7,
+     14000
+    ],
+    [
+     1581.4,
+     34000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 7.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 5,
+   "side": "L",
+   "t0": 1602.5,
+   "t1": 1602.5,
+   "damage": 6000,
+   "hits": 1,
+   "steps": [
+    [
+     1602.5,
+     6000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 5,
+   "side": "L",
+   "t0": 1604.6,
+   "t1": 1621.8,
+   "damage": 61880,
+   "hits": 13,
+   "steps": [
+    [
+     1604.6,
+     11200
+    ],
+    [
+     1605.2,
+     15200
+    ],
+    [
+     1605.5,
+     19200
+    ],
+    [
+     1605.7,
+     23200
+    ],
+    [
+     1605.9,
+     25180
+    ],
+    [
+     1606.7,
+     27580
+    ],
+    [
+     1608.4,
+     30380
+    ],
+    [
+     1612.0,
+     32130
+    ],
+    [
+     1612.6,
+     33880
+    ],
+    [
+     1613.1,
+     35630
+    ],
+    [
+     1613.7,
+     37730
+    ],
+    [
+     1614.6,
+     39480
+    ],
+    [
+     1621.8,
+     61880
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 17.2,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 5,
+   "side": "L",
+   "t0": 1626.4,
+   "t1": 1626.6,
+   "damage": 3000,
+   "hits": 2,
+   "steps": [
+    [
+     1626.4,
+     2000
+    ],
+    [
+     1626.6,
+     3000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.2,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 6,
+   "side": "R",
+   "t0": 1712.5,
+   "t1": 1714.9,
+   "damage": 22400,
+   "hits": 8,
+   "steps": [
+    [
+     1712.5,
+     8000
+    ],
+    [
+     1712.8,
+     14400
+    ],
+    [
+     1713.7,
+     15900
+    ],
+    [
+     1713.8,
+     17400
+    ],
+    [
+     1714.0,
+     19200
+    ],
+    [
+     1714.5,
+     20800
+    ],
+    [
+     1714.6,
+     21600
+    ],
+    [
+     1714.9,
+     22400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.4,
+   "character": "Magik"
+  },
+  {
+   "segment": 6,
+   "side": "L",
+   "t0": 1716.2,
+   "t1": 1716.2,
+   "damage": 4000,
+   "hits": 1,
+   "steps": [
+    [
+     1716.2,
+     4000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 6,
+   "side": "R",
+   "t0": 1716.6,
+   "t1": 1717.0,
+   "damage": 11800,
+   "hits": 2,
+   "steps": [
+    [
+     1716.6,
+     7000
+    ],
+    [
+     1717.0,
+     11800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.4,
+   "character": "Magik"
+  },
+  {
+   "segment": 6,
+   "side": "L",
+   "t0": 1720.1,
+   "t1": 1721.2,
+   "damage": 8000,
+   "hits": 3,
+   "steps": [
+    [
+     1720.1,
+     2000
+    ],
+    [
+     1721.1,
+     5000
+    ],
+    [
+     1721.2,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.1,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 6,
+   "side": "L",
+   "t0": 1724.7,
+   "t1": 1727.8,
+   "damage": 12500,
+   "hits": 3,
+   "steps": [
+    [
+     1724.7,
+     1000
+    ],
+    [
+     1727.7,
+     8000
+    ],
+    [
+     1727.8,
+     12500
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 3.1,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 6,
+   "side": "R",
+   "t0": 1729.2,
+   "t1": 1730.3,
+   "damage": 15800,
+   "hits": 4,
+   "steps": [
+    [
+     1729.2,
+     7000
+    ],
+    [
+     1729.5,
+     11800
+    ],
+    [
+     1730.1,
+     14200
+    ],
+    [
+     1730.3,
+     15800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 6,
+   "side": "L",
+   "t0": 1732.3,
+   "t1": 1733.4,
+   "damage": 19800,
+   "hits": 4,
+   "steps": [
+    [
+     1732.3,
+     8000
+    ],
+    [
+     1732.6,
+     14400
+    ],
+    [
+     1733.3,
+     16200
+    ],
+    [
+     1733.4,
+     19800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.1,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 6,
+   "side": "L",
+   "t0": 1734.9,
+   "t1": 1737.1,
+   "damage": 26000,
+   "hits": 6,
+   "steps": [
+    [
+     1734.9,
+     10000
+    ],
+    [
+     1735.3,
+     16400
+    ],
+    [
+     1736.0,
+     19400
+    ],
+    [
+     1736.1,
+     22400
+    ],
+    [
+     1737.0,
+     23600
+    ],
+    [
+     1737.1,
+     26000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.2,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 6,
+   "side": "R",
+   "t0": 1741.6,
+   "t1": 1741.9,
+   "damage": 14400,
+   "hits": 2,
+   "steps": [
+    [
+     1741.6,
+     8000
+    ],
+    [
+     1741.9,
+     14400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 7,
+   "side": "L",
+   "t0": 1759.1,
+   "t1": 1759.1,
+   "damage": 10000,
+   "hits": 1,
+   "steps": [
+    [
+     1759.1,
+     10000
+    ]
+   ],
+   "first_hit_inferred": true,
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 7,
+   "side": "R",
+   "t0": 1763.8,
+   "t1": 1765.3,
+   "damage": 16000,
+   "hits": 6,
+   "steps": [
+    [
+     1763.8,
+     4000
+    ],
+    [
+     1764.1,
+     8800
+    ],
+    [
+     1764.4,
+     12400
+    ],
+    [
+     1764.7,
+     14800
+    ],
+    [
+     1765.2,
+     15600
+    ],
+    [
+     1765.3,
+     16000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.5,
+   "character": "Magik"
+  },
+  {
+   "segment": 7,
+   "side": "L",
+   "t0": 1766.8,
+   "t1": 1771.1,
+   "damage": 29800,
+   "hits": 6,
+   "steps": [
+    [
+     1766.8,
+     8000
+    ],
+    [
+     1767.2,
+     14400
+    ],
+    [
+     1767.9,
+     18000
+    ],
+    [
+     1768.0,
+     19800
+    ],
+    [
+     1770.1,
+     22300
+    ],
+    [
+     1771.1,
+     29800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 4.3,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 7,
+   "side": "R",
+   "t0": 1774.0,
+   "t1": 1774.1,
+   "damage": 9000,
+   "hits": 2,
+   "steps": [
+    [
+     1774.0,
+     5600
+    ],
+    [
+     1774.1,
+     9000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 7,
+   "side": "R",
+   "t0": 1775.9,
+   "t1": 1778.4,
+   "damage": 22400,
+   "hits": 8,
+   "steps": [
+    [
+     1775.9,
+     8000
+    ],
+    [
+     1776.3,
+     14400
+    ],
+    [
+     1777.2,
+     17400
+    ],
+    [
+     1777.5,
+     19200
+    ],
+    [
+     1777.9,
+     20000
+    ],
+    [
+     1778.0,
+     20800
+    ],
+    [
+     1778.1,
+     21600
+    ],
+    [
+     1778.4,
+     22400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.5,
+   "character": "Magik"
+  },
+  {
+   "segment": 7,
+   "side": "R",
+   "t0": 1779.7,
+   "t1": 1779.7,
+   "damage": 8000,
+   "hits": 1,
+   "steps": [
+    [
+     1779.7,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 7,
+   "side": "L",
+   "t0": 1781.8,
+   "t1": 1782.5,
+   "damage": 10000,
+   "hits": 2,
+   "steps": [
+    [
+     1781.8,
+     4000
+    ],
+    [
+     1782.5,
+     10000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.7,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 7,
+   "side": "L",
+   "t0": 1783.8,
+   "t1": 1783.9,
+   "damage": 8000,
+   "hits": 2,
+   "steps": [
+    [
+     1783.8,
+     2000
+    ],
+    [
+     1783.9,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 7,
+   "side": "R",
+   "t0": 1786.6,
+   "t1": 1786.8,
+   "damage": 7300,
+   "hits": 3,
+   "steps": [
+    [
+     1786.6,
+     2300
+    ],
+    [
+     1786.7,
+     3950
+    ],
+    [
+     1786.8,
+     7300
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.2,
+   "character": "Magik"
+  },
+  {
+   "segment": 7,
+   "side": "R",
+   "t0": 1794.8,
+   "t1": 1794.9,
+   "damage": 9000,
+   "hits": 2,
+   "steps": [
+    [
+     1794.8,
+     2300
+    ],
+    [
+     1794.9,
+     9000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 8,
+   "side": "R",
+   "t0": 1818.3,
+   "t1": 1820.2,
+   "damage": 21600,
+   "hits": 5,
+   "steps": [
+    [
+     1818.3,
+     8000
+    ],
+    [
+     1818.6,
+     14400
+    ],
+    [
+     1819.5,
+     15900
+    ],
+    [
+     1819.8,
+     19200
+    ],
+    [
+     1820.2,
+     21600
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.9,
+   "character": "Magik"
+  },
+  {
+   "segment": 8,
+   "side": "R",
+   "t0": 1822.3,
+   "t1": 1824.8,
+   "damage": 20800,
+   "hits": 5,
+   "steps": [
+    [
+     1822.3,
+     8000
+    ],
+    [
+     1822.7,
+     14400
+    ],
+    [
+     1823.6,
+     17400
+    ],
+    [
+     1823.7,
+     19200
+    ],
+    [
+     1824.8,
+     20800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.5,
+   "character": "Magik"
+  },
+  {
+   "segment": 8,
+   "side": "L",
+   "t0": 1828.6,
+   "t1": 1829.4,
+   "damage": 10000,
+   "hits": 2,
+   "steps": [
+    [
+     1828.6,
+     4000
+    ],
+    [
+     1829.4,
+     10000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.8,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 8,
+   "side": "R",
+   "t0": 1830.8,
+   "t1": 1832.4,
+   "damage": 25000,
+   "hits": 6,
+   "steps": [
+    [
+     1830.8,
+     6500
+    ],
+    [
+     1831.1,
+     13700
+    ],
+    [
+     1831.5,
+     19100
+    ],
+    [
+     1831.8,
+     23000
+    ],
+    [
+     1832.2,
+     24200
+    ],
+    [
+     1832.4,
+     25000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.6,
+   "character": "Magik"
+  },
+  {
+   "segment": 8,
+   "side": "R",
+   "t0": 1833.9,
+   "t1": 1834.6,
+   "damage": 12400,
+   "hits": 3,
+   "steps": [
+    [
+     1833.9,
+     4000
+    ],
+    [
+     1834.3,
+     8800
+    ],
+    [
+     1834.6,
+     12400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.7,
+   "character": "Magik"
+  },
+  {
+   "segment": 8,
+   "side": "L",
+   "t0": 1836.4,
+   "t1": 1852.7,
+   "damage": 51300,
+   "hits": 11,
+   "steps": [
+    [
+     1836.4,
+     8000
+    ],
+    [
+     1836.8,
+     14400
+    ],
+    [
+     1837.5,
+     18000
+    ],
+    [
+     1837.6,
+     19800
+    ],
+    [
+     1839.3,
+     21200
+    ],
+    [
+     1842.9,
+     22950
+    ],
+    [
+     1843.5,
+     24700
+    ],
+    [
+     1844.0,
+     26450
+    ],
+    [
+     1844.7,
+     28550
+    ],
+    [
+     1845.5,
+     30300
+    ],
+    [
+     1852.7,
+     51300
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 16.3,
+   "character": "Doctor Doom"
+  },
+  {
+   "segment": 8,
+   "side": "R",
+   "t0": 1856.8,
+   "t1": 1856.9,
+   "damage": 9000,
+   "hits": 2,
+   "steps": [
+    [
+     1856.8,
+     5600
+    ],
+    [
+     1856.9,
+     9000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 9,
+   "side": "L",
+   "t0": 1897.8,
+   "t1": 1903.1,
+   "damage": 25580,
+   "hits": 10,
+   "steps": [
+    [
+     1897.8,
+     15600
+    ],
+    [
+     1898.1,
+     16380
+    ],
+    [
+     1898.4,
+     17940
+    ],
+    [
+     1899.2,
+     18940
+    ],
+    [
+     1900.2,
+     20240
+    ],
+    [
+     1900.5,
+     21800
+    ],
+    [
+     1901.0,
+     22610
+    ],
+    [
+     1901.4,
+     23150
+    ],
+    [
+     1901.8,
+     24230
+    ],
+    [
+     1903.1,
+     25580
+    ]
+   ],
+   "first_hit_inferred": true,
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 5.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 9,
+   "side": "L",
+   "t0": 1909.0,
+   "t1": 1909.6,
+   "damage": 10500,
+   "hits": 3,
+   "steps": [
+    [
+     1909.0,
+     4000
+    ],
+    [
+     1909.2,
+     7200
+    ],
+    [
+     1909.6,
+     10500
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.6,
+   "character": "Magik"
+  },
+  {
+   "segment": 9,
+   "side": "L",
+   "t0": 1916.3,
+   "t1": 1916.9,
+   "damage": 14800,
+   "hits": 2,
+   "steps": [
+    [
+     1916.3,
+     10000
+    ],
+    [
+     1916.9,
+     14800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.6,
+   "character": "Magik"
+  },
+  {
+   "segment": 9,
+   "side": "L",
+   "t0": 1922.6,
+   "t1": 1925.7,
+   "damage": 22700,
+   "hits": 7,
+   "steps": [
+    [
+     1922.6,
+     6000
+    ],
+    [
+     1922.9,
+     8000
+    ],
+    [
+     1923.4,
+     12000
+    ],
+    [
+     1924.4,
+     16000
+    ],
+    [
+     1924.8,
+     19300
+    ],
+    [
+     1925.1,
+     21500
+    ],
+    [
+     1925.7,
+     22700
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 3.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 10,
+   "side": "R",
+   "t0": 1943.3,
+   "t1": 1945.7,
+   "damage": 26000,
+   "hits": 5,
+   "steps": [
+    [
+     1943.3,
+     4000
+    ],
+    [
+     1943.4,
+     10000
+    ],
+    [
+     1944.3,
+     18000
+    ],
+    [
+     1944.9,
+     21600
+    ],
+    [
+     1945.7,
+     26000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.4,
+   "character": "Captain America"
+  },
+  {
+   "segment": 10,
+   "side": "R",
+   "t0": 1947.5,
+   "t1": 1948.8,
+   "damage": 17900,
+   "hits": 5,
+   "steps": [
+    [
+     1947.5,
+     5500
+    ],
+    [
+     1947.9,
+     10300
+    ],
+    [
+     1948.2,
+     13900
+    ],
+    [
+     1948.6,
+     15500
+    ],
+    [
+     1948.8,
+     17900
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.3,
+   "character": "Captain America"
+  },
+  {
+   "segment": 10,
+   "side": "L",
+   "t0": 1950.8,
+   "t1": 1950.8,
+   "damage": 4000,
+   "hits": 1,
+   "steps": [
+    [
+     1950.8,
+     4000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 10,
+   "side": "L",
+   "t0": 1953.0,
+   "t1": 1959.4,
+   "damage": 25550,
+   "hits": 13,
+   "steps": [
+    [
+     1953.0,
+     7000
+    ],
+    [
+     1953.5,
+     9400
+    ],
+    [
+     1953.8,
+     11000
+    ],
+    [
+     1954.3,
+     14200
+    ],
+    [
+     1955.3,
+     17200
+    ],
+    [
+     1955.7,
+     19400
+    ],
+    [
+     1956.0,
+     20500
+    ],
+    [
+     1956.6,
+     21100
+    ],
+    [
+     1957.1,
+     22660
+    ],
+    [
+     1957.6,
+     23440
+    ],
+    [
+     1957.9,
+     23960
+    ],
+    [
+     1958.5,
+     25000
+    ],
+    [
+     1959.4,
+     25550
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 6.4,
+   "character": "Magik"
+  },
+  {
+   "segment": 10,
+   "side": "R",
+   "t0": 1960.4,
+   "t1": 1960.4,
+   "damage": 5500,
+   "hits": 1,
+   "steps": [
+    [
+     1960.4,
+     5500
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Captain America"
+  },
+  {
+   "segment": 10,
+   "side": "R",
+   "t0": 1963.6,
+   "t1": 1967.0,
+   "damage": 26490,
+   "hits": 8,
+   "steps": [
+    [
+     1963.6,
+     8000
+    ],
+    [
+     1964.0,
+     14400
+    ],
+    [
+     1964.6,
+     16800
+    ],
+    [
+     1964.9,
+     20400
+    ],
+    [
+     1965.0,
+     22800
+    ],
+    [
+     1965.6,
+     25230
+    ],
+    [
+     1966.7,
+     25830
+    ],
+    [
+     1967.0,
+     26490
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 3.4,
+   "character": "Captain America"
+  },
+  {
+   "segment": 10,
+   "side": "L",
+   "t0": 1969.8,
+   "t1": 1976.4,
+   "damage": 28300,
+   "hits": 14,
+   "steps": [
+    [
+     1969.8,
+     6000
+    ],
+    [
+     1970.1,
+     8000
+    ],
+    [
+     1970.6,
+     12000
+    ],
+    [
+     1971.6,
+     16000
+    ],
+    [
+     1971.9,
+     19300
+    ],
+    [
+     1972.3,
+     21500
+    ],
+    [
+     1972.8,
+     22700
+    ],
+    [
+     1973.4,
+     24200
+    ],
+    [
+     1973.9,
+     24980
+    ],
+    [
+     1974.2,
+     25500
+    ],
+    [
+     1974.7,
+     26540
+    ],
+    [
+     1975.7,
+     27090
+    ],
+    [
+     1976.1,
+     27695
+    ],
+    [
+     1976.4,
+     28300
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 6.6,
+   "character": "Magik"
+  },
+  {
+   "segment": 10,
+   "side": "L",
+   "t0": 1981.9,
+   "t1": 1983.2,
+   "damage": 19800,
+   "hits": 4,
+   "steps": [
+    [
+     1981.9,
+     8000
+    ],
+    [
+     1982.2,
+     14400
+    ],
+    [
+     1982.8,
+     16200
+    ],
+    [
+     1983.2,
+     19800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 11,
+   "side": "L",
+   "t0": 2002.5,
+   "t1": 2002.8,
+   "damage": 14400,
+   "hits": 2,
+   "steps": [
+    [
+     2002.5,
+     8000
+    ],
+    [
+     2002.8,
+     14400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 11,
+   "side": "R",
+   "t0": 2005.2,
+   "t1": 2005.2,
+   "damage": 10000,
+   "hits": 1,
+   "steps": [
+    [
+     2005.2,
+     10000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Captain America"
+  },
+  {
+   "segment": 11,
+   "side": "L",
+   "t0": 2006.6,
+   "t1": 2008.3,
+   "damage": 17000,
+   "hits": 3,
+   "steps": [
+    [
+     2006.6,
+     6000
+    ],
+    [
+     2007.4,
+     7000
+    ],
+    [
+     2008.3,
+     17000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.7,
+   "character": "Magik"
+  },
+  {
+   "segment": 11,
+   "side": "R",
+   "t0": 2012.9,
+   "t1": 2018.8,
+   "damage": 30090,
+   "hits": 6,
+   "steps": [
+    [
+     2012.9,
+     3500
+    ],
+    [
+     2013.0,
+     8000
+    ],
+    [
+     2017.5,
+     15200
+    ],
+    [
+     2017.8,
+     21950
+    ],
+    [
+     2018.3,
+     28290
+    ],
+    [
+     2018.8,
+     30090
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 5.9,
+   "character": "Captain America"
+  },
+  {
+   "segment": 11,
+   "side": "L",
+   "t0": 2014.8,
+   "t1": 2021.7,
+   "damage": 12800,
+   "hits": 2,
+   "steps": [
+    [
+     2014.8,
+     8000
+    ],
+    [
+     2021.7,
+     12800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 6.9,
+   "character": "Magik"
+  },
+  {
+   "segment": 11,
+   "side": "R",
+   "t0": 2027.0,
+   "t1": 2027.1,
+   "damage": 10000,
+   "hits": 2,
+   "steps": [
+    [
+     2027.0,
+     4000
+    ],
+    [
+     2027.1,
+     10000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Captain America"
+  },
+  {
+   "segment": 12,
+   "side": "L",
+   "t0": 2043.2,
+   "t1": 2043.2,
+   "damage": 16000,
+   "hits": 1,
+   "steps": [
+    [
+     2043.2,
+     16000
+    ]
+   ],
+   "first_hit_inferred": true,
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 12,
+   "side": "R",
+   "t0": 2044.3,
+   "t1": 2044.3,
+   "damage": 8000,
+   "hits": 1,
+   "steps": [
+    [
+     2044.3,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Captain America"
+  },
+  {
+   "segment": 12,
+   "side": "L",
+   "t0": 2045.4,
+   "t1": 2045.4,
+   "damage": 9000,
+   "hits": 1,
+   "steps": [
+    [
+     2045.4,
+     9000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 12,
+   "side": "L",
+   "t0": 2052.6,
+   "t1": 2053.0,
+   "damage": 12800,
+   "hits": 3,
+   "steps": [
+    [
+     2052.6,
+     5000
+    ],
+    [
+     2052.8,
+     8000
+    ],
+    [
+     2053.0,
+     12800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.4,
+   "character": "Magik"
+  },
+  {
+   "segment": 12,
+   "side": "L",
+   "t0": 2056.8,
+   "t1": 2057.0,
+   "damage": 8000,
+   "hits": 2,
+   "steps": [
+    [
+     2056.8,
+     5000
+    ],
+    [
+     2057.0,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.2,
+   "character": "Magik"
+  },
+  {
+   "segment": 12,
+   "side": "L",
+   "t0": 2060.8,
+   "t1": 2060.9,
+   "damage": 8000,
+   "hits": 2,
+   "steps": [
+    [
+     2060.8,
+     5000
+    ],
+    [
+     2060.9,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 12,
+   "side": "L",
+   "t0": 2062.7,
+   "t1": 2074.8,
+   "damage": 17200,
+   "hits": 5,
+   "steps": [
+    [
+     2062.7,
+     7000
+    ],
+    [
+     2073.0,
+     9400
+    ],
+    [
+     2073.4,
+     11000
+    ],
+    [
+     2073.8,
+     14200
+    ],
+    [
+     2074.8,
+     17200
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 12.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 12,
+   "side": "R",
+   "t0": 2079.1,
+   "t1": 2079.1,
+   "damage": 2000,
+   "hits": 1,
+   "steps": [
+    [
+     2079.1,
+     2000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Captain America"
+  },
+  {
+   "segment": 12,
+   "side": "R",
+   "t0": 2081.0,
+   "t1": 2081.9,
+   "damage": 16100,
+   "hits": 4,
+   "steps": [
+    [
+     2081.0,
+     5500
+    ],
+    [
+     2081.3,
+     9500
+    ],
+    [
+     2081.6,
+     13100
+    ],
+    [
+     2081.9,
+     16100
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.9,
+   "character": "Captain America"
+  },
+  {
+   "segment": 12,
+   "side": "R",
+   "t0": 2083.8,
+   "t1": 2084.1,
+   "damage": 7800,
+   "hits": 2,
+   "steps": [
+    [
+     2083.8,
+     3000
+    ],
+    [
+     2084.1,
+     7800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.3,
+   "character": "Captain America"
+  },
+  {
+   "segment": 12,
+   "side": "R",
+   "t0": 2085.7,
+   "t1": 2085.7,
+   "damage": 6000,
+   "hits": 1,
+   "steps": [
+    [
+     2085.7,
+     6000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Captain America"
+  },
+  {
+   "segment": 13,
+   "side": "L",
+   "t0": 2167.5,
+   "t1": 2167.5,
+   "damage": 10000,
+   "hits": 1,
+   "steps": [
+    [
+     2167.5,
+     10000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 13,
+   "side": "R",
+   "t0": 2167.5,
+   "t1": 2170.5,
+   "damage": 24000,
+   "hits": 7,
+   "steps": [
+    [
+     2167.5,
+     6000
+    ],
+    [
+     2167.8,
+     8000
+    ],
+    [
+     2168.2,
+     12000
+    ],
+    [
+     2169.7,
+     18000
+    ],
+    [
+     2169.9,
+     21000
+    ],
+    [
+     2170.2,
+     23200
+    ],
+    [
+     2170.5,
+     24000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 3.0,
+   "character": "Storm"
+  },
+  {
+   "segment": 13,
+   "side": "L",
+   "t0": 2175.7,
+   "t1": 2175.7,
+   "damage": 8000,
+   "hits": 1,
+   "steps": [
+    [
+     2175.7,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 13,
+   "side": "R",
+   "t0": 2185.6,
+   "t1": 2185.6,
+   "damage": 7000,
+   "hits": 1,
+   "steps": [
+    [
+     2185.6,
+     7000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Storm"
+  },
+  {
+   "segment": 13,
+   "side": "R",
+   "t0": 2190.0,
+   "t1": 2190.0,
+   "damage": 8000,
+   "hits": 1,
+   "steps": [
+    [
+     2190.0,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Storm"
+  },
+  {
+   "segment": 13,
+   "side": "R",
+   "t0": 2198.2,
+   "t1": 2198.4,
+   "damage": 7750,
+   "hits": 3,
+   "steps": [
+    [
+     2198.2,
+     3250
+    ],
+    [
+     2198.3,
+     5500
+    ],
+    [
+     2198.4,
+     7750
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.2,
+   "character": "Storm"
+  },
+  {
+   "segment": 13,
+   "side": "L",
+   "t0": 2204.1,
+   "t1": 2204.5,
+   "damage": 16400,
+   "hits": 2,
+   "steps": [
+    [
+     2204.1,
+     10000
+    ],
+    [
+     2204.5,
+     16400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.4,
+   "character": "Magik"
+  },
+  {
+   "segment": 13,
+   "side": "R",
+   "t0": 2206.6,
+   "t1": 2206.6,
+   "damage": 4000,
+   "hits": 1,
+   "steps": [
+    [
+     2206.6,
+     4000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Storm"
+  },
+  {
+   "segment": 13,
+   "side": "R",
+   "t0": 2214.9,
+   "t1": 2215.2,
+   "damage": 7800,
+   "hits": 2,
+   "steps": [
+    [
+     2214.9,
+     3000
+    ],
+    [
+     2215.2,
+     7800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.3,
+   "character": "Storm"
+  },
+  {
+   "segment": 13,
+   "side": "L",
+   "t0": 2220.6,
+   "t1": 2220.6,
+   "damage": 8000,
+   "hits": 1,
+   "steps": [
+    [
+     2220.6,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 13,
+   "side": "R",
+   "t0": 2222.5,
+   "t1": 2222.5,
+   "damage": 5500,
+   "hits": 1,
+   "steps": [
+    [
+     2222.5,
+     5500
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Storm"
+  },
+  {
+   "segment": 13,
+   "side": "R",
+   "t0": 2236.3,
+   "t1": 2236.7,
+   "damage": 12000,
+   "hits": 3,
+   "steps": [
+    [
+     2236.3,
+     8000
+    ],
+    [
+     2236.6,
+     10000
+    ],
+    [
+     2236.7,
+     12000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.4,
+   "character": "Storm"
+  },
+  {
+   "segment": 14,
+   "side": "L",
+   "t0": 2262.7,
+   "t1": 2264.0,
+   "damage": 10000,
+   "hits": 3,
+   "steps": [
+    [
+     2262.7,
+     5000
+    ],
+    [
+     2262.8,
+     9000
+    ],
+    [
+     2264.0,
+     10000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 14,
+   "side": "L",
+   "t0": 2274.8,
+   "t1": 2274.8,
+   "damage": 8000,
+   "hits": 1,
+   "steps": [
+    [
+     2274.8,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 14,
+   "side": "L",
+   "t0": 2284.1,
+   "t1": 2284.1,
+   "damage": 5500,
+   "hits": 1,
+   "steps": [
+    [
+     2284.1,
+     5500
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 14,
+   "side": "L",
+   "t0": 2285.0,
+   "t1": 2289.2,
+   "damage": 19200,
+   "hits": 5,
+   "steps": [
+    [
+     2285.0,
+     8000
+    ],
+    [
+     2288.1,
+     14400
+    ],
+    [
+     2289.0,
+     15900
+    ],
+    [
+     2289.1,
+     17400
+    ],
+    [
+     2289.2,
+     19200
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 4.2,
+   "character": "Magik"
+  },
+  {
+   "segment": 14,
+   "side": "R",
+   "t0": 2285.0,
+   "t1": 2285.0,
+   "damage": 3000,
+   "hits": 1,
+   "steps": [
+    [
+     2285.0,
+     3000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 14,
+   "side": "R",
+   "t0": 2292.4,
+   "t1": 2294.9,
+   "damage": 21750,
+   "hits": 7,
+   "steps": [
+    [
+     2292.4,
+     7000
+    ],
+    [
+     2292.8,
+     13000
+    ],
+    [
+     2293.2,
+     17500
+    ],
+    [
+     2293.7,
+     19500
+    ],
+    [
+     2294.0,
+     20600
+    ],
+    [
+     2294.4,
+     21150
+    ],
+    [
+     2294.9,
+     21750
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.5,
+   "character": "Magik"
+  },
+  {
+   "segment": 14,
+   "side": "R",
+   "t0": 2299.0,
+   "t1": 2299.1,
+   "damage": 10000,
+   "hits": 2,
+   "steps": [
+    [
+     2299.0,
+     4500
+    ],
+    [
+     2299.1,
+     10000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 14,
+   "side": "R",
+   "t0": 2299.7,
+   "t1": 2300.0,
+   "damage": 14400,
+   "hits": 2,
+   "steps": [
+    [
+     2299.7,
+     8000
+    ],
+    [
+     2300.0,
+     14400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 14,
+   "side": "R",
+   "t0": 2302.1,
+   "t1": 2302.1,
+   "damage": 6000,
+   "hits": 1,
+   "steps": [
+    [
+     2302.1,
+     6000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 14,
+   "side": "R",
+   "t0": 2306.4,
+   "t1": 2306.4,
+   "damage": 8000,
+   "hits": 1,
+   "steps": [
+    [
+     2306.4,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 14,
+   "side": "R",
+   "t0": 2309.3,
+   "t1": 2309.4,
+   "damage": 8000,
+   "hits": 2,
+   "steps": [
+    [
+     2309.3,
+     5000
+    ],
+    [
+     2309.4,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 14,
+   "side": "L",
+   "t0": 2311.3,
+   "t1": 2311.4,
+   "damage": 12350,
+   "hits": 2,
+   "steps": [
+    [
+     2311.3,
+     2300
+    ],
+    [
+     2311.4,
+     12350
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 14,
+   "side": "L",
+   "t0": 2314.8,
+   "t1": 2314.8,
+   "damage": 8000,
+   "hits": 1,
+   "steps": [
+    [
+     2314.8,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 15,
+   "side": "L",
+   "t0": 2335.9,
+   "t1": 2336.5,
+   "damage": 17600,
+   "hits": 3,
+   "steps": [
+    [
+     2335.9,
+     8000
+    ],
+    [
+     2336.2,
+     12800
+    ],
+    [
+     2336.5,
+     17600
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.6,
+   "character": "Magik"
+  },
+  {
+   "segment": 15,
+   "side": "R",
+   "t0": 2346.5,
+   "t1": 2346.9,
+   "damage": 14000,
+   "hits": 2,
+   "steps": [
+    [
+     2346.5,
+     8000
+    ],
+    [
+     2346.9,
+     14000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.4,
+   "character": "Storm"
+  },
+  {
+   "segment": 15,
+   "side": "R",
+   "t0": 2349.3,
+   "t1": 2349.8,
+   "damage": 14000,
+   "hits": 2,
+   "steps": [
+    [
+     2349.3,
+     8000
+    ],
+    [
+     2349.8,
+     14000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.5,
+   "character": "Storm"
+  },
+  {
+   "segment": 15,
+   "side": "L",
+   "t0": 2352.8,
+   "t1": 2355.3,
+   "damage": 21900,
+   "hits": 6,
+   "steps": [
+    [
+     2352.8,
+     9000
+    ],
+    [
+     2354.1,
+     12200
+    ],
+    [
+     2354.4,
+     15200
+    ],
+    [
+     2354.6,
+     16800
+    ],
+    [
+     2354.9,
+     17900
+    ],
+    [
+     2355.3,
+     21900
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.5,
+   "character": "Magik"
+  },
+  {
+   "segment": 15,
+   "side": "L",
+   "t0": 2361.0,
+   "t1": 2361.0,
+   "damage": 8000,
+   "hits": 1,
+   "steps": [
+    [
+     2361.0,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 15,
+   "side": "R",
+   "t0": 2364.8,
+   "t1": 2370.8,
+   "damage": 26250,
+   "hits": 23,
+   "steps": [
+    [
+     2364.8,
+     7000
+    ],
+    [
+     2365.2,
+     9000
+    ],
+    [
+     2365.3,
+     11000
+    ],
+    [
+     2365.4,
+     13000
+    ],
+    [
+     2365.9,
+     15160
+    ],
+    [
+     2366.0,
+     16300
+    ],
+    [
+     2366.5,
+     18500
+    ],
+    [
+     2367.0,
+     19500
+    ],
+    [
+     2367.4,
+     19680
+    ],
+    [
+     2367.5,
+     19860
+    ],
+    [
+     2367.6,
+     20050
+    ],
+    [
+     2367.9,
+     20550
+    ],
+    [
+     2368.3,
+     20730
+    ],
+    [
+     2368.4,
+     20910
+    ],
+    [
+     2368.5,
+     21100
+    ],
+    [
+     2368.9,
+     21828
+    ],
+    [
+     2369.0,
+     22296
+    ],
+    [
+     2369.1,
+     22764
+    ],
+    [
+     2369.2,
+     23232
+    ],
+    [
+     2369.3,
+     23700
+    ],
+    [
+     2369.7,
+     24300
+    ],
+    [
+     2370.7,
+     24950
+    ],
+    [
+     2370.8,
+     26250
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 6.0,
+   "character": "Storm"
+  },
+  {
+   "segment": 15,
+   "side": "R",
+   "t0": 2372.7,
+   "t1": 2375.6,
+   "damage": 14600,
+   "hits": 6,
+   "steps": [
+    [
+     2372.7,
+     4000
+    ],
+    [
+     2374.8,
+     8000
+    ],
+    [
+     2375.1,
+     11600
+    ],
+    [
+     2375.4,
+     12600
+    ],
+    [
+     2375.5,
+     13600
+    ],
+    [
+     2375.6,
+     14600
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.9,
+   "character": "Storm"
+  },
+  {
+   "segment": 15,
+   "side": "L",
+   "t0": 2378.1,
+   "t1": 2378.6,
+   "damage": 10600,
+   "hits": 3,
+   "steps": [
+    [
+     2378.1,
+     3000
+    ],
+    [
+     2378.3,
+     7000
+    ],
+    [
+     2378.6,
+     10600
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.5,
+   "character": "Magik"
+  },
+  {
+   "segment": 15,
+   "side": "L",
+   "t0": 2382.3,
+   "t1": 2382.9,
+   "damage": 13800,
+   "hits": 4,
+   "steps": [
+    [
+     2382.3,
+     6000
+    ],
+    [
+     2382.6,
+     9000
+    ],
+    [
+     2382.8,
+     12200
+    ],
+    [
+     2382.9,
+     13800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.6,
+   "character": "Magik"
+  },
+  {
+   "segment": 15,
+   "side": "R",
+   "t0": 2386.4,
+   "t1": 2396.3,
+   "damage": 29238,
+   "hits": 19,
+   "steps": [
+    [
+     2386.4,
+     6000
+    ],
+    [
+     2386.9,
+     10000
+    ],
+    [
+     2387.1,
+     13600
+    ],
+    [
+     2387.5,
+     16600
+    ],
+    [
+     2388.0,
+     17600
+    ],
+    [
+     2388.4,
+     18150
+    ],
+    [
+     2388.7,
+     18700
+    ],
+    [
+     2389.3,
+     19300
+    ],
+    [
+     2390.1,
+     20080
+    ],
+    [
+     2390.2,
+     20600
+    ],
+    [
+     2390.3,
+     21640
+    ],
+    [
+     2390.9,
+     22517
+    ],
+    [
+     2391.0,
+     23731
+    ],
+    [
+     2391.1,
+     24338
+    ],
+    [
+     2392.2,
+     25738
+    ],
+    [
+     2396.0,
+     26613
+    ],
+    [
+     2396.1,
+     27488
+    ],
+    [
+     2396.2,
+     28363
+    ],
+    [
+     2396.3,
+     29238
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 9.9,
+   "character": "Storm"
+  },
+  {
+   "segment": 17,
+   "side": "L",
+   "t0": 2601.6,
+   "t1": 2610.9,
+   "damage": 34780,
+   "hits": 22,
+   "steps": [
+    [
+     2601.6,
+     8000
+    ],
+    [
+     2601.9,
+     9600
+    ],
+    [
+     2602.1,
+     14000
+    ],
+    [
+     2602.6,
+     16400
+    ],
+    [
+     2603.1,
+     18400
+    ],
+    [
+     2603.4,
+     18900
+    ],
+    [
+     2603.7,
+     20275
+    ],
+    [
+     2604.0,
+     21275
+    ],
+    [
+     2604.4,
+     21825
+    ],
+    [
+     2605.0,
+     22375
+    ],
+    [
+     2605.3,
+     22925
+    ],
+    [
+     2605.9,
+     23525
+    ],
+    [
+     2606.6,
+     24305
+    ],
+    [
+     2606.9,
+     26125
+    ],
+    [
+     2607.7,
+     27125
+    ],
+    [
+     2608.8,
+     28685
+    ],
+    [
+     2609.1,
+     29205
+    ],
+    [
+     2609.4,
+     30635
+    ],
+    [
+     2609.8,
+     32585
+    ],
+    [
+     2610.1,
+     33135
+    ],
+    [
+     2610.5,
+     33740
+    ],
+    [
+     2610.9,
+     34780
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 9.3,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 17,
+   "side": "L",
+   "t0": 2613.8,
+   "t1": 2622.6,
+   "damage": 32670,
+   "hits": 20,
+   "steps": [
+    [
+     2613.8,
+     6500
+    ],
+    [
+     2614.4,
+     11300
+    ],
+    [
+     2614.8,
+     14900
+    ],
+    [
+     2615.1,
+     15700
+    ],
+    [
+     2615.4,
+     17900
+    ],
+    [
+     2615.8,
+     19775
+    ],
+    [
+     2616.2,
+     20275
+    ],
+    [
+     2616.5,
+     20825
+    ],
+    [
+     2616.8,
+     21325
+    ],
+    [
+     2617.1,
+     23925
+    ],
+    [
+     2617.8,
+     24925
+    ],
+    [
+     2619.2,
+     25965
+    ],
+    [
+     2619.6,
+     26515
+    ],
+    [
+     2620.0,
+     27120
+    ],
+    [
+     2620.5,
+     27720
+    ],
+    [
+     2621.2,
+     28260
+    ],
+    [
+     2621.5,
+     30150
+    ],
+    [
+     2622.4,
+     31130
+    ],
+    [
+     2622.5,
+     31830
+    ],
+    [
+     2622.6,
+     32670
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 8.8,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 17,
+   "side": "L",
+   "t0": 2624.3,
+   "t1": 2624.9,
+   "damage": 10000,
+   "hits": 3,
+   "steps": [
+    [
+     2624.3,
+     4000
+    ],
+    [
+     2624.6,
+     8800
+    ],
+    [
+     2624.9,
+     10000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.6,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 18,
+   "side": "R",
+   "t0": 2638.4,
+   "t1": 2640.9,
+   "damage": 17150,
+   "hits": 8,
+   "steps": [
+    [
+     2638.4,
+     4000
+    ],
+    [
+     2638.8,
+     8800
+    ],
+    [
+     2639.1,
+     12400
+    ],
+    [
+     2639.4,
+     14800
+    ],
+    [
+     2639.8,
+     15600
+    ],
+    [
+     2640.0,
+     16000
+    ],
+    [
+     2640.3,
+     16550
+    ],
+    [
+     2640.9,
+     17150
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.5,
+   "character": "Magik"
+  },
+  {
+   "segment": 18,
+   "side": "R",
+   "t0": 2647.8,
+   "t1": 2650.2,
+   "damage": 22400,
+   "hits": 6,
+   "steps": [
+    [
+     2647.8,
+     8000
+    ],
+    [
+     2648.2,
+     14400
+    ],
+    [
+     2649.1,
+     17400
+    ],
+    [
+     2649.2,
+     19200
+    ],
+    [
+     2649.9,
+     21600
+    ],
+    [
+     2650.2,
+     22400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.4,
+   "character": "Magik"
+  },
+  {
+   "segment": 18,
+   "side": "L",
+   "t0": 2651.4,
+   "t1": 2651.4,
+   "damage": 5500,
+   "hits": 1,
+   "steps": [
+    [
+     2651.4,
+     5500
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 18,
+   "side": "L",
+   "t0": 2655.0,
+   "t1": 2673.3,
+   "damage": 52070,
+   "hits": 31,
+   "steps": [
+    [
+     2655.0,
+     4000
+    ],
+    [
+     2655.4,
+     8400
+    ],
+    [
+     2655.9,
+     12000
+    ],
+    [
+     2656.4,
+     14400
+    ],
+    [
+     2656.8,
+     14900
+    ],
+    [
+     2657.0,
+     16275
+    ],
+    [
+     2657.4,
+     18150
+    ],
+    [
+     2657.9,
+     18650
+    ],
+    [
+     2658.2,
+     19200
+    ],
+    [
+     2658.5,
+     19700
+    ],
+    [
+     2658.8,
+     20250
+    ],
+    [
+     2659.2,
+     21250
+    ],
+    [
+     2659.7,
+     21750
+    ],
+    [
+     2660.0,
+     22300
+    ],
+    [
+     2660.6,
+     22900
+    ],
+    [
+     2661.5,
+     23420
+    ],
+    [
+     2661.8,
+     25240
+    ],
+    [
+     2662.8,
+     26185
+    ],
+    [
+     2662.9,
+     26860
+    ],
+    [
+     2663.0,
+     27670
+    ],
+    [
+     2663.4,
+     28270
+    ],
+    [
+     2664.0,
+     29110
+    ],
+    [
+     2664.3,
+     31070
+    ],
+    [
+     2667.3,
+     32470
+    ],
+    [
+     2668.0,
+     33520
+    ],
+    [
+     2668.4,
+     34570
+    ],
+    [
+     2668.7,
+     35620
+    ],
+    [
+     2668.9,
+     36670
+    ],
+    [
+     2669.0,
+     37720
+    ],
+    [
+     2669.3,
+     38770
+    ],
+    [
+     2673.3,
+     52070
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 18.3,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 18,
+   "side": "L",
+   "t0": 2676.3,
+   "t1": 2676.6,
+   "damage": 9600,
+   "hits": 2,
+   "steps": [
+    [
+     2676.3,
+     8000
+    ],
+    [
+     2676.6,
+     9600
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.3,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 18,
+   "side": "L",
+   "t0": 2677.3,
+   "t1": 2677.3,
+   "damage": 1,
+   "hits": 1,
+   "steps": [
+    [
+     2677.3,
+     1
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 19,
+   "side": "L",
+   "t0": 2687.7,
+   "t1": 2696.2,
+   "damage": 40227,
+   "hits": 21,
+   "steps": [
+    [
+     2687.7,
+     18400
+    ],
+    [
+     2688.2,
+     21400
+    ],
+    [
+     2688.6,
+     23275
+    ],
+    [
+     2689.2,
+     23587
+    ],
+    [
+     2689.3,
+     23899
+    ],
+    [
+     2689.5,
+     24211
+    ],
+    [
+     2689.6,
+     24523
+    ],
+    [
+     2689.8,
+     24835
+    ],
+    [
+     2689.9,
+     25147
+    ],
+    [
+     2690.3,
+     25407
+    ],
+    [
+     2690.7,
+     27227
+    ],
+    [
+     2692.3,
+     28787
+    ],
+    [
+     2692.7,
+     30737
+    ],
+    [
+     2693.1,
+     32687
+    ],
+    [
+     2693.5,
+     33237
+    ],
+    [
+     2693.8,
+     33842
+    ],
+    [
+     2694.3,
+     34442
+    ],
+    [
+     2694.8,
+     36002
+    ],
+    [
+     2695.2,
+     37952
+    ],
+    [
+     2695.6,
+     39902
+    ],
+    [
+     2696.2,
+     40227
+    ]
+   ],
+   "first_hit_inferred": true,
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 8.5,
+   "character": "Ghost Rider"
+  },
+  {
+   "segment": 19,
+   "side": "L",
+   "t0": 2698.3,
+   "t1": 2705.6,
+   "damage": 32055,
+   "hits": 18,
+   "steps": [
+    [
+     2698.3,
+     4000
+    ],
+    [
+     2698.6,
+     8800
+    ],
+    [
+     2699.0,
+     13300
+    ],
+    [
+     2699.4,
+     14500
+    ],
+    [
+     2699.6,
+     16700
+    ],
+    [
+     2700.0,
+     17900
+    ],
+    [
+     2700.7,
+     19460
+    ],
+    [
+     2701.1,
+     21410
+    ],
+    [
+     2701.5,
+     23360
+    ],
+    [
+     2702.0,
+     23910
+    ],
+    [
+     2702.3,
+     24515
+    ],
+    [
+     2702.7,
+     25065
+    ],
+    [
+     2703.0,
+     25670
+    ],
+    [
+     2703.6,
+     26270
+    ],
+    [
+     2704.3,
+     27830
+    ],
+    [
+     2704.6,
+     29780
+    ],
+    [
+     2705.0,
+     31730
+    ],
+    [
+     2705.6,
+     32055
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 7.3,
+   "character": "Ghost Rider"
+  },
+  {
+   "segment": 19,
+   "side": "L",
+   "t0": 2707.9,
+   "t1": 2708.3,
+   "damage": 10000,
+   "hits": 2,
+   "steps": [
+    [
+     2707.9,
+     6000
+    ],
+    [
+     2708.3,
+     10000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.4,
+   "character": "Ghost Rider"
+  },
+  {
+   "segment": 19,
+   "side": "R",
+   "t0": 2709.8,
+   "t1": 2711.1,
+   "damage": 16900,
+   "hits": 5,
+   "steps": [
+    [
+     2709.8,
+     7000
+    ],
+    [
+     2710.1,
+     11800
+    ],
+    [
+     2710.5,
+     14200
+    ],
+    [
+     2710.7,
+     15800
+    ],
+    [
+     2711.1,
+     16900
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 19,
+   "side": "R",
+   "t0": 2718.3,
+   "t1": 2720.8,
+   "damage": 25600,
+   "hits": 7,
+   "steps": [
+    [
+     2718.3,
+     9000
+    ],
+    [
+     2718.7,
+     16200
+    ],
+    [
+     2719.5,
+     17700
+    ],
+    [
+     2719.6,
+     19200
+    ],
+    [
+     2719.7,
+     22200
+    ],
+    [
+     2720.4,
+     24600
+    ],
+    [
+     2720.8,
+     25600
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.5,
+   "character": "Magik"
+  },
+  {
+   "segment": 19,
+   "side": "R",
+   "t0": 2724.9,
+   "t1": 2728.2,
+   "damage": 25265,
+   "hits": 9,
+   "steps": [
+    [
+     2724.9,
+     8000
+    ],
+    [
+     2725.4,
+     13600
+    ],
+    [
+     2725.7,
+     19000
+    ],
+    [
+     2726.6,
+     21000
+    ],
+    [
+     2726.7,
+     22000
+    ],
+    [
+     2726.8,
+     23000
+    ],
+    [
+     2727.7,
+     24000
+    ],
+    [
+     2727.9,
+     24550
+    ],
+    [
+     2728.2,
+     25265
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 3.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 19,
+   "side": "R",
+   "t0": 2729.8,
+   "t1": 2737.1,
+   "damage": 30955,
+   "hits": 19,
+   "steps": [
+    [
+     2729.8,
+     5000
+    ],
+    [
+     2730.1,
+     9000
+    ],
+    [
+     2730.8,
+     13000
+    ],
+    [
+     2730.9,
+     15400
+    ],
+    [
+     2731.6,
+     19600
+    ],
+    [
+     2732.0,
+     23200
+    ],
+    [
+     2732.8,
+     24100
+    ],
+    [
+     2732.9,
+     26800
+    ],
+    [
+     2733.2,
+     26955
+    ],
+    [
+     2734.6,
+     27355
+    ],
+    [
+     2735.2,
+     27755
+    ],
+    [
+     2735.5,
+     28155
+    ],
+    [
+     2735.9,
+     28555
+    ],
+    [
+     2736.4,
+     28955
+    ],
+    [
+     2736.6,
+     29355
+    ],
+    [
+     2736.7,
+     29555
+    ],
+    [
+     2736.8,
+     29755
+    ],
+    [
+     2736.9,
+     29955
+    ],
+    [
+     2737.1,
+     30955
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 7.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 20,
+   "side": "R",
+   "t0": 2754.1,
+   "t1": 2754.4,
+   "damage": 11800,
+   "hits": 2,
+   "steps": [
+    [
+     2754.1,
+     7000
+    ],
+    [
+     2754.4,
+     11800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 20,
+   "side": "L",
+   "t0": 2757.0,
+   "t1": 2766.8,
+   "damage": 37052,
+   "hits": 27,
+   "steps": [
+    [
+     2757.0,
+     8500
+    ],
+    [
+     2757.6,
+     13300
+    ],
+    [
+     2758.1,
+     16900
+    ],
+    [
+     2758.5,
+     19900
+    ],
+    [
+     2758.9,
+     21775
+    ],
+    [
+     2759.4,
+     22087
+    ],
+    [
+     2759.5,
+     22399
+    ],
+    [
+     2759.7,
+     22711
+    ],
+    [
+     2759.8,
+     23023
+    ],
+    [
+     2760.0,
+     23335
+    ],
+    [
+     2760.1,
+     23647
+    ],
+    [
+     2760.6,
+     23907
+    ],
+    [
+     2761.3,
+     25727
+    ],
+    [
+     2762.6,
+     27287
+    ],
+    [
+     2763.0,
+     29237
+    ],
+    [
+     2763.4,
+     31187
+    ],
+    [
+     2763.8,
+     31737
+    ],
+    [
+     2764.1,
+     32342
+    ],
+    [
+     2764.6,
+     32942
+    ],
+    [
+     2765.2,
+     33267
+    ],
+    [
+     2765.3,
+     33592
+    ],
+    [
+     2765.5,
+     33917
+    ],
+    [
+     2765.6,
+     34242
+    ],
+    [
+     2765.8,
+     34567
+    ],
+    [
+     2765.9,
+     34892
+    ],
+    [
+     2766.4,
+     35162
+    ],
+    [
+     2766.8,
+     37052
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 9.8,
+   "character": "Ghost Rider"
+  },
+  {
+   "segment": 20,
+   "side": "L",
+   "t0": 2769.5,
+   "t1": 2770.0,
+   "damage": 11600,
+   "hits": 2,
+   "steps": [
+    [
+     2769.5,
+     10000
+    ],
+    [
+     2770.0,
+     11600
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.5,
+   "character": "Ghost Rider"
+  },
+  {
+   "segment": 20,
+   "side": "L",
+   "t0": 2770.5,
+   "t1": 2786.6,
+   "damage": 50837,
+   "hits": 23,
+   "steps": [
+    [
+     2770.5,
+     8500
+    ],
+    [
+     2771.1,
+     13300
+    ],
+    [
+     2771.7,
+     16900
+    ],
+    [
+     2772.1,
+     19900
+    ],
+    [
+     2772.5,
+     21775
+    ],
+    [
+     2773.1,
+     22087
+    ],
+    [
+     2773.2,
+     22399
+    ],
+    [
+     2773.4,
+     22711
+    ],
+    [
+     2773.5,
+     23023
+    ],
+    [
+     2773.7,
+     23335
+    ],
+    [
+     2773.8,
+     23647
+    ],
+    [
+     2774.2,
+     23907
+    ],
+    [
+     2774.6,
+     25727
+    ],
+    [
+     2776.2,
+     26052
+    ],
+    [
+     2776.3,
+     26377
+    ],
+    [
+     2776.5,
+     26702
+    ],
+    [
+     2776.6,
+     27027
+    ],
+    [
+     2776.8,
+     27352
+    ],
+    [
+     2776.9,
+     27677
+    ],
+    [
+     2777.4,
+     27947
+    ],
+    [
+     2777.8,
+     29837
+    ],
+    [
+     2779.6,
+     31237
+    ],
+    [
+     2786.6,
+     50837
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 16.1,
+   "character": "Ghost Rider"
+  },
+  {
+   "segment": 20,
+   "side": "R",
+   "t0": 2792.1,
+   "t1": 2793.9,
+   "damage": 18300,
+   "hits": 5,
+   "steps": [
+    [
+     2792.1,
+     5500
+    ],
+    [
+     2792.5,
+     10300
+    ],
+    [
+     2792.9,
+     15100
+    ],
+    [
+     2793.8,
+     17100
+    ],
+    [
+     2793.9,
+     18300
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.8,
+   "character": "Magik"
+  },
+  {
+   "segment": 20,
+   "side": "R",
+   "t0": 2795.2,
+   "t1": 2795.6,
+   "damage": 8400,
+   "hits": 2,
+   "steps": [
+    [
+     2795.2,
+     4000
+    ],
+    [
+     2795.6,
+     8400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.4,
+   "character": "Magik"
+  },
+  {
+   "segment": 20,
+   "side": "R",
+   "t0": 2801.0,
+   "t1": 2807.0,
+   "damage": 31055,
+   "hits": 8,
+   "steps": [
+    [
+     2801.0,
+     8000
+    ],
+    [
+     2803.9,
+     14400
+    ],
+    [
+     2804.8,
+     19900
+    ],
+    [
+     2804.9,
+     22950
+    ],
+    [
+     2805.8,
+     26150
+    ],
+    [
+     2806.1,
+     28150
+    ],
+    [
+     2806.4,
+     29855
+    ],
+    [
+     2807.0,
+     31055
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 6.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 21,
+   "side": "R",
+   "t0": 2825.0,
+   "t1": 2826.7,
+   "damage": 19800,
+   "hits": 5,
+   "steps": [
+    [
+     2825.0,
+     7000
+    ],
+    [
+     2825.3,
+     11800
+    ],
+    [
+     2825.7,
+     16600
+    ],
+    [
+     2826.6,
+     17600
+    ],
+    [
+     2826.7,
+     19800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.7,
+   "character": "Magik"
+  },
+  {
+   "segment": 21,
+   "side": "R",
+   "t0": 2829.3,
+   "t1": 2831.6,
+   "damage": 19500,
+   "hits": 6,
+   "steps": [
+    [
+     2829.3,
+     5500
+    ],
+    [
+     2829.6,
+     10300
+    ],
+    [
+     2830.0,
+     15100
+    ],
+    [
+     2830.9,
+     17100
+    ],
+    [
+     2831.2,
+     18300
+    ],
+    [
+     2831.6,
+     19500
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 21,
+   "side": "L",
+   "t0": 2833.2,
+   "t1": 2833.2,
+   "damage": 10000,
+   "hits": 1,
+   "steps": [
+    [
+     2833.2,
+     10000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Star-Lord"
+  },
+  {
+   "segment": 21,
+   "side": "R",
+   "t0": 2833.2,
+   "t1": 2833.2,
+   "damage": 4000,
+   "hits": 1,
+   "steps": [
+    [
+     2833.2,
+     4000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 21,
+   "side": "L",
+   "t0": 2835.4,
+   "t1": 2843.3,
+   "damage": 37250,
+   "hits": 33,
+   "steps": [
+    [
+     2835.4,
+     8000
+    ],
+    [
+     2835.8,
+     10000
+    ],
+    [
+     2835.9,
+     12000
+    ],
+    [
+     2836.0,
+     14000
+    ],
+    [
+     2836.4,
+     15350
+    ],
+    [
+     2836.5,
+     16700
+    ],
+    [
+     2836.6,
+     18050
+    ],
+    [
+     2836.7,
+     19400
+    ],
+    [
+     2837.0,
+     21800
+    ],
+    [
+     2837.5,
+     23360
+    ],
+    [
+     2837.9,
+     24920
+    ],
+    [
+     2838.3,
+     25470
+    ],
+    [
+     2838.6,
+     25668
+    ],
+    [
+     2838.7,
+     25866
+    ],
+    [
+     2838.8,
+     26075
+    ],
+    [
+     2839.1,
+     26273
+    ],
+    [
+     2839.2,
+     26471
+    ],
+    [
+     2839.3,
+     26680
+    ],
+    [
+     2839.7,
+     29640
+    ],
+    [
+     2840.4,
+     29714
+    ],
+    [
+     2840.5,
+     29788
+    ],
+    [
+     2840.6,
+     29862
+    ],
+    [
+     2840.7,
+     29936
+    ],
+    [
+     2840.8,
+     30084
+    ],
+    [
+     2840.9,
+     30158
+    ],
+    [
+     2841.0,
+     30306
+    ],
+    [
+     2841.3,
+     30380
+    ],
+    [
+     2841.4,
+     30980
+    ],
+    [
+     2841.9,
+     32600
+    ],
+    [
+     2842.3,
+     33275
+    ],
+    [
+     2842.4,
+     34625
+    ],
+    [
+     2842.8,
+     36650
+    ],
+    [
+     2843.3,
+     37250
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 7.9,
+   "character": "Star-Lord"
+  },
+  {
+   "segment": 21,
+   "side": "L",
+   "t0": 2844.4,
+   "t1": 2850.2,
+   "damage": 26240,
+   "hits": 23,
+   "steps": [
+    [
+     2844.4,
+     4000
+    ],
+    [
+     2844.7,
+     8800
+    ],
+    [
+     2845.1,
+     13300
+    ],
+    [
+     2845.7,
+     15300
+    ],
+    [
+     2846.0,
+     15660
+    ],
+    [
+     2846.1,
+     15840
+    ],
+    [
+     2846.2,
+     16030
+    ],
+    [
+     2846.7,
+     18910
+    ],
+    [
+     2847.4,
+     18982
+    ],
+    [
+     2847.5,
+     19054
+    ],
+    [
+     2847.6,
+     19126
+    ],
+    [
+     2847.7,
+     19198
+    ],
+    [
+     2847.8,
+     19342
+    ],
+    [
+     2847.9,
+     19414
+    ],
+    [
+     2848.0,
+     19558
+    ],
+    [
+     2848.3,
+     19630
+    ],
+    [
+     2848.4,
+     20230
+    ],
+    [
+     2848.8,
+     21790
+    ],
+    [
+     2849.2,
+     22440
+    ],
+    [
+     2849.3,
+     23090
+    ],
+    [
+     2849.4,
+     23740
+    ],
+    [
+     2849.8,
+     25690
+    ],
+    [
+     2850.2,
+     26240
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 5.8,
+   "character": "Star-Lord"
+  },
+  {
+   "segment": 21,
+   "side": "L",
+   "t0": 2851.7,
+   "t1": 2851.7,
+   "damage": 4000,
+   "hits": 1,
+   "steps": [
+    [
+     2851.7,
+     4000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Star-Lord"
+  },
+  {
+   "segment": 22,
+   "side": "L",
+   "t0": 2934.6,
+   "t1": 2937.6,
+   "damage": 21450,
+   "hits": 8,
+   "steps": [
+    [
+     2934.6,
+     4500
+    ],
+    [
+     2934.8,
+     10000
+    ],
+    [
+     2935.3,
+     13200
+    ],
+    [
+     2935.7,
+     16200
+    ],
+    [
+     2936.1,
+     17000
+    ],
+    [
+     2936.4,
+     19200
+    ],
+    [
+     2936.7,
+     20200
+    ],
+    [
+     2937.6,
+     21450
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 3.0,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 22,
+   "side": "L",
+   "t0": 2939.0,
+   "t1": 2940.8,
+   "damage": 18400,
+   "hits": 6,
+   "steps": [
+    [
+     2939.0,
+     6000
+    ],
+    [
+     2939.5,
+     10800
+    ],
+    [
+     2939.8,
+     12000
+    ],
+    [
+     2940.0,
+     15300
+    ],
+    [
+     2940.5,
+     17300
+    ],
+    [
+     2940.8,
+     18400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.8,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 22,
+   "side": "R",
+   "t0": 2942.4,
+   "t1": 2943.9,
+   "damage": 19200,
+   "hits": 5,
+   "steps": [
+    [
+     2942.4,
+     8000
+    ],
+    [
+     2942.8,
+     14400
+    ],
+    [
+     2943.6,
+     15900
+    ],
+    [
+     2943.7,
+     17400
+    ],
+    [
+     2943.9,
+     19200
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.5,
+   "character": "Magik"
+  },
+  {
+   "segment": 22,
+   "side": "L",
+   "t0": 2948.7,
+   "t1": 2948.7,
+   "damage": 5500,
+   "hits": 1,
+   "steps": [
+    [
+     2948.7,
+     5500
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 22,
+   "side": "R",
+   "t0": 2949.6,
+   "t1": 2949.6,
+   "damage": 4000,
+   "hits": 1,
+   "steps": [
+    [
+     2949.6,
+     4000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 22,
+   "side": "R",
+   "t0": 2950.6,
+   "t1": 2952.0,
+   "damage": 19200,
+   "hits": 4,
+   "steps": [
+    [
+     2950.6,
+     8000
+    ],
+    [
+     2951.0,
+     14400
+    ],
+    [
+     2951.9,
+     17400
+    ],
+    [
+     2952.0,
+     19200
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.4,
+   "character": "Magik"
+  },
+  {
+   "segment": 22,
+   "side": "R",
+   "t0": 2953.4,
+   "t1": 2953.7,
+   "damage": 8400,
+   "hits": 2,
+   "steps": [
+    [
+     2953.4,
+     4000
+    ],
+    [
+     2953.7,
+     8400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.3,
+   "character": "Magik"
+  },
+  {
+   "segment": 22,
+   "side": "L",
+   "t0": 2955.2,
+   "t1": 2955.2,
+   "damage": 7000,
+   "hits": 1,
+   "steps": [
+    [
+     2955.2,
+     7000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 22,
+   "side": "L",
+   "t0": 2957.7,
+   "t1": 2957.7,
+   "damage": 6500,
+   "hits": 1,
+   "steps": [
+    [
+     2957.7,
+     6500
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 22,
+   "side": "L",
+   "t0": 2959.1,
+   "t1": 2959.1,
+   "damage": 6000,
+   "hits": 1,
+   "steps": [
+    [
+     2959.1,
+     6000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 22,
+   "side": "L",
+   "t0": 2959.6,
+   "t1": 2960.2,
+   "damage": 13000,
+   "hits": 3,
+   "steps": [
+    [
+     2959.6,
+     7000
+    ],
+    [
+     2960.0,
+     8600
+    ],
+    [
+     2960.2,
+     13000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.6,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 23,
+   "side": "R",
+   "t0": 2974.2,
+   "t1": 2977.1,
+   "damage": 22205,
+   "hits": 8,
+   "steps": [
+    [
+     2974.2,
+     8000
+    ],
+    [
+     2974.6,
+     14400
+    ],
+    [
+     2975.4,
+     15900
+    ],
+    [
+     2975.5,
+     17400
+    ],
+    [
+     2975.6,
+     19200
+    ],
+    [
+     2976.5,
+     20800
+    ],
+    [
+     2976.8,
+     21600
+    ],
+    [
+     2977.1,
+     22205
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.9,
+   "character": "Magik"
+  },
+  {
+   "segment": 23,
+   "side": "L",
+   "t0": 2980.4,
+   "t1": 2981.6,
+   "damage": 16200,
+   "hits": 4,
+   "steps": [
+    [
+     2980.4,
+     4500
+    ],
+    [
+     2980.7,
+     10000
+    ],
+    [
+     2981.2,
+     13200
+    ],
+    [
+     2981.6,
+     16200
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.2,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 23,
+   "side": "L",
+   "t0": 2988.2,
+   "t1": 2988.4,
+   "damage": 8000,
+   "hits": 3,
+   "steps": [
+    [
+     2988.2,
+     2500
+    ],
+    [
+     2988.3,
+     5000
+    ],
+    [
+     2988.4,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.2,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 23,
+   "side": "R",
+   "t0": 2995.2,
+   "t1": 2996.9,
+   "damage": 19800,
+   "hits": 6,
+   "steps": [
+    [
+     2995.2,
+     7000
+    ],
+    [
+     2995.5,
+     11800
+    ],
+    [
+     2995.9,
+     16600
+    ],
+    [
+     2996.7,
+     17600
+    ],
+    [
+     2996.8,
+     18600
+    ],
+    [
+     2996.9,
+     19800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.7,
+   "character": "Magik"
+  },
+  {
+   "segment": 24,
+   "side": "L",
+   "t0": 3015.9,
+   "t1": 3016.7,
+   "damage": 15200,
+   "hits": 4,
+   "steps": [
+    [
+     3015.9,
+     8000
+    ],
+    [
+     3016.5,
+     10800
+    ],
+    [
+     3016.6,
+     12800
+    ],
+    [
+     3016.7,
+     15200
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.8,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 24,
+   "side": "L",
+   "t0": 3018.9,
+   "t1": 3018.9,
+   "damage": 8000,
+   "hits": 1,
+   "steps": [
+    [
+     3018.9,
+     8000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 24,
+   "side": "R",
+   "t0": 3020.0,
+   "t1": 3022.6,
+   "damage": 22400,
+   "hits": 6,
+   "steps": [
+    [
+     3020.0,
+     8000
+    ],
+    [
+     3020.4,
+     14400
+    ],
+    [
+     3021.3,
+     17400
+    ],
+    [
+     3021.4,
+     19200
+    ],
+    [
+     3022.1,
+     21600
+    ],
+    [
+     3022.6,
+     22400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.6,
+   "character": "Magik"
+  },
+  {
+   "segment": 24,
+   "side": "R",
+   "t0": 3025.3,
+   "t1": 3026.4,
+   "damage": 17000,
+   "hits": 4,
+   "steps": [
+    [
+     3025.3,
+     6000
+    ],
+    [
+     3025.4,
+     9000
+    ],
+    [
+     3026.3,
+     14280
+    ],
+    [
+     3026.4,
+     17000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 24,
+   "side": "R",
+   "t0": 3029.2,
+   "t1": 3032.2,
+   "damage": 22440,
+   "hits": 8,
+   "steps": [
+    [
+     3029.2,
+     8000
+    ],
+    [
+     3029.7,
+     12800
+    ],
+    [
+     3030.0,
+     17600
+    ],
+    [
+     3030.9,
+     18600
+    ],
+    [
+     3031.0,
+     19600
+    ],
+    [
+     3031.1,
+     20800
+    ],
+    [
+     3031.7,
+     22000
+    ],
+    [
+     3032.2,
+     22440
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 3.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 24,
+   "side": "L",
+   "t0": 3034.4,
+   "t1": 3036.2,
+   "damage": 17900,
+   "hits": 5,
+   "steps": [
+    [
+     3034.4,
+     6500
+    ],
+    [
+     3035.0,
+     11300
+    ],
+    [
+     3035.6,
+     14900
+    ],
+    [
+     3035.9,
+     15700
+    ],
+    [
+     3036.2,
+     17900
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.8,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 24,
+   "side": "R",
+   "t0": 3038.6,
+   "t1": 3038.7,
+   "damage": 9000,
+   "hits": 2,
+   "steps": [
+    [
+     3038.6,
+     5600
+    ],
+    [
+     3038.7,
+     9000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 24,
+   "side": "L",
+   "t0": 3040.1,
+   "t1": 3042.5,
+   "damage": 20100,
+   "hits": 7,
+   "steps": [
+    [
+     3040.1,
+     8000
+    ],
+    [
+     3040.4,
+     9600
+    ],
+    [
+     3040.7,
+     14000
+    ],
+    [
+     3041.2,
+     16400
+    ],
+    [
+     3041.6,
+     18400
+    ],
+    [
+     3041.9,
+     19500
+    ],
+    [
+     3042.5,
+     20100
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.4,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 24,
+   "side": "L",
+   "t0": 3044.4,
+   "t1": 3046.0,
+   "damage": 17600,
+   "hits": 6,
+   "steps": [
+    [
+     3044.4,
+     6000
+    ],
+    [
+     3044.7,
+     10000
+    ],
+    [
+     3045.0,
+     13600
+    ],
+    [
+     3045.3,
+     14400
+    ],
+    [
+     3045.6,
+     16600
+    ],
+    [
+     3046.0,
+     17600
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.6,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 25,
+   "side": "R",
+   "t0": 3065.6,
+   "t1": 3065.6,
+   "damage": 4000,
+   "hits": 1,
+   "steps": [
+    [
+     3065.6,
+     4000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.0,
+   "character": "Magik"
+  },
+  {
+   "segment": 25,
+   "side": "L",
+   "t0": 3068.0,
+   "t1": 3069.3,
+   "damage": 13700,
+   "hits": 4,
+   "steps": [
+    [
+     3068.0,
+     4000
+    ],
+    [
+     3068.5,
+     8000
+    ],
+    [
+     3068.8,
+     11300
+    ],
+    [
+     3069.3,
+     13700
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 1.3,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 25,
+   "side": "R",
+   "t0": 3072.3,
+   "t1": 3083.4,
+   "damage": 14400,
+   "hits": 2,
+   "steps": [
+    [
+     3072.3,
+     8000
+    ],
+    [
+     3083.4,
+     14400
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 11.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 25,
+   "side": "L",
+   "t0": 3072.9,
+   "t1": 3077.7,
+   "damage": 23135,
+   "hits": 11,
+   "steps": [
+    [
+     3072.9,
+     4000
+    ],
+    [
+     3073.2,
+     8800
+    ],
+    [
+     3073.6,
+     13600
+    ],
+    [
+     3074.3,
+     15600
+    ],
+    [
+     3074.5,
+     17600
+    ],
+    [
+     3074.9,
+     18120
+    ],
+    [
+     3075.2,
+     19940
+    ],
+    [
+     3076.1,
+     20940
+    ],
+    [
+     3076.9,
+     21980
+    ],
+    [
+     3077.4,
+     22530
+    ],
+    [
+     3077.7,
+     23135
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 4.8,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 25,
+   "side": "L",
+   "t0": 3079.2,
+   "t1": 3081.5,
+   "damage": 18175,
+   "hits": 6,
+   "steps": [
+    [
+     3079.2,
+     5500
+    ],
+    [
+     3079.6,
+     10300
+    ],
+    [
+     3080.1,
+     13900
+    ],
+    [
+     3081.0,
+     16300
+    ],
+    [
+     3081.3,
+     16800
+    ],
+    [
+     3081.5,
+     18175
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 2.3,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 25,
+   "side": "R",
+   "t0": 3085.4,
+   "t1": 3085.5,
+   "damage": 9000,
+   "hits": 2,
+   "steps": [
+    [
+     3085.4,
+     5600
+    ],
+    [
+     3085.5,
+     9000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Magik"
+  },
+  {
+   "segment": 25,
+   "side": "R",
+   "t0": 3090.4,
+   "t1": 3091.1,
+   "damage": 13600,
+   "hits": 3,
+   "steps": [
+    [
+     3090.4,
+     4000
+    ],
+    [
+     3090.7,
+     8800
+    ],
+    [
+     3091.1,
+     13600
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.7,
+   "character": "Magik"
+  },
+  {
+   "segment": 25,
+   "side": "L",
+   "t0": 3094.0,
+   "t1": 3104.2,
+   "damage": 12800,
+   "hits": 3,
+   "steps": [
+    [
+     3094.0,
+     4000
+    ],
+    [
+     3103.4,
+     8000
+    ],
+    [
+     3104.2,
+     12800
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 10.2,
+   "character": "Spider-Man"
+  },
+  {
+   "segment": 25,
+   "side": "R",
+   "t0": 3098.1,
+   "t1": 3098.2,
+   "damage": 9000,
+   "hits": 2,
+   "steps": [
+    [
+     3098.1,
+     2300
+    ],
+    [
+     3098.2,
+     9000
+    ]
+   ],
+   "hits_are": "a lower bound - two hits can land inside one 0.1s sample",
+   "span": 0.1,
+   "character": "Magik"
+  }
+ ],
+ "punishes": [
+  {
+   "seg": 1,
+   "side": "R",
+   "caption_t": 1388.9,
+   "damage": 15800,
+   "hits": 4,
+   "t0": 1387.3,
+   "span": 1.2,
+   "character": "Magik",
+   "hit_index": 4,
+   "caption_lag": 0.4,
+   "from_punish_on": 1600,
+   "receipt": "Punish! at 1388.9s; the hit it follows landed 0.4s earlier (hit 4 of the combo \u2014 the counter had not reset), and that combo reached 15,800 damage over 4 readings"
+  },
+  {
+   "seg": 2,
+   "side": "R",
+   "caption_t": 1439.2,
+   "damage": 22205,
+   "hits": 7,
+   "t0": 1438.0,
+   "span": 2.9,
+   "character": "Magik",
+   "hit_index": 2,
+   "caption_lag": 0.8,
+   "from_punish_on": 14205,
+   "receipt": "Punish! at 1439.2s; the hit it follows landed 0.8s earlier (hit 2 of the combo \u2014 the counter had not reset), and that combo reached 22,205 damage over 7 readings"
+  },
+  {
+   "seg": 3,
+   "side": "R",
+   "caption_t": 1486.4,
+   "damage": 21000,
+   "hits": 7,
+   "t0": 1484.9,
+   "span": 2.3,
+   "character": "Magik",
+   "hit_index": 4,
+   "caption_lag": 0.0,
+   "from_punish_on": 4400,
+   "receipt": "Punish! at 1486.4s; the hit it follows landed 0.0s earlier (hit 4 of the combo \u2014 the counter had not reset), and that combo reached 21,000 damage over 7 readings"
+  },
+  {
+   "seg": 3,
+   "side": "R",
+   "caption_t": 1512.4,
+   "damage": 4000,
+   "hits": 1,
+   "t0": 1511.0,
+   "span": 0.0,
+   "character": "Magik",
+   "hit_index": 1,
+   "caption_lag": 1.4,
+   "from_punish_on": 4000,
+   "receipt": "Punish! at 1512.4s; the hit it follows landed 1.4s earlier, and that combo reached 4,000 damage over 1 reading"
+  },
+  {
+   "seg": 6,
+   "side": "R",
+   "caption_t": 1718.1,
+   "damage": 11800,
+   "hits": 2,
+   "t0": 1716.6,
+   "span": 0.4,
+   "character": "Magik",
+   "hit_index": 2,
+   "caption_lag": 1.1,
+   "from_punish_on": 4800,
+   "receipt": "Punish! at 1718.1s; the hit it follows landed 1.1s earlier (hit 2 of the combo \u2014 the counter had not reset), and that combo reached 11,800 damage over 2 readings"
+  },
+  {
+   "seg": 7,
+   "side": "R",
+   "caption_t": 1780.2,
+   "damage": 8000,
+   "hits": 1,
+   "t0": 1779.7,
+   "span": 0.0,
+   "character": "Magik",
+   "hit_index": 1,
+   "caption_lag": 0.5,
+   "from_punish_on": 8000,
+   "receipt": "Punish! at 1780.2s; the hit it follows landed 0.5s earlier, and that combo reached 8,000 damage over 1 reading"
+  },
+  {
+   "seg": 8,
+   "side": "R",
+   "caption_t": 1834.2,
+   "damage": 12400,
+   "hits": 3,
+   "t0": 1833.9,
+   "span": 0.7,
+   "character": "Magik",
+   "hit_index": 1,
+   "caption_lag": 0.3,
+   "from_punish_on": 12400,
+   "receipt": "Punish! at 1834.2s; the hit it follows landed 0.3s earlier, and that combo reached 12,400 damage over 3 readings"
+  },
+  {
+   "seg": 11,
+   "side": "R",
+   "caption_t": 2006.7,
+   "damage": 10000,
+   "hits": 1,
+   "t0": 2005.2,
+   "span": 0.0,
+   "character": "Captain America",
+   "hit_index": 1,
+   "caption_lag": 1.5,
+   "from_punish_on": 10000,
+   "receipt": "Punish! at 2006.7s; the hit it follows landed 1.5s earlier, and that combo reached 10,000 damage over 1 reading"
+  },
+  {
+   "seg": 12,
+   "side": "R",
+   "caption_t": 2079.6,
+   "damage": 2000,
+   "hits": 1,
+   "t0": 2079.1,
+   "span": 0.0,
+   "character": "Captain America",
+   "hit_index": 1,
+   "caption_lag": 0.5,
+   "from_punish_on": 2000,
+   "receipt": "Punish! at 2079.6s; the hit it follows landed 0.5s earlier, and that combo reached 2,000 damage over 1 reading"
+  },
+  {
+   "seg": 13,
+   "side": "R",
+   "caption_t": 2222.9,
+   "damage": 5500,
+   "hits": 1,
+   "t0": 2222.5,
+   "span": 0.0,
+   "character": "Storm",
+   "hit_index": 1,
+   "caption_lag": 0.4,
+   "from_punish_on": 5500,
+   "receipt": "Punish! at 2222.9s; the hit it follows landed 0.4s earlier, and that combo reached 5,500 damage over 1 reading"
+  },
+  {
+   "seg": 19,
+   "side": "R",
+   "caption_t": 2710.9,
+   "damage": 16900,
+   "hits": 5,
+   "t0": 2709.8,
+   "span": 1.3,
+   "character": "Magik",
+   "hit_index": 4,
+   "caption_lag": 0.2,
+   "from_punish_on": 2700,
+   "receipt": "Punish! at 2710.9s; the hit it follows landed 0.2s earlier (hit 4 of the combo \u2014 the counter had not reset), and that combo reached 16,900 damage over 5 readings"
+  },
+  {
+   "seg": 20,
+   "side": "R",
+   "caption_t": 2755.0,
+   "damage": 11800,
+   "hits": 2,
+   "t0": 2754.1,
+   "span": 0.3,
+   "character": "Magik",
+   "hit_index": 2,
+   "caption_lag": 0.6,
+   "from_punish_on": 4800,
+   "receipt": "Punish! at 2755.0s; the hit it follows landed 0.6s earlier (hit 2 of the combo \u2014 the counter had not reset), and that combo reached 11,800 damage over 2 readings"
+  },
+  {
+   "seg": 20,
+   "side": "R",
+   "caption_t": 2802.0,
+   "damage": 31055,
+   "hits": 8,
+   "t0": 2801.0,
+   "span": 6.0,
+   "character": "Magik",
+   "hit_index": 1,
+   "caption_lag": 1.0,
+   "from_punish_on": 31055,
+   "receipt": "Punish! at 2802.0s; the hit it follows landed 1.0s earlier, and that combo reached 31,055 damage over 8 readings"
+  },
+  {
+   "seg": 22,
+   "side": "R",
+   "caption_t": 2943.8,
+   "damage": 19200,
+   "hits": 5,
+   "t0": 2942.4,
+   "span": 1.5,
+   "character": "Magik",
+   "hit_index": 4,
+   "caption_lag": 0.1,
+   "from_punish_on": 3300,
+   "receipt": "Punish! at 2943.8s; the hit it follows landed 0.1s earlier (hit 4 of the combo \u2014 the counter had not reset), and that combo reached 19,200 damage over 5 readings"
+  },
+  {
+   "seg": 23,
+   "side": "R",
+   "caption_t": 2975.3,
+   "damage": 22205,
+   "hits": 8,
+   "t0": 2974.2,
+   "span": 2.9,
+   "character": "Magik",
+   "hit_index": 2,
+   "caption_lag": 0.7,
+   "from_punish_on": 14205,
+   "receipt": "Punish! at 2975.3s; the hit it follows landed 0.7s earlier (hit 2 of the combo \u2014 the counter had not reset), and that combo reached 22,205 damage over 8 readings"
+  }
+ ],
+ "check": {
+  "increments_matching_damage": 702,
+  "not_matching": 54,
+  "of_those_an_exact_multiple": 45,
+  "share_ok": 0.929
+ }
+}
