@@ -10,6 +10,7 @@ requires-python = ">=3.9"
 dependencies = ["numpy>=1.20"]
 
 [project.optional-dependencies]
+vision = ["Pillow>=10"]
 validate = ["jsonschema>=4"]
 
 [project.scripts]

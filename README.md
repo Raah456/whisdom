@@ -116,6 +116,17 @@ The suites are scripts, not pytest cases — run them directly:
 python tests/test_schema.py
 ```
 
+For `test_vision.py`, install the vision extra so it does not skip because
+Pillow is missing:
+
+```bash
+pip install -e .[vision]
+python tests/test_vision.py
+```
+
+The vision test also needs ffmpeg on PATH, your recording (`WHISDOM_VIDEO`),
+and its verified replay (`WHISDOM_REPLAY`). It still skips if those are missing.
+
 They need gameplay data, which is personal and not in the repo. Without it they
 print `SKIPPED — this is a SKIP, not a pass` and exit 0. Point them at your own:
 
