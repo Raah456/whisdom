@@ -113,6 +113,7 @@ the folder icon). Tokon needs a recording you made yourself.
 The suites are scripts, not pytest cases — run them directly:
 
 ```bash
+pip install -e ".[validate]"  # schema validation needs jsonschema
 python tests/test_schema.py
 ```
 
@@ -120,7 +121,7 @@ For `test_vision.py`, install the vision extra so it does not skip because
 Pillow is missing:
 
 ```bash
-pip install -e .[vision]
+pip install -e ".[vision]"
 python tests/test_vision.py
 ```
 
